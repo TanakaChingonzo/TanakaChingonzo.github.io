@@ -12,12 +12,12 @@ It is minimalist, modern and well-crafted responsive HTML5 resume template for a
 
 Credits:
 
-<a href="http://getbootstrap.com/">Bootstrap</a>
-<a href="https://fortawesome.github.io/Font-Awesome/">Font Awesome</a>
-<a href="https://daneden.github.io/animate.css/">Animate.css</a>
-<a href="http://dimsemenov.com/plugins/magnific-popup/">Magnific Popup</a>
-<a href="https://github.com/protonet/jquery.inview">Inview JS</a>
-<a href="http://vestride.github.io/Shuffle/">Shuffle</a>
+<a href="http://getbootstrap.com/">Bootstrap</a>| 
+<a href="https://fortawesome.github.io/Font-Awesome/">Font Awesome</a>| 
+<a href="https://daneden.github.io/animate.css/">Animate.css</a>| 
+<a href="http://dimsemenov.com/plugins/magnific-popup/">Magnific Popup</a>| 
+<a href="https://github.com/protonet/jquery.inview">Inview JS</a>| 
+<a href="http://vestride.github.io/Shuffle/">Shuffle</a>| 
 
 Originally designed by <a href="https://github.com/ahmedfaruk/iamx-html">Ahmed Faruk</a>
 

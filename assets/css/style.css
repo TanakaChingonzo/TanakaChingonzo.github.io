@@ -5637,3 +5637,19 @@ screen and (max-height: 300px) {
     right: 0;
     padding-top: 0;
 }
+
+html,body {
+  font-family: 'Raleway', sans-serif;
+  padding: 1em 2em;
+  font-size: 18px;
+  background: rgba(11, 157, 246, 0), ;
+  color: #aaa
+}
+
+h1,h2 {
+  font-weight: 200;
+  margin: 0.4em 0;
+}
+h1 { font-size: 3.5em;
+color: #52B3D9;
+}

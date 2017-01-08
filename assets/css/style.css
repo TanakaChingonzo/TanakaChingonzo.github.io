@@ -3316,6 +3316,7 @@ ul.list-check li::before {
 }
 
 
+
 /*===MAIN===*/
 
 .section-padding {
@@ -4342,7 +4343,6 @@ ul.list-check li::before {
 
 .tt-overlay-bg {
     background: rgba(26, 30, 35, 0.85);
-    padding: 110px 0;
 }
 
 .count-wrap i {
@@ -4637,15 +4637,34 @@ ul.list-check li::before {
 }
 
 
-/*===Home Page Two===*/
+/* ---------------------------------------------- /* * Scroll down/* ---------------------------------------------- */
 
-#homeTwo {
-    background: url(../images/home-2.jpg) no-repeat center center;
-    background-color: #222;
-    background-size: cover;
-    padding: 0;
-    position: relative;
+.scroll-down {
+    position: fixed;
+    display: block;
+    z-index: 999;
+    bottom: 1.8em;
+    right: 1.8em;
+    visibility: 100%;
 }
+
+.scroll-down a {
+    background-color: #10a4da;
+    display: block;
+    width: 28px;
+    height: 28px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+.scroll-down a:hover,
+.scroll-down a:active {
+    background-color: rgba(235, 235, 235, .8);
+    color: #222;
+}
+
 
 
 /*===About Section===*/
@@ -4826,6 +4845,16 @@ ul.list-check li::before {
         font-size: 40px;
         line-height: 40px;
     }
+    .social-icons-bottom ul {
+        margin-left: 0;
+    }
+    .social-icons-bottom li {
+        padding: 0;
+    }
+    .social-icons-bottom a i {
+        margin: 0 5px;
+    }
+
     .social-icons ul {
         margin-left: 0;
     }
@@ -4835,6 +4864,7 @@ ul.list-check li::before {
     .social-icons a i {
         margin: 0 5px;
     }
+
     .navbar-custom .navbar-brand,
     .navbar-custom .navbar-nav > li > a,
     .navbar-custom .navbar-nav .dropdown-menu > li > a {
@@ -5057,9 +5087,6 @@ ul.list-check li::before {
 /* Small devices (tablets, 768px and up) */
 
 @media (min-width: 768px) and (max-width: 991px) {
-    .navbar-custom .navbar-brand {
-        padding: 10px 15px;
-    }
     .navbar-custom .navbar-nav > li > a,
     .navbar-custom .navbar-nav .dropdown-menu > li > a {
         font-size: 12px;
@@ -5640,10 +5667,8 @@ screen and (max-height: 300px) {
 
 html,body {
   font-family: 'Raleway', sans-serif;
-  padding: 1em 2em;
   font-size: 18px;
-  background: rgba(11, 157, 246, 0), ;
-  color: #aaa
+  color: #aaa;
 }
 
 h1,h2 {

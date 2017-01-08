@@ -3351,10 +3351,70 @@ ul.list-check li::before {
 /*===HOME===*/
 
 @media (max-width: 640px) {
+    background: url(../images/land.jpg) no-repeat center center;
+    -webkit-background-attachment: fixed;
+    position: fixed;
+    height: 100%;
+    width: auto;
+    background-size: cover;
+    padding: 0;
+    position: relative;
     .tt-fullHeight {
         height: 560px !important;
     }
 }
+
+ /* Tabled Portrait */
+    @media screen and (max-width: 768px) {
+        background: url(../images/land.jpg) no-repeat center center;
+    -webkit-background-attachment: fixed;
+    position: fixed;
+    height: 100%;
+    width: auto;
+    background-size: cover;
+    padding: 0;
+    position: relative;
+        #wrapper { width:100%; }
+     }
+
+    /* Tabled Portrait */
+    @media screen and (max-width: 768px) {
+        background: url(../images/land.jpg) no-repeat center center;
+    -webkit-background-attachment: fixed;
+    position: fixed;
+    height: 100%;
+    width: auto;
+    background-size: cover;
+    padding: 0;
+    position: relative;
+        #wrapper { width:100%; }
+     }
+
+     /* iphone */
+    @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+        background: url(../images/land.jpg) no-repeat center center;
+    -webkit-background-attachment: fixed;
+    position: fixed;
+    height: 100%;
+    width: auto;
+    background-size: cover;
+    padding: 0;
+    position: relative;
+        img { max-width: 100%; }
+    }
+
+    /* ipad */
+    @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+        background: url(../images/land.jpg) no-repeat center center;
+    -webkit-background-attachment: fixed;
+    position: fixed;
+    height: 100%;
+    width: auto;
+    background-size: cover;
+    padding: 0;
+    position: relative;
+img { max-width: 100%; }
+    }
 
 #home {
     background: url(../images/land.jpg) no-repeat center center;

@@ -3538,16 +3538,6 @@ img { max-width: 100%; }
     background: #fff;
 }
 
-.header::after {
-    border-bottom: 1px solid #eee;
-    width: 100%;
-    position: absolute;
-    content: "";
-    height: 2px;
-    bottom: 1px;
-    left: 0;
-}
-
 .navbar-custom {
     border: 0;
     border-radius: 0;

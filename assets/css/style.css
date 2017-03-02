@@ -3351,7 +3351,7 @@ ul.list-check li::before {
 /*===HOME===*/
 
 @media (max-width: 640px) {
-    background: url(../images/tanaka.png) no-repeat center center;
+    background: url(../images/land.jpg) no-repeat center center;
     -webkit-background-attachment: fixed;
     position: fixed;
     height: 100%;
@@ -3366,7 +3366,7 @@ ul.list-check li::before {
 
  /* Tabled Portrait */
     @media screen and (max-width: 768px) {
-        background: url(../images/tanaka.png) no-repeat center center;
+        background: url(../images/land.jpg) no-repeat center center;
     -webkit-background-attachment: fixed;
     position: fixed;
     height: 100%;
@@ -3379,7 +3379,7 @@ ul.list-check li::before {
 
     /* Tabled Portrait */
     @media screen and (max-width: 768px) {
-        background: url(../images/tanaka.png) no-repeat center center;
+        background: url(../images/land.jpg) no-repeat center center;
     -webkit-background-attachment: fixed;
     position: fixed;
     height: 100%;
@@ -3392,7 +3392,7 @@ ul.list-check li::before {
 
      /* iphone */
     @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-        background: url(../images/tanaka.png) no-repeat center center;
+        background: url(../images/land.jpg) no-repeat center center;
     -webkit-background-attachment: fixed;
     position: fixed;
     height: 100%;
@@ -3405,7 +3405,7 @@ ul.list-check li::before {
 
     /* ipad */
     @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
-        background: url(../images/tanaka.png) no-repeat center center;
+        background: url(../images/land.jpg) no-repeat center center;
     -webkit-background-attachment: fixed;
     position: fixed;
     height: 100%;
@@ -3417,7 +3417,7 @@ img { max-width: 100%; }
     }
 
 #home {
-    background: url(../images/tanaka.png) no-repeat center center;
+    background: url(../images/land.jpg) no-repeat center center;
     -webkit-background-attachment: fixed;
     position: fixed;
     height: 100%;

@@ -83,7 +83,6 @@ ul.list-check li::before {
 }
 
 #home:before {
-    background-color: rgba(26, 30, 35, .4);
     top: 0;
     height: 100%
 }

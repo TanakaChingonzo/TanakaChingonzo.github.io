@@ -172,6 +172,9 @@ body,
 html {
     font-family: Raleway, sans-serif;
     font-size: 18px;
-    color: #aaa
+    color: #aaa;
 }
 
+a{
+    color: white;
+}

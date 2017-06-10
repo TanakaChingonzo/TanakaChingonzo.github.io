@@ -4335,12 +4335,6 @@ ul.list-check li::before {
     position: absolute;
     left: 0;
 }
-.hire-section {
-    background: url(../../assets/images/hire-bg.jpg) no-repeat top center #0b9df6;
-    background-attachment: fixed;
-    background-size: cover;
-    color: #fff;
-}
 .hire-section-bg {
     padding: 110px 0;
     background: -webkit-linear-gradient(bottom, #0b9df6, rgba(104, 195, 163, 0.7));

@@ -1,81 +1,45 @@
-<!DOCTYPE html>
-<html lang=en>
-<meta charset=UTF-8>
-<meta content="width=device-width,initial-scale=1" name=viewport>
-<meta content="Tanaka Chingonzo has diverse entrepreneurial and leadership experience. Tanaka is a member of the Global Engagement Summit network which he participated in at the 2016 summit at Northwestern University in Chicago. he currently, develops websites for social ventures and run Apply.co.zw while interning at Education USA- a department within the US Embassy's public affairs section specializing in education in the United States. He also writes the Africa in progress column on the African Exponent and Thrive Global." name=description>
-<meta content="Tanaka Chingonzo" name=author>
-<meta content="Tanaka Chingonzo, Tanaka, Chingonzo, Zimbabwe, Innovation, Creativity, Zimbabwean Creativity, Entrepreneur, Zimbabwean Entrepreneur" name=keywords>
-<meta content=DF6EFA3DFDBFF0D4F3AAD9B490C1D9A2 name=msvalidate.01>
-<title>Tanaka Chingonzo</title>
+---
+layout: default
+lang: en
+ref: index
+image: true
+exclude: true
+---
 
-<head itemscope itemtype=http://tanaka.co.zw>
-    <title itemprop=name>Tanaka Chingonzo</title>
-    <link href=https://tanaka.co.zw/ rel=canonical itemprop=url>
-    <title itemprop=alternateName>Tanaka Gregory Chingonzo</title>
-    <link href=assets/images/ico/favicon.ico rel=icon type=image/x-icon>
-    <script type=application/ld+json>{"@context": "http://tanaka.co.zw/", "@type": "Individual", "url": "http://tanaka.co.zw/", "contactPoint": [{"@type": "Tanaka", "telephone": "+263773437375", "contactType": "main"}]}</script>
-    <script>
-        ! function(e, t, a, n, c, o, s) {
-            e.GoogleAnalyticsObject = c, e[c] = e[c] || function() {
-                (e[c].q = e[c].q || []).push(arguments)
-            }, e[c].l = 1 * new Date, o = t.createElement(a), s = t.getElementsByTagName(a)[0], o.async = 1, o.src = "https://www.google-analytics.com/analytics.js", s.parentNode.insertBefore(o, s)
-        }(window, document, "script", 0, "ga"), ga("create", "UA-83940835-1", "auto"), ga("send", "pageview")
-    </script>
+{% include core/metabar.html %}
 
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window,
-            document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '1260650254048571'); // Insert your pixel ID here.
-        fbq('track', 'PageView');
-    </script>
-    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1260650254048571&ev=PageView&noscript=1" /></noscript>
-    <!-- DO NOT MODIFY -->
-    <!-- End Facebook Pixel Code -->
+<article class="content">
 
-    <section class=tt-fullHeight id=home data-stellar-background-ratio=1 data-stellar-vertical-offset=50>
-        <div class=intro>
-            <link href="http://fonts.googleapis.com/css?family=Raleway:200,100,400" rel=stylesheet>
-            <p> Curating stories of progress
-                <div class=social-icons>
-                    <ul class=list-inline>
-                    <li><a href=http://www.tanaka.co.zw/blog target=_blank><i class="fa  fa-rss"></i></a>
-                        <li><a href=https://www.facebook.com/tanaka.ching target=_blank><i class="fa fa-facebook"></i></a>
-                            <li><a href=https://www.instagram.com/tanakachingonzo/ target=_blank><i class="fa fa-instagram"></i></a>
-                                <li><a href=https://twitter.com/TaNaKaGreg target=_blank><i class="fa fa-twitter"></i></a>
-                                    <li><a href="https://www.linkedin.com/in/tanakachingonzo?trk=hp-identity-name" target=_blank><i class="fa fa-linkedin"></i></a>
-                                        <li><a href=https://github.com/TanakaChingonzo target=_blank><i class="fa fa-github"></i></a>
-                                        </ul>
-                                        <br>
-                                        <br>
-                                        <p><a href="http://tanaka.co.zw/gallery" target="_blank">Gallery</a></p>
-                </div>
-        </div>
-    </section>
+  <header class="hero">
+    <h1 class="hero-title">{{ site.description }}</h1>
+    {% include core/share.html %}
+    {% if page.image %}
+      <div class="hero-image" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}.jpg'); background-image: -webkit-image-set( url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}.jpg') 1x, url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}-large.jpg') 2x )"></div>
+    {% endif %}
+  </header>
 
+  <section id="about" class="section">
+    <h2 class="section-title">About</h2>
+    <article>
+      <h3 class="section-header">Made by Connor.</h3>
+      <p class="section-body">Change is a minimalistic, duo-chromatic <a href="http://jekyllrb.com">Jekyll theme</a> that pairs a prominent headline with two column content. You are free to use it under the <a href="https://github.com/madebyconnor/change/blob/master/LICENSE.md">MIT license</a>.</p>
+      <a class="section-link" href="{{ site.github.repo }}">Fork on GitHub</a>
+    </article>
+  </section>
 
+  <section id="posts" class="section">
+    <h2 class="section-title">Posts</h2>
+    <article class="section-writing">
+      {% assign posts = site.posts | sort: 'order' | where:"lang", page.lang | limit: 3 %}
+      {% for page in posts %}
+      <h3 class="section-header"><a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h3>
+        {% include core/date.html %}
+        <p class="section-body">{{ page.excerpt | strip_html | truncatewords: 32 }}</p>
+      {% endfor %}
+      <a class="section-link" href="{{ site.social.medium }}">Read more on Medium</a>
+    </article>
+  </section>
 
-  
-    <link href=assets/bootstrap/css/bootstrap.min.css rel=stylesheet media=screen>
-    <link href=assets/css/font-awesome.min.css rel=stylesheet media=screen>
-    <link href=assets/css/style.css rel=stylesheet media=screen>
-    <script src=assets/js/jquery.js></script>
-    <script src=assets/bootstrap/js/bootstrap.min.js></script>
-    <script src=assets/js/scripts.js></script>
-    </html>
+</article>
+
+{% include core/footer.html %}

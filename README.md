@@ -1,25 +1,43 @@
-Tanaka Chingonzo
+[![Build Status](https://travis-ci.org/madebyconnor/change.svg?branch=master)](https://travis-ci.org/madebyconnor/change) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/381a869edfa34ea1a424274cf2e791a7)](https://www.codacy.com/app/connor_baer/change?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=madebyconnor/change&amp;utm_campaign=Badge_Grade)
 
-This is my personal website. I based it on an open source HTML, CSS and Javascript boilerplate.
+# Change
 
-It is minimalist, modern and well-crafted responsive HTML5 resume template for any kind of creative professionals to show their education, experience, skills, and work history in a perfect way.
+[![Greenkeeper badge](https://badges.greenkeeper.io/madebyconnor/change.svg)](https://greenkeeper.io/)
 
-<p>
-<img src="http://trendytheme.net/wp-content/uploads/edd/2015/10/Free-template-imx-learg-preview-2.jpg">
-</p>
+Change is a minimalistic, duo-chromatic [Jekyll](http://jekyllrb.com) theme that pairs a prominent headline with two column content.
 
-Credits:
 
-<a href="http://getbootstrap.com/">Bootstrap</a>| 
-<a href="https://fortawesome.github.io/Font-Awesome/">Font Awesome</a>| 
-<a href="https://daneden.github.io/animate.css/">Animate.css</a>| 
-<a href="http://dimsemenov.com/plugins/magnific-popup/">Magnific Popup</a>| 
-<a href="https://github.com/protonet/jquery.inview">Inview JS</a>| 
-<a href="http://vestride.github.io/Shuffle/">Shuffle</a>| 
+![Change screenshot](https://github.com/madebyconnor/change/blob/master/_images/screenshot.png)
 
-Originally designed by <a href="https://github.com/ahmedfaruk/iamx-html">Ahmed Faruk</a>
 
-Contact Ahmed: 
-<p>
-<a href="https://twitter.com/ahmedfaruk_me">Twitter</a>, <a href="https://www.facebook.com/ahmedfaruk.me">Facebook</a>, <a href="https://plus.google.com/u/0/114068300126923667161">Google+</a>
-</p>
+## Contents
+
+- [Usage](#usage)
+- [Options](#options)
+- [Author](#author)
+- [License](#license)
+
+
+## Usage
+
+Change provides a fully furnished Jekyll setup — just download and run `gulp default` to start the Jekyll server. If you haven't installed Jekyll yet, follow the official [installation instructions](https://jekyllrb.com/docs/installation/).
+
+
+## Options
+
+*Change* includes some customizable options, applied via options in the `_config.yaml` file. A standout feature is the dark theme.
+Have a look at the `_config.yaml` file for all available options.
+
+
+## Author
+
+**Connor Bär**
+- <https://github.com/connor-baer>
+- <https://twitter.com/connor_baer>
+
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+💜

@@ -11,7 +11,7 @@ This poem was originally wgitritten and published by [Forest Woodward's father](
 
 ![Tanaka Chingonzo at the Rainbow run](https://fb-s-c-a.akamaihd.net/h-ak-fbx/v/t1.0-9/18670865_2087418268152130_3420676782666202320_n.jpg?oh=f939192c01e37a488c35b24bfb48da39&oe=5A07D2B4&__gda__=1506199903_cc8f68193b3be161f5fd9d16ae9514a0)
 
-*The winter his father turned 70, filmmaker and photographer Forest Woodward found a poem his father had written in 1986, the year Woodward was born. It was called "The Important Places."*
+*The winter his father turned 70, filmmaker and photographer Forest Woodward found a poem his father had written in 1986, the year Woodward was born. It was called "[The Important places](https://www.artifactuprising.com/the-important-places)*
 
 Child of Mine, come<br>
 as you grow in youth<br>

@@ -7,7 +7,7 @@ image: "img/Tanaka Chingonzo's wrist watch and contemplating time.jpg"
 date:   2017-02-26 01:52:12
 ---
 
-![checking the time at 20](img/Tanaka Chingonzo's wrist watch and contemplating time.jpg)
+![checking the time at 20](https://cdn-images-1.medium.com/max/2000/1*HsTTCNUKt7LwBdq_etZV5g.jpeg)
 
 
 Gratitude. I turned twenty today. I feel 18 much like I did yesterday. Except, reflecting on the last year, this is the one word that I feel most completely sums up how I feel- gratitude. 42 people have posted Happy birthday on my Facebook timeline as I write this. Another two have just posted, so make that 44. Is that the metric by which I should measure the connections and friendships I have made in the last 20 years? Each of those 44 messages is someone wishing me well. Each Facebook message, each Whatsapp message, each Skype call, each hurried whisper and smile, it’s feeling, communicated. I am incredibly grateful for the people and connections I’ve made in my last 20 years. The thought and the effort to translate that feeling into words means an incredible lot to me.

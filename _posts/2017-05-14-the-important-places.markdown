@@ -4,7 +4,7 @@ subtitle: "Youth"
 author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"
 image: "img/Tanaka Chingonzo and Rumbidzai Chikava at color splash.jpg"
-date:   2017-02-27 01:52:12
+date:   2017-05-14 01:52:12
 ---
 This poem was originally wgitritten and published by [Forest Woodward's father](https://www.artifactuprising.com/the-important-places)
 

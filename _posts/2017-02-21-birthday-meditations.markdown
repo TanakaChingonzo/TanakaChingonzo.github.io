@@ -4,7 +4,7 @@ subtitle: "I turned 20 today."
 author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"
 image: "img/Tanaka Chingonzo's wrist watch and contemplating time.jpg"
-date:   2017-02-26 01:52:12
+date:   2017-02-21 01:52:12
 ---
 
 ![checking the time at 20](https://cdn-images-1.medium.com/max/2000/1*HsTTCNUKt7LwBdq_etZV5g.jpeg)

@@ -13,6 +13,8 @@ This poem was originally wgitritten and published by [Forest Woodward's father](
 
 *The winter his father turned 70, filmmaker and photographer Forest Woodward found a poem his father had written in 1986, the year Woodward was born. It was called "[The Important places](https://www.artifactuprising.com/the-important-places)*
 
+
+
 Child of Mine, come<br>
 as you grow in youth<br>
 you will learn<br>

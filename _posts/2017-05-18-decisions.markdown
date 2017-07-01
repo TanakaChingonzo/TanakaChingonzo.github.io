@@ -4,7 +4,7 @@ subtitle: "Decisions"
 author: "Tanaka Chingonzo"
 date:   2017-02-27 01:52:12
 ---
-![How to find happiness in Difficult Decisions](https://cdn-images-1.medium.com/max/1000/0*GGyo25X4v0vuxoh1)
+![How to find happiness in Difficult Decisions](https://cdn-images-1.medium.com/max/1000/0*GGyo25X4v0vuxoh1.)
 
 We aren’t sure of ourselves anymore. Our generation pushes its decisions forward. Too often. We procrastinate, telling ourselves we need more information to make the decision. “I’ll do it later” we say, assuring ourselves we need to learn some more when in essence we are really just abstaining from making a choice. The problem with that is, indecision is a decision and the even bigger problem is that it’s a decision in which we give away the little control we have and leave everything to chance. Which is almost always to our detriment. Fun fact: “I won’t participate in this decision,” means I could make this better. But I won’t.
 

@@ -1,7 +1,7 @@
 ---
 layout: content
-title: About
-permalink: /about/
+title: About Tanaka Chingonzo
+permalink: /about-tanaka-chingonzo/
 ---
 ##Tanaka Chingonzo
 

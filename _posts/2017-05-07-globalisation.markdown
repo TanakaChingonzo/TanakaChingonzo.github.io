@@ -1,10 +1,8 @@
 ---
-title:  Globalization: Has it been a blessing or a curse in your community?
-subtitle: "The Economics of man."
-author: "Tanaka Chingonzo"
-avatar: "img/authors/tanaka.jpg"
-image: "img/Tanaka Chingonzo globalisation white paper.jpeg"
-date:   2017-04-05 01:52:12
+layout: post
+title:  "Globalisation in our communities"
+date:   2017-05-07 20:00:12
+categories: globalisation
 ---
 This article was written in response to a prompt by the [World Economic Forum's](https://www.weforum.org/) [Global Shapers](https://toplink.weforum.org/users/tanaka-chingonzo) Monthly prompt to the question: Globalization: Has it been a blessing or a curse in your community?
 

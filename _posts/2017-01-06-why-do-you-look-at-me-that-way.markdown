@@ -6,6 +6,7 @@ avatar: "img/authors/tanaka.jpg"
 image: "img/Tanaka Chingonzo- Why do you look at me that way.jpg"
 date:   2017-01-06 12:12:12
 ---
+![Why do you look at me that way](https://cdn-images-1.medium.com/max/1000/1*292lRGHFxnMjosG_-I4jBQ.jpeg)
 
 Why do you look at me that way? Do you see something in my eyes that no one else sees? A home? Life? Do you see yourself reflected in them? I do. I see myself reflected in your eyes and I look like you. The same hopes and dreams. The fear we share for death and loss. Poverty. How different we are. And yet the same.
 

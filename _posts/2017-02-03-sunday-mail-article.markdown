@@ -9,6 +9,8 @@ date:   2017-02-03 01:52:12
 
 This article was originally published in the [Sunday Mail here](http://www.sundaymail.co.zw/a-simple-workshop-changed-my-life/){:target="_blank"} In my lower sixth year of high school, a series of unexpected events were set in motion that would find my life change in the most remarkable ways the next couple of months.
 
+
+
 I heard about Harare Start up Weekend from my brother, Takunda, a prominent entrepreneur in the Zimbabwe innovation space.  He would be attending it and hearing him talk about it, I immediately decided to take advantage of his attending it to tag along and beat out a path for myself.
 
 Attending it that weekend in May 2014 found me jointly founding a company with a talented group of individuals. Our team was known as Combicode and we were working around making commuter omnibuses safer for the average Zimbabwean.

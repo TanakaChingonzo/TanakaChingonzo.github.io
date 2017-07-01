@@ -7,7 +7,7 @@ image: "img/m.jpg"
 date:   2017-02-10 01:52:12
 ---
 
-[You're buying that ice cream with time](https://cdn-images-1.medium.com/max/1000/1*AatwFFM-GZ0lxF2tM8YJAw.jpeg)
+![You're buying that ice cream with time](https://cdn-images-1.medium.com/max/1000/1*AatwFFM-GZ0lxF2tM8YJAw.jpeg)
 
 In the heat of the summer sun in Zimbabwe, ice cream is a delightful thing to taste. It's a wonderful thing to look at. Like ambrosia- the food of the Gods. It's the taste of heaven. Only while the weather is hot. Once it turns cold, we fancy hot chocolate. We fancy the warmth. That is the nature of man, that his desires change on a whim, and he is slave to them.
 

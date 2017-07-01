@@ -6,7 +6,6 @@ avatar: "img/authors/tanaka.jpg"
 image: "img/e.jpg"
 date:   2017-01-06 12:12:12
 ---
-
 ![The Miracle of life- Tanaka Chingonzo blog](https://cdn-images-1.medium.com/max/800/1*hK0LXs3O7TuyMGCBnua5Lw.jpeg)
 
 I sat in darkened forest,

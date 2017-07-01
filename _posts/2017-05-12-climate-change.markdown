@@ -5,14 +5,14 @@ author: "Tanaka Chingonzo"
 date:   2017-02-10 01:52:12
 ---
 
-[40% of adults have never hears of climate change](https://cdn-images-1.medium.com/max/1000/0*tyfoWfoHCtl_IpNs.)
+![40% of adults have never hears of climate change](https://cdn-images-1.medium.com/max/1000/0*tyfoWfoHCtl_IpNs.)
 
 
 Climate change is a unique problem in many ways. Unlike any other challenge humankind has previously faced, its responsibility is not shared equally across the world, and its consequences will be felt in the same way- unequally but devastatingly. Climate change is already beginning to have far-reaching consequences whose full weight cannot be immediately seen or felt. That is its greatest danger- that it affords us room to procrastinate our response to it.
 People across the world will have to deal with the consequences of climate change despite not being equally responsible for it. Extreme weather and disasters, as well as the socio-economic and cultural effects- increased migration, food shortages, and increased costs of living- will play out differently in different geographical locations across the globe. Already, youth around the world are leading global and local climate change mitigation efforts. It is their future that is most threatened by the dangers of our world’s changing climate. In many ways, it is their efforts- sustainable, green business models that will mitigate the effects of climate change and perhaps solve the new problems we are facing each decade.
 Perhaps the most basic and overlooked problem with climate change- and the most important solution- is the least direct. Global public opinion about climate change is at best divided and at worst, nonexistent. Education and public awareness lie at the center of the climate change phenomenon and our response to it. In a 2015, global survey carried out by Carbonbrief:
 
-[Global Climate Change awareness for Africa and the World](http://www.nature.com/nclimate/journal/v5/n11/images_article/nclimate2728-f1.jpg)
+![Global Climate Change awareness for Africa and the World](http://www.nature.com/nclimate/journal/v5/n11/images_article/nclimate2728-f1.jpg)
 
 
 “More than a third of the world’s adults have never heard of climate change. For some countries, such as South Africa, Bangladesh, and Nigeria, this rises to more than two-thirds of the adult population.” In a survey carried out by the Pew center for Research, it is also estimated that as much as “40 percent of adults worldwide have never heard of climate change.” Yet is such uninformed populaces that shall need to find solutions to a problem they largely does not even know exists.
@@ -28,10 +28,10 @@ Anthony Leiserowitz, director of the Yale Project on Climate Change Communicatio
 Youth-run organizations designing global and local policies and projects to increase climate change awareness in different countries and communities prove that every nation has an incredibly invested interest in mitigating climate change effects in their regions and by consequence- the world. They further demonstrate the feasibility of such initiatives as solutions to the climate change phenomenon. Many small efforts by young people and businesses around the world will need to work independently and culminate in a global response to climate change.
 CAIT Climate data poses that the largest proportions of greenhouse gas emissions are Energy generation activities. 71.8% of all greenhouse emissions are accounted for by energy generation, that is, coal and nuclear power stations and fossil fuels.
 
-[Greenhouse Gas Emmissions](https://cdn-images-1.medium.com/max/800/0*j1QAA1-CpP8BIpAS.)
+![Greenhouse Gas Emmissions](https://cdn-images-1.medium.com/max/800/0*j1QAA1-CpP8BIpAS.)
 
 It is extremely encouraging to realize that this proportion of greenhouse gas emission is constantly being reduced by renewable energy. Renewable energy’s total contribution to country’s energy budgets continues to increase on an annual basis. More and more countries are beginning to rely more on solar energy, wind energy, and geothermal energy. The cost of adoption of these cleaner energy sources is offset by the far heavier alternative cost of climate change: global in nature and potentially trillions of dollars in infrastructure damage and human and animal life.
 
-[Barack Obama on Climate Change](https://assets.weforum.org/wp-content/uploads/2015/11/obama1.png)
+![Barack Obama on Climate Change](https://assets.weforum.org/wp-content/uploads/2015/11/obama1.png)
 
 As more and more businesses adopt the triple bottom line framework, more and more governments are acting responsibly and fulfilling their responsibility to the world to preserve it. While this is extremely encouraging, more conversation and action is still needed at government level, and at individual level to reduce our collective impact and carbon footprint and thus mitigate climate change.

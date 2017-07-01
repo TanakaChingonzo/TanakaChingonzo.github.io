@@ -6,6 +6,7 @@ avatar: "img/authors/tanaka.jpg"
 image: "img/Tanaka Chingonzo- The weight of Kindness.jpg"
 date:   2017-01-03 12:12:12
 ---
+![The weight of kindness](https://cdn-images-1.medium.com/max/800/1*ceErosd6C4CgPAZSgbt73g.jpeg)
 
 I recently read a paper on an some obscure thing called “Infinite Ethics,” by Nick Bostrom. Reading his work, I interpreted Infinite Ethics to mean the ethics of infinities. The questions about rights and wrongs and how they work on a finite and infinite scale. Nick Bostrom’s paper in brief talked about a world of infinite positive and negative. A world in which infinite value could not be changed by the addition or subtraction of a finite value.
 

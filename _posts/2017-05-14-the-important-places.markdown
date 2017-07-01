@@ -1,5 +1,5 @@
 ---
-title:  The important places
+title:  Poem: The important places by Forrest Woodward
 subtitle: "Youth"
 author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"

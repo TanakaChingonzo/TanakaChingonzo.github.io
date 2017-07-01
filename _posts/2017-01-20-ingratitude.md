@@ -1,5 +1,5 @@
 ---
-title:  "When the rain falls for too long"
+title:  "When the rain falls for too long after a drought"
 subtitle: "Unpredictability"
 author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"

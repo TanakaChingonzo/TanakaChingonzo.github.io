@@ -1,5 +1,5 @@
 ---
-title:  How to find happiness in Difficult Decisions
+title:  How to find happiness in our Difficult Decisions
 subtitle: "Decisions"
 author: "Tanaka Chingonzo"
 date:   2017-06-29 01:52:12

@@ -1,5 +1,5 @@
 ---
-title:  "The little boy in the sun"
+title:  "Poem: The little boy in the sun- The Little Prince"
 subtitle: "In youth we see"
 author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"

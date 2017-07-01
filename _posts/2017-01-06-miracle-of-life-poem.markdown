@@ -1,5 +1,5 @@
 ---
-title:  "The miracle of life"
+title:  "Poem: The miracle of life"
 subtitle: "Writing in the morning"
 author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"

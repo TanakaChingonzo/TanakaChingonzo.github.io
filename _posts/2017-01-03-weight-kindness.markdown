@@ -20,7 +20,7 @@ In such a world- a world of infinite happiness and simultaneous sadness and mise
 
 It is worth one person’s happiness. It is worth a single person’s smile. It is worth protecting a friend’s courage. A single act of kindness is worth hope.
 
-A friend of mine had his birthday yesterday- and I forgot to with him a good one- Happy belated birthday @Finn Woelm. Finn on his birthday, as his only present, asked that each person who knew it was his birthday, did someone else an act of kindness.
+A friend of mine had his birthday yesterday- and I forgot to wish him a good one- Happy belated birthday @Finn Woelm. Finn on his birthday, as his only present, asked that each person who knew it was his birthday, did someone else an act of kindness.
 That- is the weight of kindness.
 
 Hope.

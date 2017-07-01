@@ -1,5 +1,5 @@
 ---
-title:  "Why I do what I do"
+title:  "Why I do what I do- Adversity and Curiosity"
 subtitle: "Adversity and Curiosity"
 author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Globalisation in our communities"
+title:  "How has globalisation affected our communities?"
 date:   2017-05-07 20:00:12
 categories: globalisation
 ---

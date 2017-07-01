@@ -1,5 +1,5 @@
 ---
-title:  "40 percent of adults have never heard of climate change"
+title:  "40 percent of adults have never heard of climate change."
 subtitle: "Climate change"
 author: "Tanaka Chingonzo"
 date:   2017-05-12 01:52:12

@@ -1,5 +1,5 @@
 ---
-title:  "A universe awaits"
+title:  "Now is the greatest time to be alive!"
 subtitle: "A certain uncertain future"
 author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"

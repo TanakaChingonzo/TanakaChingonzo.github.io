@@ -3,7 +3,7 @@ layout: content
 title: News Tanaka Chingonzo
 permalink: /news-tanaka-chingonzo/
 ---
-##Tanaka Chingonzo
+## Tanaka Chingonzo
 
 U.S. scholarship fulfills Zim student’s search for innovative solutions
 - [Youth Village](http://youthvillage.co.zw/2017/06/u-s-scholarship-fulfills-zim-students-search-for-innovative-solutions/)

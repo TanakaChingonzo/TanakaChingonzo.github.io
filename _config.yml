@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tanaka.co.zw" # the base hostname & protocol for your site
 twitter_username: tanakachingonzo
 github_username:  tanakachingonzo
+facebook_username: tanaka.ching
 
 # Build settings
 include: [_pages]

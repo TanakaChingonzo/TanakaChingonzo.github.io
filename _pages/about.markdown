@@ -1,6 +1,6 @@
 ---
 layout: content
-title: About Tanaka Chingonzo
+title: About
 permalink: /about/
 ---
 ## Tanaka Chingonzo

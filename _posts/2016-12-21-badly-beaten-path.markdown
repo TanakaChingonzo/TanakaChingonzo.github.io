@@ -2,8 +2,6 @@
 title:  "I watched you go down that little path so badly beaten"
 subtitle: "The things I write when I don't think I'll write."
 author: "Tanaka Chingonzo"
-avatar: "img/authors/tanaka.jpg"
-image: "img/b.jpg"
 date:   2016-12-21 12:12:12
 ---
 [I watched you go down that path so badly beaten](https://cdn-images-1.medium.com/max/2000/1*bMzl4JC7EsN0uHAjSobm9Q.jpeg)

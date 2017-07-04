@@ -2,8 +2,6 @@
 title:  "The weight of kindness"
 subtitle: "The things I write when I don't think I'll write."
 author: "Tanaka Chingonzo"
-avatar: "img/authors/tanaka.jpg"
-image: "img/Tanaka Chingonzo- The weight of Kindness.jpg"
 date:   2017-01-03 12:12:12
 ---
 ![The weight of kindness](https://cdn-images-1.medium.com/max/800/1*ceErosd6C4CgPAZSgbt73g.jpeg)

@@ -22,12 +22,10 @@ U.S. scholarship fulfills Zim student’s search for innovative solutions
 
 
 More than a third of the world’s adults have never heard of climate change. For some countries, such as South Africa, Bangladesh, and Nigeria, this rises to more than two-thirds of the adult population. What can be done about this?
-- Tanaka Chingonzo, Africa in Progress
-[40 Percent of Adults Worldwide Have Never Heard of Climate Change](https://www.africanexponent.com/bpost/4684-how-can-young-people-speed-up-the-response-to-climate-change)
+- [40 Percent of Adults Worldwide Have Never Heard of Climate Change](https://www.africanexponent.com/bpost/4684-how-can-young-people-speed-up-the-response-to-climate-change)
 
 Globalization has resulted in the upheaval of traditional structures and cultures and continues to foster the empowerment of Zimbabwean people and to push them up the value chain.
--Tanaka Chingonzo, Africa in Progress
-[Globalization: Has it Been a Blessing or a Curse in Your Community?](https://www.africanexponent.com/bpost/4663-upheaval-of-traditional-structures-cultures-empowerment-progression-up-the-value-chain)
+- [Globalization: Has it Been a Blessing or a Curse in Your Community?](https://www.africanexponent.com/bpost/4663-upheaval-of-traditional-structures-cultures-empowerment-progression-up-the-value-chain)
 
 
 <script>

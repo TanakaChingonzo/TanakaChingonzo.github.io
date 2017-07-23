@@ -2,6 +2,18 @@
 layout: content
 title: News Tanaka Chingonzo
 permalink: /news/
+<head>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-83940835-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
 ---
 ## Tanaka Chingonzo
 
@@ -35,14 +47,3 @@ More than a third of the world’s adults have never heard of climate change. Fo
 Globalization has resulted in the upheaval of traditional structures and cultures and continues to foster the empowerment of Zimbabwean people and to push them up the value chain.
 
 #### African Exponent
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-83940835-1', 'auto');
-  ga('send', 'pageview');
-
-</script>

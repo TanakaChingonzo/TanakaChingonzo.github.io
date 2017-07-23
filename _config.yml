@@ -1,7 +1,6 @@
 # Site settings
 title: Tanaka Chingonzo
-description: >
-    Curating stories of Progress by Tanaka Chingonzo
+description: Curating stories of Progress by Tanaka Chingonzo
 author: Tanaka Chingonzo
 email: tanaka.chingonzo@watsonuniversity.org
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,9 +9,10 @@ twitter_username: tanakachingonzo
 github_username:  tanakachingonzo
 facebook_username: tanaka.ching
 
+
 # Build settings
 include: [_pages]
 markdown: kramdown
-permalink: /:year/:month/:title
+permalink: /:title
 sass:
     style: compressed

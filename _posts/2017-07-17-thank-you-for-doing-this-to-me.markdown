@@ -1,5 +1,5 @@
 ---
-title:  This is what you did to me. 
+title:  This is what you did to me.
 subtitle: "Thank you."
 author: "Tanaka Chingonzo"
 date:   2017-07-17 11:12:12
@@ -45,5 +45,6 @@ Surrounded by so much ignorance, knowledge is our only hope. Knowledge of our wo
 
 ---
 
-If this touched you, please leave a heart, and check out my blog here: tanaka.co.zw 
+If this touched you, please share, or reach out to me to talk about it! And check out my previous post [here]({{ site.baseurl }}{% post_url /_posts/2017-07-09-what-keeps-you-up-at-night %})
+ 
 This is the only thank you I need.

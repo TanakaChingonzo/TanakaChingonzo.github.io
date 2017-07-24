@@ -42,6 +42,8 @@ And when my hope keeps me awake, I get up and think about what I want to achieve
 
 **I live to embrace my hopes and my fears. What do you live for?**
 
+---
+
 If this touched you, please share, or reach out to me to talk about it! And check out my previous post [here]({{ site.baseurl }}{% post_url _posts/2017-06-29-decisions %})
 
 This is the only thank you I need.

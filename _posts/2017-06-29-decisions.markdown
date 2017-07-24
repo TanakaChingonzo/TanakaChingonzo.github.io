@@ -25,4 +25,13 @@ It is far better to make a choice, be wrong and learn than to do nothing, still 
 
 
 Doing things for ourselves- and failing or succeeding- teaches us something. In either case, we learn confidence in ourselves. We learn the world doesn’t end because we leave an email till the morning. No mistake we make will end the world. Unless you’re President Donald Trump- and most of us aren’t. Life always goes on. Whether we succeed or we fail- we learn. We learn a way to do a thing, or perhaps a way not to do it. We learn confidence because in either case, life goes on and we are happy again.
+
+
 How? How can you be happier with your decisions? Make them quickly- with the minimum information you need! Act on them. Make your choices with the minimum required information! You will never have enough of it. Everything comes out the wash no matter what we do. Wrong or right. So do it, and start learning forward.
+
+
+---
+
+If this touched you, please share, or reach out to me to talk about it! And check out my previous post [here]({{ site.baseurl }}{% post_url /_posts/2017-05-14-the-important-places %})
+ 
+This is the only thank you I need.

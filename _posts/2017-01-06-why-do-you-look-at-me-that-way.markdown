@@ -35,3 +35,11 @@ Teach her. To smile again.
 
 
 The original medium article I wrote is on [medium](https://medium.com/@tanakachingonzo/why-do-you-look-at-me-that-way-f71eac80ff7a#.u3p9m6pf2)
+
+
+
+---
+
+If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
+ 
+This is the only thank you I need.

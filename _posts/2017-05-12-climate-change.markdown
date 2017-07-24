@@ -35,3 +35,11 @@ It is extremely encouraging to realize that this proportion of greenhouse gas em
 ![Barack Obama on Climate Change](https://assets.weforum.org/wp-content/uploads/2015/11/obama1.png)
 
 As more and more businesses adopt the triple bottom line framework, more and more governments are acting responsibly and fulfilling their responsibility to the world to preserve it. While this is extremely encouraging, more conversation and action is still needed at government level, and at individual level to reduce our collective impact and carbon footprint and thus mitigate climate change.
+
+
+
+---
+
+If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
+ 
+This is the only thank you I need.

@@ -32,3 +32,10 @@ may you always remember<br>
 the path that leads back.<br>
 ...back to the important places.<br>
 Dad to Forest, 1986<br>
+
+
+---
+
+If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
+ 
+This is the only thank you I need.

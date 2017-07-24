@@ -24,10 +24,19 @@ If I live to be 80, I have been sleeping for 20 of those remaining 60 years. Sle
 
 If I live to be 80, I have been eating and talking and worrying aimlessly for 8 of the 40 years I have been awake. I have been truly productive for only 32. Productive. What does that mean? Does it mean being at work, or creating something meaningful with what I have? I like this last bit-”creating something meaningful with what I have.” The adverse environment we are all growing up in, a global recession, and closer to home, an economy walking on stilts in high heels, we have to rethink what productivity is. Having a job isn't necessarily doing a good job. Being at work isn't doing good work. When we can’t find work, my generation shall have to make work, and to make things that work.
 
-If I live to be 80, I have met people, and touched people’s lives for 80 years. Since before I could speak, I have inspired my parents’ dreams and my siblings’ nightmares. I have made friends, and brothers and sisters out of strangers. I have been productive. I have enabled and been enabled. Empowered and been empowered. I have been alive. 
+If I live to be 80, I have met people, and touched people’s lives for 80 years. Since before I could speak, I have inspired my parents’ dreams and my siblings’ nightmares. I have made friends, and brothers and sisters out of strangers. I have been productive. I have enabled and been enabled. Empowered and been empowered. I have been alive.
 
 
 If I live to be 80, these are the thoughts I begin my twenties with. The optimism of childhood, and the determination of adulthood. My brother tells me these shall be my best years. My best life. I agree with him. My sister tells me these shall be my only years. My only life. To use it purposefully. And with gratitude.
 
 
 ![happy santa grateful with a cookie in his mouth](http://static.wixstatic.com/media/3e4188_7c23dc8f9a7a4b7c8bf780b443917160~mv2_d_5335_3557_s_4_2.jpg)
+
+
+
+
+---
+
+If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
+ 
+This is the only thank you I need.

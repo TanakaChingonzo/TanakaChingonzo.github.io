@@ -27,3 +27,12 @@ I will write my next post talking about how I am fairing with the former and usi
 I thank you whoever invented ice cream, you redeem our species.
 
 ![dog licking ice cream](http://www.pralinesownmade.com/blog/wp-content/uploads/2013/07/salty_ice_cream.jpg)
+
+
+
+
+---
+
+If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
+ 
+This is the only thank you I need.

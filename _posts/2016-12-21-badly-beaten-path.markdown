@@ -13,3 +13,12 @@ I wondered what your last thoughts were as you vanished from view and I, beyond 
 Through gaping holes in mountains- like faces in terror of mankind’s ambition and his foolishness. I walked and watched a million suns rise and set. Did you see the same sun I saw? Did the same stars that glinted in my sky overhead glint in yours? Did you think of me when you did? I didn’t. I looked at the sky and saw my stars- stars that shined only for me and eternity. I heard the promise of the cosmos, the promise of life and death and kindness and chaos and life. I smiled and walked on up my own road.
 
 The original article I wrote on [medium](https://medium.com/erudite/i-watched-you-go-down-that-little-path-so-badly-beaten-35465180ecf4#.pz7kfn6rr)
+
+
+
+
+---
+
+If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
+ 
+This is the only thank you I need.

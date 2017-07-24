@@ -24,3 +24,11 @@ That- is the weight of kindness.
 Hope.
 
 The original article I wrote is on [medium](https://medium.com/@tanakachingonzo/the-weight-of-kindness-6e8c5046304e#.pzlhi1ne5)
+
+
+
+---
+
+If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
+ 
+This is the only thank you I need.

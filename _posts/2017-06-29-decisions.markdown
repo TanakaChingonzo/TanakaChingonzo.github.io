@@ -32,6 +32,6 @@ How? How can you be happier with your decisions? Make them quickly- with the min
 
 ---
 
-If this touched you, please share, or reach out to me to talk about it! And check out my previous post [here]({{ site.baseurl }}{% post_url /_posts/2017-05-14-the-important-places %})
+If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
  
 This is the only thank you I need.

@@ -62,3 +62,11 @@ Most essay competition search results provided online either do not apply to Zim
 Additionally, there is a wealth of local opportunities that high school students can take advantage of.  Free photography courses being offered here in Harare and events like the Techfest set to be hosted in Bulawayo a week from now are all showcased on apply.co.zw and I invite organizations and people who are aware of opportunities they would like publicised to high school students to submit them through the form at the bottom of the website.
 
 I also urge high school students to sign up at the bottom of the website for updates on new competitions and events. They can also like the page on Facebook and follow us on Twitter and get in touch with us on the same platforms.
+
+
+
+---
+
+If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
+ 
+This is the only thank you I need.

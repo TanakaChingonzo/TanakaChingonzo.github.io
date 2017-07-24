@@ -25,3 +25,11 @@ Capital has been able to flow from savers through microfinance institutions and 
 When people emulate and adapt traits of cultures they do not completely understand and abandon their own, it can be argued that a nation loses its values. People in Zimbabwe view it more as an evolution of identity than an outright loss. Culture has to change for a society to survive as everything else around us changes. Jobs and the face of employment are facing. The economy is changing, and the face of life on the street continues to change as foreign culture and ideas continue to penetrate the Zimbabwean home through film, television, the internet, and music. By learning across cultures and from other nations on the global stage- as language and long distance become less and less significant barriers to trade, our nations continue to advance at light speed. Unlike any other generation before us, we have the experience and wisdom of the world due to our interconnectedness.
 
 We are able to find and implement global solutions to the problems that face us. Entrepreneurship is growing in the Zimbabwean marketplace and its contribution to the Gross National Product continues to be more and more significant. The startup and innovation culture of Silicon Valley is developing roots in Harare and Bulawayo, leading to innovative solutions to Zimbabwean problems. Globalization has resulted in the upheaval of traditional structures and cultures and continues to foster the empowerment of Zimbabwean people and to push them up the value chain.
+
+
+
+---
+
+If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
+ 
+This is the only thank you I need.

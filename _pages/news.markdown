@@ -5,8 +5,6 @@ permalink: /news/
 ---
 ## Tanaka Chingonzo
 
-![Tanaka Chingonzo- Zimbabwean Student at the College of Wooster, Watson University Alumnus, Founder of Apply Zimbabwe, Global Shaper at Cleveland Hub]({{ site.url }}/images/tanakachingonzo.png)
-
 U.S. scholarship fulfills Zim student’s search for innovative solutions
 - [Youth Village](http://youthvillage.co.zw/2017/06/u-s-scholarship-fulfills-zim-students-search-for-innovative-solutions/)
 

@@ -2,6 +2,7 @@
 layout: content
 title: Resume Tanaka Chingonzo
 permalink: /resume/
+description: Tanaka Chingonzo's working experience, projects, history, current and future prospects
 ---
 ## Tanaka Chingonzo
 

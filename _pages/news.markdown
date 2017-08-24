@@ -1,6 +1,7 @@
 ---
 layout: content
 title: News Tanaka Chingonzo
+description: News and articles about Tanaka Chingonzo
 permalink: /news/
 ---
 ## Tanaka Chingonzo

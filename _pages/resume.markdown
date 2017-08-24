@@ -1,7 +1,7 @@
 ---
 layout: content
-title: Resume Tanaka Chingonzo
-permalink: /resume/
+title: Tanaka Chingonzo's working experience, projects, history, current and future prospects
+permalink: /resume-tanaka-chingonzo/
 description: Tanaka Chingonzo's working experience, projects, history, current and future prospects
 ---
 ## Tanaka Chingonzo

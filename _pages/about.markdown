@@ -1,7 +1,7 @@
 ---
 layout: content
-title: About Tanaka Chingonzo
-permalink: /about/
+title: About Tanaka Chingonzo- international student, entrepreneur, developer in Wooster Ohio
+permalink: /about-tanaka-chingonzo/
 description: Tanaka Chingonzo- international student, entrepreneur, developer in Wooster Ohio
 ---
 <script>

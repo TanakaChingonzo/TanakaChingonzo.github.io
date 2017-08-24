@@ -1,8 +1,8 @@
 ---
 layout: content
-title: News Tanaka Chingonzo
+title: News and articles about Tanaka Chingonzo
 description: News and articles about Tanaka Chingonzo
-permalink: /news/
+permalink: /news-tanaka-chingonzo/
 ---
 ## Tanaka Chingonzo
 

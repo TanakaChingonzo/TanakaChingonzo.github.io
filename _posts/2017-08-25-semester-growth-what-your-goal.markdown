@@ -5,20 +5,19 @@ author: "Tanaka Chingonzo"
 date:   2017-08-25 21:32:12
 ---
 ---
-# This semester, I want to grow. What is your biggest goal?
+# Class of 2021, the future begins now, and it is ours.
 
-### Class of 2021, the future begins now, and it is ours.
 High school is done. With it, childhood is for the most part, done too. Exciting!
 
 ![College students sitting together working and making plans for the future](https://cdn-images-1.medium.com/max/1000/1*DdA6WrX8u_oMeARyMqZ3yQ.jpeg)
 
 
-“When I was a child, I talked like a child, I thought like a child, I reasoned like a child. But when I grew up, I put away childish things.”
--1 Corinthians 13:11
+>“When I was a child, I talked like a child, I thought like a child, I reasoned like a child. >But when I grew up, I put away childish things.”
+>-1 Corinthians 13:11
 
 My meditations on the above words are that as college begins, I am expected to grow and put away the things of my youth now. Simultaneously, I am expected to grow exponentially. In essence, from zero to hundred in an incredibly short time. These are my best years. These shall be your best years too. Live them with enthusiasm. These shall be my worst years too, perhaps. But even then, they shall be our worst years, in the best ways. Live them with enthusiasm, especially because of this.
 
-###Class of 2021, the future begins now, and it is ours.
+### Class of 2021, the future begins now, and it is ours.
 
 Our generation is berated for being lazy. And we probably are. Is that not our strength? The reason we create apps, and technology to make our lives better, and to solve problems that up until now were accepted as “part of life.” We are the selfie generation too, and the Despacito generation. That is unfortunate, but it is alright. We get a free pass or two. Or three. Or four.
 

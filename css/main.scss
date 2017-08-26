@@ -27,3 +27,10 @@
 // Vendor
 @import
     'vendor/highlight';
+
+.c-article__main blockquote {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 1.8rem;
+    border-left: 1px solid #2196F3;
+}

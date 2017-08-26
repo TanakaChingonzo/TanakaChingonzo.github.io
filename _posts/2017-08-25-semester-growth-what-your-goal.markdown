@@ -12,7 +12,7 @@ High school is done. With it, childhood is for the most part, done too. Exciting
 ![College students sitting together working and making plans for the future](https://cdn-images-1.medium.com/max/1000/1*DdA6WrX8u_oMeARyMqZ3yQ.jpeg)
 
 
->“When I was a child, I talked like a child, I thought like a child, I reasoned like a child. >But when I grew up, I put away childish things.”
+>“When I was a child, I talked like a child, I thought like a child, I reasoned like a child. But when I grew up, I put away childish things.”
 >-1 Corinthians 13:11
 
 My meditations on the above words are that as college begins, I am expected to grow and put away the things of my youth now. Simultaneously, I am expected to grow exponentially. In essence, from zero to hundred in an incredibly short time. These are my best years. These shall be your best years too. Live them with enthusiasm. These shall be my worst years too, perhaps. But even then, they shall be our worst years, in the best ways. Live them with enthusiasm, especially because of this.
@@ -28,13 +28,14 @@ My goal this semester is to grow. In one small way, every single day.
 
 1.To branch out of my peer group every week, and maintain a relationship with someone familiar.
 2.To write an article, (one better than this one I hope) every week.
-3. To read one chapter every week, of that book I never find time for.
-4. To give more than I take. In every possible way. To give my time.
+3.To read one chapter every week, of that book I never find time for.
+4.To give more than I take. In every possible way. To give my time.
 Nothing you can give is as important or as valuable as your time.
 I hope to build something meaningful, and to bring thoughtfulness and love to my relationships.
 “If you don’t live in the moment, where do you live? If you don’t fix the future, where will you live tomorrow?”
 
 -class of 2021, this is our challenge. To live in the present, with our eyes on the future.
-What are your biggest goals for the next 4 months? Please share them with me below. Perhaps we can help each other do amazing things.
+
+>What are your biggest goals for the next 4 months? Please share them with me below. Perhaps we can help each other do amazing things.
 
 This article was originally published on [Student Voices](https://mystudentvoices.com/tanakachingonzo-this-semester-i-want-to-grow-what-is-your-goal-bc28679a8d60)

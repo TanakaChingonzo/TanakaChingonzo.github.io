@@ -4,7 +4,7 @@ subtitle: "The things I write when I don't think I'll write."
 author: "Tanaka Chingonzo"
 date:   2016-12-21 12:12:12
 ---
-[I watched you go down that path so badly beaten](https://cdn-images-1.medium.com/max/2000/1*bMzl4JC7EsN0uHAjSobm9Q.jpeg)
+![I watched you go down that path so badly beaten](https://cdn-images-1.medium.com/max/2000/1*bMzl4JC7EsN0uHAjSobm9Q.jpeg)
 
 I used to wonder what lay down that other road.What skyscrapers or forests or open fields lay down there that I couldn’t yet see. That I would never see. My life was at a crossroads and I went up the higher road. There was a better view of the world from up there anyway. I watched you go down that little path so badly beaten, down into the forest and the green grass, until you disappeared and the sun fell and everything went blue-dark.
 

@@ -6,6 +6,9 @@ permalink: /news-tanaka-chingonzo/
 ---
 ## Tanaka Chingonzo
 
+London Centenary eClub gets involved in a community project in Zimbabwe
+-[Rotary International](https://portal.clubrunner.ca/3650/Stories/london-centenary-eclub-gets-involved-in-a-community-project-in-zimbabwe)
+
 U.S. scholarship fulfills Zim student’s search for innovative solutions
 - [Youth Village](http://youthvillage.co.zw/2017/06/u-s-scholarship-fulfills-zim-students-search-for-innovative-solutions/)
 

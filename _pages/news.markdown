@@ -4,7 +4,10 @@ title: News and articles about Tanaka Chingonzo
 description: News and articles about Tanaka Chingonzo
 permalink: /news-tanaka-chingonzo/
 ---
-## Tanaka Chingonzo
+# Articles and stories about Tanaka Chingonzo
+
+![The city of Harare- Tanaka Chingonzo's home](/images/city-of-harare-zimbabwe.jpg)  
+
 
 London Centenary eClub gets involved in a community project in Zimbabwe
 -[Rotary International](https://portal.clubrunner.ca/3650/Stories/london-centenary-eclub-gets-involved-in-a-community-project-in-zimbabwe)

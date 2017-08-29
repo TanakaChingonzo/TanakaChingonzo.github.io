@@ -4,22 +4,8 @@ title: About Tanaka Chingonzo- international student, entrepreneur, developer in
 permalink: /about-tanaka-chingonzo/
 description: Tanaka Chingonzo- international student, entrepreneur, developer in Wooster Ohio
 ---
-<meta property="fb:app_id" content="622967764527675" />
-<meta property=”og:url” content=”http://tanaka.co.zw” />
-<meta property=”og:description” content=”Who is Tanaka Chingonzo? What does he do? Tanaka Chingonzo is a Computer Science and English student at the College of Wooster”/>
+# Tanaka Chingonzo- international student, entrepreneur, developer in Wooster Ohio
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-83940835-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
-## Tanaka Chingonzo
 
 ![Tanaka Chingonzo- International Student at Global Engagement Summit Northwestern University](/images/tanaka-GES-photo.jpg)
 

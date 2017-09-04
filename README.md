@@ -1,3 +1,4 @@
+Tanaka Chingonzo's Jekyll blog
 # butane-jekyll-theme
 
 ## Getting Started

@@ -1,6 +1,8 @@
+
 Tanaka Chingonzo's Jekyll blog
 # butane-jekyll-theme
 
+Instructions to install your own blank theme.
 ## Getting Started
 1. `git clone https://github.com/alexcarpenter/butane-jekyll-theme.git`
 2. `cd butane-jekyll-theme`

@@ -5,16 +5,15 @@ author: "Tanaka Chingonzo"
 date:   2017-09-15 22:47:12
 ---
 ---
-# Most people think the world has changed.
-
-## It hasn’t.
+# Most people think the world has changed. It hasn’t.
  
 A friend once told me, 
 “if it is a cliché, then it is probably true.”
 
-Life is difficult. Life is hard. Ambition knows no end. Cliches.
+Clichés are realizations that people have made over and over again. Pay attention to them. Weigh them, then listen to them, or discard them. They can be so very wise. But they can also be a whole lot of nonsense.
 
-And these, perhaps more than any other clichés, are the truest. These are the rules that govern our world. Clichés. They are realizations that people have made over and over again. Pay attention to them.  Our world is a difficult place- now perhaps more than ever. 
+Duality. Everything in life has such duality. Black and white. Our world is a difficult place- now perhaps more than ever. But it is also such a beautiful place. The sky, the smell of rain. Even our suffering has a beauty to it.
+
 We have the greatest opportunities in the time that man has walked this earth, and the greatest challenges. Many would argue we are largely responsible for both. What a time to be alive.
 
 ![We destroy such majesty, and replace it with concrete factories and concrete jungles](/images/posts/wild.jpg)

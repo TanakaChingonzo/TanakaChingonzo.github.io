@@ -5,16 +5,16 @@ author: "Tanaka Chingonzo"
 date:   2017-09-15 22:47:12
 ---
 ---
+# Most people think the world has changed.
 
-#Most people think the world has changed.
-##It hasn’t.
+## It hasn’t.
  
 A friend once told me, 
 “if it is a cliché, then it is probably true.”
 
 Life is difficult. Life is hard. C’est la vie. Cliches.
 
-![](https://unsplash.com/collections/225/into-the-wild?photo=-FC5Ozeetuw)
+![]("/images/wild.jpg")
 
 And these, perhaps more than any other clichés, are the truest. These are the rules that govern our world. Clichés. They are realizations that people have made over and over again. Pay attention to them.  Our world is a difficult place- now perhaps more than ever. 
 We have the greatest opportunities in the time that man has walked this earth, and the greatest challenges. Many would argue we are largely responsible for both. What a time to be alive.

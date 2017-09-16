@@ -12,7 +12,7 @@ A friend once told me, 
 
 Clichés are realizations that people have made over and over again. Pay attention to them. Weigh them, then listen to them, or discard them. They can be so very wise. But they can also be a whole lot of nonsense.
 
-Duality. Everything in life has such duality. Black and white. Our world is a difficult place- now perhaps more than ever. But it is also such a beautiful place. The sky, the smell of rain. Even our suffering has a beauty to it.
+Duality. Everything in life is a duality. Black and white. Our world is a difficult place- now perhaps more than ever. But it is also such a beautiful place. The sky, the smell of rain. Even our suffering has a beauty to it.
 
 We have the greatest opportunities in the time that man has walked this earth, and the greatest challenges. Many would argue we are largely responsible for both. What a time to be alive.
 

@@ -14,7 +14,7 @@ A friend once told me, 
 
 Life is difficult. Life is hard. C’est la vie. Cliches.
 
-![]("/images/wild.jpg")
+![](/images/wild.jpg)
 
 And these, perhaps more than any other clichés, are the truest. These are the rules that govern our world. Clichés. They are realizations that people have made over and over again. Pay attention to them.  Our world is a difficult place- now perhaps more than ever. 
 We have the greatest opportunities in the time that man has walked this earth, and the greatest challenges. Many would argue we are largely responsible for both. What a time to be alive.

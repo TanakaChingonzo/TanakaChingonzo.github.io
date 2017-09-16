@@ -1,5 +1,5 @@
 ---
-title:  The world changes quickly.
+title:  The world changes quickly. People do not.
 subtitle: "People do not"
 author: "Tanaka Chingonzo"
 date:   2017-09-15 22:47:12
@@ -12,16 +12,21 @@ date:   2017-09-15 22:47:12
 A friend once told me, 
 “if it is a cliché, then it is probably true.”
 
-Life is difficult. Life is hard. C’est la vie. Cliches.
-
-![](/images/wild.jpg)
+Life is difficult. Life is hard. Ambition knows no end. Cliches.
 
 And these, perhaps more than any other clichés, are the truest. These are the rules that govern our world. Clichés. They are realizations that people have made over and over again. Pay attention to them.  Our world is a difficult place- now perhaps more than ever. 
 We have the greatest opportunities in the time that man has walked this earth, and the greatest challenges. Many would argue we are largely responsible for both. What a time to be alive.
 
+![We destroy such majesty, and replace it with concrete factories and concrete jungles](/images/wild.jpg)
+<meta property="og:image"              content="http://tanaka.co.zw/images/wild.jpg">
+
+We destroy such majesty, uproot it, domesticate it, tame it. Beauty cannot be tamed. It cannot be possessed. 
+
 A time in which mankind both authors and erases his own future. Startlingly quickly. One step forward, two steps back. We are moving forward, slowly, although it may not seem like it. The world is not screwed. We are here to fix it.
 
->For as long we keep striving, we are not screwed. We will never stop striving. Humanity is trying. It is what has set us apart from the start. Our will to dominate our surroundings, to dominate nature and bend it to our will. Since we first tamed fire. Then the forest, then the animals, and then slowly, we we tamed everything, until we were left with one wild force to tame: ourselves.
+>For as long we keep striving, we are not screwed.
+
+We will never stop striving. Humanity is trying. It is what has set us apart from the start. Our will to dominate our surroundings, to dominate nature and bend it to our will. Since we first tamed fire. Then the forest, then the animals, and then slowly, we we tamed everything, until we were left with one wild force to tame: ourselves.
 
 In the face of everything that has changed since the first man discovered fire, and the invention of the wheel, not a lot about mankind has truly changed. 
 

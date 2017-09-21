@@ -2,7 +2,7 @@
 title:  Poem: Wherever you are, seek beauty there.
 subtitle: "Everything"
 author: "Tanaka Chingonzo"
-date:   2017-09-20 22:47:12
+date:   2017-09-20 20:05:12
 ---
 ---
 Wherever you are, seek beauty there.
@@ -17,7 +17,7 @@ seek it in the constant noise.
 In the falling of the rain, pause to smell it,
 and when the soft snow turns to ice.
 Pause and say to someone, I see you..
-Seek beauty in smiling strangers's eyes.
+Seek beauty in smiling strangers' eyes.
 Carry it in your own smile.
 Seek it in silent tears shed in the dark.
 Give it to someone else with a "hi."

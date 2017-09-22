@@ -1,5 +1,5 @@
 ---
-title:  Thank you for teaching me how to speak.
+title:  This is what you did to me.
 subtitle: "Thank you."
 author: "Tanaka Chingonzo"
 date:   2017-07-17 11:12:12
@@ -10,7 +10,7 @@ Thank you for teaching me how to speak. And then asking me to be silent when I d
 
 
 ![I looked with my eyes and listened with my heart. I shouldn’t have. This is home. This is Zimbabwe.](https://cdn-images-1.medium.com/max/1000/1*SKRgof8_YJA6RppMCYK-fQ.jpeg)
-<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;" href="http://tanaka.co.zw" target="_blank" rel="noopener noreferrer" title="The Sunset in Zimbabwe captured through my lense"><span style="display:inline-block;padding:2px 3px;"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;" viewBox="0 0 32 32"><title></title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px;">Tanaka Chingonzo</span></a>
+
 
  Were it not for this, all I would do is speak until I had nothing left to say and nobody left to listen to me. I would get lost in myself and there is no wilderness more dangerous to get lost in. You told me reading was the only thing worth doing. It bears the fingerprint of an act of God: each book, every written word and the ideas it carries, is a small miracle. Thank you for showing me this miracle. And it’s curse.
 
@@ -45,6 +45,7 @@ Surrounded by so much ignorance, knowledge is our only hope. Knowledge of our wo
 
 ---
 
-If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
+If this touched you, please leave a heart, and check out my previous post here
+({{ site.baseurl }}{% post_url /_posts/2017-07-09-what-keeps-you-up-at-night %})
  
 This is the only thank you I need.

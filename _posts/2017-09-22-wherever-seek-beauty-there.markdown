@@ -1,10 +1,12 @@
 ---
-title:  Poem: Wherever you are, seek beauty there.
+title:  Poem- Wherever you are, seek beauty there.
 subtitle: "Everything"
 author: "Tanaka Chingonzo"
-date:   2017-09-20 20:05:12
+date:   2017-09-22 01:43:12
 ---
 ---
+Inspired by After the Thrill is Gone: Fashion, Politics, and Culture in Contemporary South African Art- at the College of Wooster art exhibition
+![After the Thrill is Gone](http://img3.hungertv.com/wp-content/uploads/2015/09/Athi-Patra-Ruga-The-Night-of-the-Long-Knives-IV-2014-archival-ink-jet-print-on-photorag-baryta-150-x-190cm-edition-of-10-Copyright-Athi-Patra-Ruga-Courtesy-Tyburn-Gallery.gif)
 Wherever you are, seek beauty there.
 Find it in yourself and in everyone else.
 Take it into your heart, and keep it there.

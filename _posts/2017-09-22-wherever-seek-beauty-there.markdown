@@ -41,4 +41,4 @@ may you find it in the beauty of the stars, and may it make a home in your heart
 <br>
 <br>
 <br>
-Inspired by After the Thrill is Gone: Fashion, Politics, and Culture in Contemporary South African Art- at the College of Wooster art exhibition
+Inspired by After the Thrill is Gone: Fashion, Politics, and Culture in Contemporary South African Art- at the [College of Wooster art exhibition](https://www.wooster.edu/arts/museum/exhibit/current/)

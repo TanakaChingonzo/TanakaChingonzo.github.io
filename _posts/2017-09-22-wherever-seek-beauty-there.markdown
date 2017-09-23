@@ -13,20 +13,20 @@ date:   2017-09-22 01:43:12
 
 >Wherever you are, seek beauty there.<br>
 
-Find it in yourself and in everyone else<br>.
+Find it in yourself and in everyone else.<br>
 Take it into your heart, and keep it there.<br>
 and in the cold despair that touches you when you fail.<br>
 may you learn to keep yourself warm.
 And to mend what is broken, and stitch up what is torn.<br>
 Seek beauty in your happiness,<br>
 and in your suffering too.<br>
-The suffering touches your skin: it cannot touch you.<br>
+>The suffering touches your skin: it cannot touch you.<br>
 Seek beauty in silence.<br>
 seek it in the constant noise.<br>
 In the falling of the rain, pause to smell it. Get wet.<br>
-and when the soft snow turns to ice,<br>.
+and when the soft snow turns to ice,<br>
 and as its soft beauty begins to fade,<br>
-Count it joy, that you beheld such beauty in the first place<br>.
+Count it joy, that you beheld such beauty in the first place<br>
 As you go about your day, and meet people along your way,<br>
 Pause and say to someone, I see you..<br>
 Seek beauty in a strangers' smiling eyes.<br>

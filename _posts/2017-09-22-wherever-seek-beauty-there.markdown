@@ -1,6 +1,6 @@
 ---
 title:  Wherever you are, seek beauty there.
-subtitle: "Everything"
+subtitle: "Poem"
 author: "Tanaka Chingonzo"
 date:   2017-09-22 01:43:12
 ---

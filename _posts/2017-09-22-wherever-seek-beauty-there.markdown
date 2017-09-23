@@ -11,7 +11,8 @@ date:   2017-09-22 01:43:12
 <br>
 <br>
 
-Wherever you are, seek beauty there.<br>
+>Wherever you are, seek beauty there.<br>
+
 Find it in yourself and in everyone else<br>.
 Take it into your heart, and keep it there.<br>
 and in the cold despair that touches you when you fail.<br>

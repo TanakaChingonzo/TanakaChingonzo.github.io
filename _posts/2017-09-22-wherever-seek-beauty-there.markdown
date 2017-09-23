@@ -1,5 +1,5 @@
 ---
-title:  Poem- Wherever you are, seek beauty there.
+title:  Wherever you are, seek beauty there.
 subtitle: "Everything"
 author: "Tanaka Chingonzo"
 date:   2017-09-22 01:43:12
@@ -12,7 +12,7 @@ date:   2017-09-22 01:43:12
 <br>
 
 >Wherever you are, seek beauty there.<br>
-<br>
+
 Find it in yourself and in everyone else.<br>
 Take it into your heart, and keep it there.<br>
 and in the cold despair that touches you when you fail.<br>
@@ -23,8 +23,9 @@ and in your suffering too.<br>
 The suffering touches your skin: it cannot touch you.<br>
 <br>
 <br>
+
 >Seek beauty in silence.<br>
-<br>
+
 seek it in the constant noise.<br>
 In the falling of the rain, pause to smell it. Get wet.<br>
 and when the soft snow turns to ice,<br>
@@ -37,7 +38,7 @@ Carry it in your own smile. Smile with your eyes.<br>
 <br>
 <br>
 >Seek beauty in silent tears shed in the dark.<br>
-<br>
+
 Give it to someone else with a "hi." or a wave in the park<br>
 But maybe or maybe not in the dark.<br>
 Carry your spark. Carry your light in your heart.<br>
@@ -50,7 +51,7 @@ As your wounds turn to scars.<br>
 <br>
 <br>
 >As you fall in and out of love, do not regret it.<br>
-<br>
+
 Pain will remind you that you are still alive,<br>
 and the jokes and laughter your loved ones will bring<br>
  will remind you that it is all of it, worth it.<br>

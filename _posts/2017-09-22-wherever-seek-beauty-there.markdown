@@ -20,7 +20,9 @@ may you learn to keep yourself warm.
 And to mend what is broken, and stitch up what is torn.<br>
 Seek beauty in your happiness,<br>
 and in your suffering too.<br>
+
 >The suffering touches your skin: it cannot touch you.<br>
+
 Seek beauty in silence.<br>
 seek it in the constant noise.<br>
 In the falling of the rain, pause to smell it. Get wet.<br>

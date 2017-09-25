@@ -59,13 +59,14 @@ and the jokes and laughter your loved ones will bring<br>
 Find everything you seek, and be willing to give it away<br>
 As you seek your happiness, and as you find sadness instead<br>
 Do not hold onto either too long.<br>
-Remember they do not belong to you,<br>
+Remember they do not belong to you:<br>
 Let them go, let them go.<br>
-Visit your memories in the morning, and your dreams at night.<br>
-When you leave them, be reminded you are alive.<br>
-Life forgets itself while we have it. Pray, do not forget it.<br>
+Visit your memories in the morning,
+and visit your dreams at night.<br>
+When you leave them at dawn and at dusk, be reminded you are alive.<br>
+Life forgets itself while we have it. Pray, please do not forget it.<br>
 may you find it in the beauty of the stars,<br>
-and may it make a home in your heart.
+and may life make a home in your heart.
 May you find it there, and in everything.<br>
 <br>
 <br>

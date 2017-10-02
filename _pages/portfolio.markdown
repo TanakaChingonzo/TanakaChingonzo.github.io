@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Tanaka Chingonzo- international student, entrepreneur, developer in Wooster Ohio
+title: Tanaka Chingonzo- Portfolio
 permalink: /portfolio-tanaka-chingonzo/
 description: Tanaka Chingonzo's Portfolio
 ---

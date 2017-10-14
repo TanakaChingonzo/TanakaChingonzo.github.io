@@ -19,7 +19,7 @@ Outbreak: Our Next Global Pandemic
 In May of 1997, a boy in Hong Kong is diagnosed with a new form of influenza- H5- he was dead within days. Within months, the Chinese government had ordered the slaughter of 1.2 million birds to curb the spread of the outbreak.
 Epidemics and pandemics have historically been the greatest existential dangers our species has faced. We spend trillions on defense but [war and violence](https://ourworldindata.org/slides/war-and-violence/#/title-slide) has really killed just 167 million to 188 million in the last century.
 
-[The History of Conflict](http://tanaka.co.zw/images/posts/democracy.png)
+![The History of Conflict](http://tanaka.co.zw/images/posts/democracy.png)
 
 ## And more and more countries are continuing to become democratic.
 
@@ -44,7 +44,7 @@ Within a few months, about half a billion people – a third of the global popul
 
 These are frightening figures. Fortunately, advances in medicine in the last century have minimised the mortality and prevalence of infectious diseases substantially. In their place, heart disease, and diabetes have risen to occupy the vacuum.
 
-[Sugar is now more dangerous than gunpowder](http://tanaka.co.zw/images/posts/sugar_vs_gunpowder.png)
+![Sugar is now more dangerous than gunpowder](http://tanaka.co.zw/images/posts/sugar_vs_gunpowder.png)
 <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;" href="https://howwegettonext.com/@duncangeere
 " target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from James Hammond"><span style="display:inline-block;padding:2px 3px;"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;" viewBox="0 0 32 32"><title></title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px;">Yuval Noah Harari, Author of Homo Deus- A brief History of Tomorrow</span></a>
 

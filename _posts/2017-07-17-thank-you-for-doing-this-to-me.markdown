@@ -45,7 +45,4 @@ Surrounded by so much ignorance, knowledge is our only hope. Knowledge of our wo
 
 ---
 
-If this touched you, please leave a heart, and check out my previous post here
-({{ site.baseurl }}{% post_url /_posts/2017-07-09-what-keeps-you-up-at-night %})
- 
-This is the only thank you I need.
+If this touched you, please leave a heart, and check out my latest post. This is the only thank you I need.

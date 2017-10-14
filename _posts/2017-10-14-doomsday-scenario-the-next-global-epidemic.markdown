@@ -4,6 +4,7 @@ subtitle: "This week in a  few words"
 author: "Tanaka Chingonzo"
 date:   2017-12-21 12:12:12
 ---
+![Fowl plague](http://tanaka.co.zw/images/posts/fowlplague.gif)
 This week in a few words. 
 I will be writing a post every week with thoughts on an article, or piee of writing that will have struck me from the week. If you would like me to read something you found interesting, to have a discussion about it, reach out to me <a href="mailto:tanaka.chingonzo@watsonuniversity.org?Subject=This%20week%20in%20a%20few%20words" target="_top">here</a>.
 

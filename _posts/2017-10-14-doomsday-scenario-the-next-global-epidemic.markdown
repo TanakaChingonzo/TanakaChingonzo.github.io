@@ -6,7 +6,7 @@ date:   2017-12-21 12:12:12
 ---
 ![Fowl plague](http://tanaka.co.zw/images/posts/fowlplague.gif)
 
-#This week in a few words. 
+# This week in a few words. 
 
 I will be writing a post every week with thoughts on an article, or a piece of writing that I will have found thoughtprovoking that week. If you would like me to read something you found interesting, or to have a discussion about it, reach out to me <a href="mailto:tanaka.chingonzo@watsonuniversity.org?Subject=This%20week%20in%20a%20few%20words" target="_top">here</a>.
 
@@ -18,12 +18,12 @@ As someone who is passionate about Computer Science, and having always had an in
 <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;" href="http://amzn.to/2yLAHM6" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from James Hammond"><span style="display:inline-block;padding:2px 3px;"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;" viewBox="0 0 32 32"><title></title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px;">Buy Here</span></a>
 
 
-## Outbreak: Our Next Global Pandemic published
-on [HowWeGetToNext](https://howwegettonext.com/outbreak-our-next-global-pandemic-ffd0128952e1)
+## [Outbreak: Our Next Global Pandemic](https://howwegettonext.com/outbreak-our-next-global-pandemic-ffd0128952e1) by [Duncan Geere](https://howwegettonext.com/@duncangeere)
+
 
 This article has left me most thoughtful about my present and future. It and other readings I will cite at the bottom examine an issue of interest to me, and perhaps to all of us in many ways. Share your thoughts about it with me. 
  
-## [Outbreak: Our Next Global Pandemic](https://howwegettonext.com/outbreak-our-next-global-pandemic-ffd0128952e1) by [Duncan Geere](https://howwegettonext.com/@duncangeere)
+
 
 
 

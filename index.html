@@ -1,69 +1,56 @@
 ---
-layout: page
-title: Tanaka Chingonzo
+layout: default
+lang: en
+ref: index
+image: true
+exclude: true
 ---
 
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/manifest.json">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="theme-color" content="#ffffff">
-<meta property=”og:image” content=”http://tanaka.co.zw/images/YALI.jpg” />
-<meta property=”og:type” content=”website” />
-<meta property="fb:app_id" content="622967764527675" />
-<meta property=”og:url” content=”http://tanaka.co.zw” />
-<meta property=”og:description” content=”Tanaka Chingonzo- Zimbabwean Student at the College of Wooster, Global Shaper, Developer, Entrepreneur” />
-<img src="/images/tanakachingonzo.png" alt="Tanaka Chingonzo- Zimbabwean Student at the College of Wooster, Watson University Alumnus, Founder of Apply Zimbabwe, Global Shaper at Cleveland Hub" style="padding-left: 33.333%; padding-right: 33.333%;">
-<section class="c-archives">
-{% for post in site.posts  %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+{% include core/metabar.html %}
 
-    {% if forloop.first %}
-        <h2 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}</h2>
-        <ul class="c-archives__list">
+<article class="content">
+
+  <header class="hero">
+    <h1 class="hero-title">{{ site.description }}</h1>
+    {% include core/share.html %}
+    {% if page.image %}
+      <div class="hero-image" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}.jpg'); background-image: -webkit-image-set( url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}.jpg') 1x, url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}-large.jpg') 2x )"></div>
     {% endif %}
-        <li class="c-archives__item">
-            <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-            <p>{{ post.date | date: "%b %-d, %Y" }}</p>
-        </li>
-    {% if forloop.last %}
-        </ul>
-    {% else %}
-        {% if this_year != next_year %}
-        </ul>
-        <h2 class="c-archives__year" id="{{ next_year }}-ref">{{next_year}}</h2>
-        <ul class="c-archives__list">
-        {% endif %}
-    {% endif %}
-{% endfor %}
-</section>
+  </header>
 
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Person",
-  "name": "Tanaka Chingonzo",
-  "url": "http://tanaka.co.zw",
-  "sameAs": [
-    "http://www.facebook.com/tanaka.ching",
-    "http://instagram.com/tanakachingonzo/",
-    "http://www.linkedin.com/in/tanakachingonzo/",
-    "http://plus.google.com/+tanakagregchingonzohme"
-  ]
-}
-</script>
+  <section id="about" class="section">
+    <h2 class="section-title">About</h2>
+    <article>
+      <h3 class="section-header">Made by Tanaka.</h3>
+      <p class="section-body"> A year ago, I travelled 10000 miles away from home, on scholarship to work on a project in Boulder, Colorado. Long story. I raised $3000+ in funding for this project.
+      </br>
+    </br>
+I was rejected by 20 universities. Long story.
+</br>
+</br>
+A year later I was interning at the American embassy in Zimbabwe.Long story.
+</br>
+Now, a year later, I am in Wooster Ohio, on scholarship, pursuing a Double major in Computer Science and English while helping students back home to find opportunities like I did, through <a href="http://apply.co.zw/">Apply Zimbabwe</a>.
+<br>
+</br>
+I am seeking work in the fields of big data analytics, blockchain, and machine learning. Connect with me here or on <a href="https://www.linkedin.com/in/tanakachingonzo/">Linkedin</a> if you would like to work with me. Ask me about my long stories. What is the last book you read? I have a few recommendations for your next one.</p>
+      <a class="section-link" href="https://www.linkedin.com/in/tanakachingonzo/">Message me on Linkedin</a>
+    </article>
+  </section>
 
+  <section id="posts" class="section">
+    <h2 class="section-title">Posts</h2>
+    <article class="section-writing">
+      {% assign posts = site.posts | sort: 'order' | where:"lang", page.lang | limit: 3 %}
+      {% for page in posts %}
+      <h3 class="section-header"><a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h3>
+        {% include core/date.html %}
+        <p class="section-body">{{ page.excerpt | strip_html | truncatewords: 32 }}</p>
+      {% endfor %}
+      <a class="section-link" href="{{ site.social.medium }}">Read more on Medium</a>
+    </article>
+  </section>
 
+</article>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-83940835-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+{% include core/footer.html %}

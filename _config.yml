@@ -1,17 +1,68 @@
-# Site settings
-title: Tanaka Chingonzo
-author: Tanaka Chingonzo
-email: tanaka.chingonzo@watsonuniversity.org
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tanaka.co.zw" # the base hostname & protocol for your site
-twitter_username: tanakachingonzo
-github_username:  tanakachingonzo
-facebook_username: tanaka.ching
+# Dependencies
+markdown:             kramdown
+highlighter:          rouge
 
 
-# Build settings
-include: [_pages]
-markdown: kramdown
-permalink: /:title
-sass:
-    style: compressed
+# Gems
+gems:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+
+
+# Settings
+exclude:              [CNAME, README.md, NOTES.md, LICENSE.md, .gitignore, package.json, bower.json, _js, _scss, _images, gulpfile.js, gulpconfig.js, node_modules, bower_components, gemfile, Gemfile.lock]
+permalink:            /:title/
+compress_html:
+  clippings: all
+  comments: all
+
+
+# Site meta
+title:                'Tanaka Chingonzo'
+tagline:              'Life Long Learner'
+description:          'Change is inevitable. <a href="https://tanaka.co.zw/" target="_blank" rel="noopener noreferrer">Made by Tanaka</a>.'
+keywords:             'tanaka, chingonzo, tanakachingonzo, developer, traveller, design, code, jekyll, change, theme, for hire'
+url:                  http://tanaka.co.zw
+baseurl:              
+assets:               /assets
+images:               /images/
+image:                index-large.jpg
+logo:                 /assets/icons/apple-icon-144x144.png
+dark_theme:           false
+
+author:
+  name:               Tanaka Chingonzo
+  bio:                Hi, I'm Tanaka, the author of this blog. Nice to meet you!
+  image:              author
+  url:                http://tanaka.co.zw
+  email:              tanaka.chingonzo@watsonuniversity.org
+  twitter:            tanakachingonzo
+
+social:
+  twitter:            https://twitter.com/tanakachingonzo
+  instagram:          https://instagram.com/tanakachingonzo
+  github:             https://github.com/tanakachingonzo
+  medium:             https://medium.com
+version:              3.1.3
+
+github:
+  repo:               https://github.com/tanakachingonzo/change
+
+
+# Integrations
+# typekit:              fcv7rfe
+
+google_fonts:
+  Overpass:           400, 600, 800
+
+google_analytics_key: UA-94021817-2
+# google_site_verification: Z-pc_HPc4XNBz8xg1fgtxO2MSIYLirZc2jWTNq0bJyM
+
+
+# Content
+excerpt_separator: <!-- Read more -->
+
+navigation:
+  GitHub: https://github.com/tanakachingonzo/

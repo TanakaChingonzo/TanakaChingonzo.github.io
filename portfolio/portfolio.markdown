@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tanaka Chingonzo- Portfolio
+title: Portfolio
 image: true
 lang: en
 ref:	portfolio-tanaka-chingonzo

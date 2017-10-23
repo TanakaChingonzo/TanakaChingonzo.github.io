@@ -10,9 +10,6 @@ ref:	portfolio-tanaka-chingonzo
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 ## Rezident Zimbabwe
 Infrastructure Reporting for Municipalities
 <br>

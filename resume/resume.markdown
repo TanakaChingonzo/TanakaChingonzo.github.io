@@ -3,7 +3,7 @@ layout: page
 title: Resume
 image: true
 lang: en
-ref:	resume-tanaka-chingonzo
+ref: resume-tanaka-chingonzo
 ---
 
 # Tanaka Chingonzo's Resume, Internship, Startup, Conference and Professional experience

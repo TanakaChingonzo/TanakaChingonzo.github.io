@@ -3,6 +3,13 @@ layout: default
 font: serif
 ---
 
+{% assign author = site.data.authors[page.author] %}
+{% if page.date_modified %}
+{% assign modified = page.date_modified %}
+{% else %}
+{% assign modified = page.date %}
+{% endif %}
+
 {% include core/metabar.html %}
 
 <article class="content post">

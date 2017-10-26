@@ -22,7 +22,7 @@ compress_html:
 # Site meta
 title:                'Tanaka Chingonzo'
 tagline:              'Life Long Learner'
-description:          'Passionate Learner. Writer. Problem solver. <a href="https://tanaka.co.zw/" target="_blank" rel="noopener noreferrer">Made by Tanaka</a>.'
+description:          'I am a passionate learner and problem solver. <a href="https://tanaka.co.zw/" target="_blank" rel="noopener noreferrer">So I made this</a>.'
 keywords:             'tanaka, chingonzo, tanakachingonzo, developer, traveller, design, code, jekyll, change, theme, for hire'
 url:                  http://tanaka.co.zw
 baseurl:              

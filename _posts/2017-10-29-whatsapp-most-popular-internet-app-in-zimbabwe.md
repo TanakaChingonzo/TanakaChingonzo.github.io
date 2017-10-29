@@ -26,6 +26,18 @@ It accounts for up to 44% of all mobile internet usage in the country. WhatsAppâ
 
 I like to call my parents and family to find out how they are, and to let them know how I miss them. It is interesting to see how my preference for "free" calls has the effect of "increasing cannibalization of traditional voice and messaging revenues" on my country's economy. Nothing is free. I am not particularly enamored with Econet, or NetOne- they especially teach us that nothing is free- but they employ between them, thousands of people.
 
+<figure class="sidebar">
+  <img
+  	srcset="{{ site.assets }}{{ site.images }}wherever-seek-beauty-there.jpg 2000w,
+  	        {{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg 1000w,
+  	        {{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg 500w"
+    sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
+  	src="{{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
+  	alt="Techzim- Data Prices in Zimbabwe">
+  <figcaption><a href="https://www.techzim.co.zw/2017/08/data-not-much-more-expensive-in-zim/" target="_blank">Is data really that much more expensive in Zimbabwe?</a>
+</figcaption>
+</figure>
+
 Each Whatsapp call I make undercuts their revenue. Money that would have been added to our gross national revenue. The small ways I contribute to our economy. Or undermine it. Unknowingly.
 
 But it is more complex than that is it not? We have our Zimbabwean economy, but we also have our regional economy now- the SADC. Beyond that, we also have the global economy. Globalization, technology has given us the gift of connectedness, and ubiquity. 
@@ -40,9 +52,9 @@ Facebook's starting mission was, "to give people the power to build community an
 
 In 2017, that mission statement was updated to 
 
-> " to Give people the power to build community
+![Mark Zuckerberg and his connectivity brain trust (from left): Hamid Hemmati, Andy Cox, and Yael Maguire.	 ART STREIBER](https://www.wired.com/wp-content/uploads/2016/01/fb_15-group2.jpg)
 
-and bring the world closer together."
+> "To Give people the power to build community and bring the world closer together."
 
 I want to think there is a more equitable way to do this. A way that gives revenue to both the countries concerned, and to the companies leading this connectedness effort. It is admittedly, a slippery slope.
 

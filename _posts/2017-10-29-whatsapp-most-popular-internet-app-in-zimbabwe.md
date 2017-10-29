@@ -18,7 +18,7 @@ medium: ''
     sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
   	src="{{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
   	alt="Whatsapp is not free.">
-  <figcaption>1. Your personal data.
+  <figcaption>1. Your personal data.<br>
   2.Revenue lost to governments and local firms.</figcaption>
 </figure>
 

@@ -10,7 +10,14 @@ medium: ''
 
 I will be writing a post every week with thoughts on an article, or a piece of writing that I will have found thoughtprovoking that week. If you would like me to read something you found interesting, or to have a discussion about it, reach out to me <a href="mailto:tanaka.chingonzo@watsonuniversity.org?Subject=This%20week%20in%20a%20few%20words" target="_top">here</a>.
 
-<meta property="og:image" content="http://tanaka.co.zw/change/assets/images/posts/doomsday-scenario-the-next-global-epidemic.jpg">
+<figure class="sidebar">
+  <img
+  	srcset="http://tanaka.co.zw/assets/images/posts/doomsday-scenario-the-next-global-epidemic.jpg"
+    sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
+  	src="http://tanaka.co.zw/assets/images/posts/doomsday-scenario-the-next-global-epidemic.jpg"
+  	alt="Influenza- H5 and the threat of a virulent pathogen.">
+  <figcaption>Disease continues to be our greatest existential threat.</figcaption>
+</figure>
 
 As someone who is passionate about Computer Science, and having always had an interest in the discipline of Biology, this week's article has been especially interesting. It ties into a book I am currently reading and hoping I never finish. Yuval Noah Harari's Homo Deus is a true pleasure to read. Every page is filled with startling facts about the worrying past, troubling present, and many possible futures of our species.
 

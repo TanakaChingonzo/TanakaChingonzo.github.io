@@ -16,8 +16,8 @@ medium: ''
     sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
   	src="http://tanaka.co.zw/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
   	alt="Whatsapp is not free.">
-  <figcaption>The costs of apps:<br>1. Your personal data.<br>
-  2.Revenue lost to governments and local firms.</figcaption>
+  <figcaption>How do you really pay for your apps?<br>1. Your personal data.<br>
+  2.Revenue lost to governments and local firms.<br> 3. Subscriptions and impulsive in-app purchases.</figcaption>
 </figure>
 
 It accounts for up to 44% of all mobile internet usage in the country. WhatsApp’s parent, Facebook took up only 1%. Mobile internet accounts for 98% of all internet use in the Zimbabwe.

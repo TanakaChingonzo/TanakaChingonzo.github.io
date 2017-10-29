@@ -66,9 +66,3 @@ excerpt_separator: <!-- Read more -->
 
 navigation:
   GitHub: https://github.com/tanakachingonzo/
-
-<meta property="og:image" content="http://tanaka.co.zw/_images/posts/index.jpg" />
-<meta property="og:title" content="Tanaka Chingonzo" />
-<meta property="og:url" content="http://tanaka.co.zw" />
-<meta property="og:description" 
-  content="Tanaka Chingonzo's website, resume, blog, portfolio and homepage." />

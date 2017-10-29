@@ -61,7 +61,17 @@ In 2017, that mission statement was updated to
 
 ![Mark Zuckerberg and his connectivity brain trust (from left): Hamid Hemmati, Andy Cox, and Yael Maguire.	 ART STREIBER](https://www.wired.com/wp-content/uploads/2016/01/fb_15-group2.jpg)
 
-> "To Give people the power to build community and bring the world closer together."
+<figure class="sidebar">
+  <img
+  	srcset=""
+  	src=""
+  	alt="Wired: INSIDE FACEBOOK’S AMBITIOUS PLAN TO CONNECT THE WHOLE WORLD">
+  <figcaption><a href="https://www.wired.com/2016/01/facebook-zuckerberg-internet-org/" target="_blank">"To Give people the power to build community and bring the world closer together."
+</a>
+</figcaption>
+</figure>
+
+
 
 I want to think there is a more equitable way to do this. A way that gives revenue to both the countries concerned, and to the companies leading this connectedness effort. It is admittedly, a slippery slope.
 

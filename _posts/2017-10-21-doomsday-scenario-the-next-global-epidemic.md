@@ -49,6 +49,16 @@ Epidemics and pandemics have historically been the greatest existential dangers 
 
 ## And more and more countries are continuing to become democratic.
 
+<figure class="sidebar">
+  <img
+  	srcset=""
+    sizes=""
+  	src=""
+  	alt="The Guardian">
+  <figcaption><a href="https://www.theguardian.com/books/2017/oct/02/future-of-war-lawrence-freedman-review" target="_blank">The Future of War: A History by Lawrence Freedman – review</a>
+  </figcaption>
+</figure>
+
 War will continue to kill fewer and fewer people.
 
 ![The Future of Conflict](http://tanaka.co.zw/assets/images/posts/violence.png)
@@ -93,6 +103,17 @@ Fortunately, advances in medicine in the last century have minimised the mortali
 [Yuval Noah Harari](http://www.ynharari.com/) argues, 
 
 "In 2014 more than 2.1 billion people were overweight, compared to 850 million who suffered from malnutrition. Half of humankind is expected to be overweight by 2030. In 2010 famine and malnutrition combined killed about 1 million people, whereas obesity killed 3 million."
+
+<figure class="sidebar">
+  <img
+  	srcset=""
+    sizes=""
+  	src=""
+  	alt="Project Syndicate">
+  <figcaption><a href="https://www.project-syndicate.org/commentary/global-disease-outbreaks-bio-preparedness-by-stephen-j-thomas-2017-10" target="_blank">Preempting the Next Pandemic</a>
+  </figcaption>
+</figure>
+
 
 "Whereas in ancient agricultural societies human violence caused about 15 per cent of all deaths, during the twentieth century violence caused only 5 per cent of deaths, and in the early twenty-first century it is responsible for about 1 per cent of global mortality.22 In 2012 about 56 million people died throughout the world; 620,000 of them died due to human violence (war killed 120,000 people, and crime killed another 500,000). In contrast, 800,000 committed suicide, and 1.5 million died of diabetes.Sugar is now more dangerous than gunpowder."
 

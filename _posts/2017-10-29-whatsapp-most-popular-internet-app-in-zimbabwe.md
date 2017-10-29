@@ -46,7 +46,7 @@ What globalization HAS not done is level the playing field.
   	srcset="http://www.worldbank.org/content/dam/Worldbank/Feature%20Story/Poverty/DEC/EricMaskinStory-Farmer-June23-2014.jpg"
   	src="http://www.worldbank.org/content/dam/Worldbank/Feature%20Story/Poverty/DEC/EricMaskinStory-Farmer-June23-2014.jpg"
   	alt="World Bank">
-  <figcaption><a href="http://www.worldbank.org/en/news/feature/2014/06/23/theorist-eric-maskin-globalization-is-increasing-inequality" target="_blank">Theorist Eric Maskin: Globalization Is Increasing Inequality</a>- <a href="http://www.worldbank.org/en/news/feature/2014/06/23/theorist-eric-maskin-globalization-is-increasing-inequality" target="_blank"World Bank
+  <figcaption><a href="http://www.worldbank.org/en/news/feature/2014/06/23/theorist-eric-maskin-globalization-is-increasing-inequality" target="_blank">Theorist Eric Maskin: "Globalization Is Increasing Inequality" -World Bank
 </a>
 </figcaption>
 </figure>

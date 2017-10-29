@@ -26,7 +26,7 @@ In 2017, that mission statement was updated to
 
 > " to Give people the power to build community and bring the world closer together."
 
-I want to think there is a more equitable way to do this. A way that gives revenue to the countries concerned, and to the companies leading this connectedness effort.
+I want to think there is a more equitable way to do this. A way that gives revenue to both the countries concerned, and to the companies leading this connectedness effort. It is admittedly, a slippery slope.
 
 Globalization has made the playing field more precariously slanted and it has made those connected, starkly aware of it. The wealthy are wealthier and the poorer are poorer still. It is my hope that my generation can reduce the inequality we are inheriting today, and that empathy may play a more prominent role in the way we do business.
 

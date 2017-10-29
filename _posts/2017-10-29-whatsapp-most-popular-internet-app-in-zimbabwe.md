@@ -55,9 +55,11 @@ Thank you <a href="http://venturesafrica.com/author/tawanda-karombo/" target="_b
 
 Referenced Sources:
 
-F. (2017, October 28). Nearly half of all internet traffic in Zimbabwe goes to WhatsApp. Retrieved October 29, 2017, from <a href="https://qz.com/1114551/in-zimbabwe-whatsapp-takes-nearly-half-of-all-internet-traffic/" target="_blank">https://qz.com/1114551/in-zimbabwe-whatsapp-takes-nearly-half-of-all-internet-traffic/</a>
+F. (2017, October 28). Nearly half of all internet traffic in Zimbabwe goes to WhatsApp. Retrieved Octr 29, 2017, from <a href="https://qz.com/1114551/in-zimbabwe-whatsapp-takes-nearly-half-of-all-internet-trafobefic/" target="_blank">https://qz.com/1114551/in-zimbabwe-whatsapp-takes-nearly-half-of-all-internet-traffic/</a>
 
+F. (2017, October 28). Facebook Official About Page. Retrieved October 29, 2017, from 
 <a href="https://www.facebook.com/pg/facebook/about/" target="_blank">https://www.facebook.com/pg/facebook/about/</a>
 
+F. (2017, October 28). Facebook Official Investors Page. Retrieved October 29, 2017, from 
 <a href="https://investor.fb.com/resources/default.aspx" target=
 "_blank">https://investor.fb.com/resources</a>

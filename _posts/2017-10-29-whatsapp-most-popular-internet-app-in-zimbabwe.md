@@ -2,7 +2,7 @@
 layout: post
 lang: en
 ref: whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe
-title: Whatsapp is not free. The underlying cost of things.
+title: Whatsapp is not free. The underlying cost of "free" apps.
 image: true
 medium: ''
 ---
@@ -18,7 +18,8 @@ medium: ''
     sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
   	src="{{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
   	alt="Whatsapp is not free.">
-  <figcaption>The cost of Whatsapp to developing countries.</figcaption>
+  <figcaption>1. Your personal data.
+  2.Revenue lost to governments and local firms.</figcaption>
 </figure>
 
 It accounts for up to 44% of all mobile internet usage in the country. WhatsApp’s parent, Facebook took up only 1%. Mobile internet accounts for 98% of all internet use in the Zimbabwe.
@@ -29,7 +30,9 @@ Each Whatsapp call I make undercuts their revenue. Money that would have been ad
 
 But it is more complex than that is it not? We have our Zimbabwean economy, but we also have our regional economy now- the SADC. Beyond that, we also have the global economy. Globalization, technology has given us the gift of connectedness, and ubiquity. 
 
->Everything is connected now. What globalization HAS not done is level the playing field.
+>Everything is connected.
+
+What globalization HAS not done is level the playing field.
 
 People are now more widely connected, but even access to this connectedness is grossly unequal across the world. 
 
@@ -37,7 +40,9 @@ Facebook's starting mission was, "to give people the power to build community an
 
 In 2017, that mission statement was updated to 
 
-> " to Give people the power to build community and bring the world closer together."
+> " to Give people the power to build community
+
+and bring the world closer together."
 
 I want to think there is a more equitable way to do this. A way that gives revenue to both the countries concerned, and to the companies leading this connectedness effort. It is admittedly, a slippery slope.
 
@@ -50,8 +55,9 @@ Thank you <a href="http://venturesafrica.com/author/tawanda-karombo/" target="_b
 
 Referenced Sources:
 
-F. (2017, October 28). Nearly half of all internet traffic in Zimbabwe goes to WhatsApp. Retrieved October 29, 2017, from https://qz.com/1114551/in-zimbabwe-whatsapp-takes-nearly-half-of-all-internet-traffic/
+F. (2017, October 28). Nearly half of all internet traffic in Zimbabwe goes to WhatsApp. Retrieved October 29, 2017, from <a href="https://qz.com/1114551/in-zimbabwe-whatsapp-takes-nearly-half-of-all-internet-traffic/" target="_blank">https://qz.com/1114551/in-zimbabwe-whatsapp-takes-nearly-half-of-all-internet-traffic/</a>
 
-https://www.facebook.com/pg/facebook/about/
+<a href="https://www.facebook.com/pg/facebook/about/" target="_blank">https://www.facebook.com/pg/facebook/about/</a>
 
-https://investor.fb.com/resources/default.aspx
+<a href="https://investor.fb.com/resources/default.aspx" target=
+_blank">https://investor.fb.com/resources/</a>

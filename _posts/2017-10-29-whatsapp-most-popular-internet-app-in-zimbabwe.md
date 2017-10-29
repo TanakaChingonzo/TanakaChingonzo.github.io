@@ -60,4 +60,4 @@ F. (2017, October 28). Nearly half of all internet traffic in Zimbabwe goes to W
 <a href="https://www.facebook.com/pg/facebook/about/" target="_blank">https://www.facebook.com/pg/facebook/about/</a>
 
 <a href="https://investor.fb.com/resources/default.aspx" target=
-_blank">https://investor.fb.com/resources/</a>
+"_blank">https://investor.fb.com/resources</a>

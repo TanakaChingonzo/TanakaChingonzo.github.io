@@ -46,7 +46,7 @@ What globalization HAS not done is level the playing field.
   	srcset="http://www.worldbank.org/content/dam/Worldbank/Feature%20Story/Poverty/DEC/EricMaskinStory-Farmer-June23-2014.jpg"
   	src="http://www.worldbank.org/content/dam/Worldbank/Feature%20Story/Poverty/DEC/EricMaskinStory-Farmer-June23-2014.jpg"
   	alt="World Bank">
-  <figcaption><a href="http://www.worldbank.org/en/news/feature/2014/06/23/theorist-eric-maskin-globalization-is-increasing-inequality" target="_blank">Theorist Eric Maskin: Globalization Is Increasing Inequality
+  <figcaption><a href="http://www.worldbank.org/en/news/feature/2014/06/23/theorist-eric-maskin-globalization-is-increasing-inequality" target="_blank">Theorist Eric Maskin: Globalization Is Increasing Inequality</a>- <a href="http://www.worldbank.org/en/news/feature/2014/06/23/theorist-eric-maskin-globalization-is-increasing-inequality" target="_blank"World Bank
 </a>
 </figcaption>
 </figure>
@@ -81,8 +81,8 @@ Globalization has made the playing field more precariously slanted and it has ma
   <img
   	srcset="https://tctechcrunch2011.files.wordpress.com/2017/06/aquila_secondflight_002.jpg"
   	src="https://tctechcrunch2011.files.wordpress.com/2017/06/aquila_secondflight_002.jpg"
-  	alt="Facebook Notes:">
-  <figcaption><a href="https://www.facebook.com/notes/mark-zuckerberg/the-technology-behind-aquila/10153916136506634/" target="_blank">"Project Aquila and the Quest to bring everyone around the world internet access."
+  	alt="">
+  <figcaption><a href="https://www.facebook.com/notes/mark-zuckerberg/the-technology-behind-aquila/10153916136506634/" target="_blank">"Project Aquila and the Quest to bring everyone around the world internet access."-Facebook Official Blog
 </a>
 </figcaption>
 </figure>

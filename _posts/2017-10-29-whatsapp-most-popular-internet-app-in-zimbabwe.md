@@ -2,7 +2,7 @@
 layout: post
 lang: en
 ref: whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe
-title: Whatsapp is not free. The underlying cost of "free" apps.
+title: The cost of "free" apps and the quest to connect the world.
 image: true
 medium: ''
 ---
@@ -12,11 +12,9 @@ medium: ''
 
 <figure class="sidebar">
   <img
-  	srcset="{{ site.assets }}{{ site.images }}wherever-seek-beauty-there.jpg 2000w,
-  	        {{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg 1000w,
-  	        {{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg 500w"
+  	srcset="http://tanaka.co.zw/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
     sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
-  	src="{{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
+  	src="http://tanaka.co.zw/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
   	alt="Whatsapp is not free.">
   <figcaption>1. Your personal data.<br>
   2.Revenue lost to governments and local firms.</figcaption>

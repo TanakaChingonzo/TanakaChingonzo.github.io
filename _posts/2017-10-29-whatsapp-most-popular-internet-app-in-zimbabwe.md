@@ -10,6 +10,17 @@ medium: ''
 # WhatsApp, is by far the most popular internet app in Zimbabwe
 <meta property="og:image" content="http://tanaka.co.zw/change/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg">
 
+<figure class="sidebar">
+  <img
+  	srcset="{{ site.assets }}{{ site.images }}wherever-seek-beauty-there.jpg 2000w,
+  	        {{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg 1000w,
+  	        {{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg 500w"
+    sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
+  	src="{{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
+  	alt="Whatsapp is not free.">
+  <figcaption>The cost of Whatsapp to developing countries.</figcaption>
+</figure>
+
 It accounts for up to 44% of all mobile internet usage in the country. WhatsApp’s parent, Facebook took up only 1%. Mobile internet accounts for 98% of all internet use in the Zimbabwe.
 
 I like to call my parents and family to find out how they are, and to let them know how I miss them. It is interesting to see how my preference for "free" calls has the effect of "increasing cannibalization of traditional voice and messaging revenues" on my country's economy. Nothing is free. I am not particularly enamored with Econet, or NetOne- they especially teach us that nothing is free- but they employ between them, thousands of people.
@@ -32,16 +43,6 @@ I want to think there is a more equitable way to do this. A way that gives reven
 
 Globalization has made the playing field more precariously slanted and it has made those connected, starkly aware of it. The wealthy are wealthier and the poorer are poorer still. It is my hope that my generation can reduce the inequality we are inheriting today, and that empathy may play a more prominent role in the way we do business.
 
-<figure class="sidebar">
-  <img
-  	srcset="{{ site.assets }}{{ site.images }}wherever-seek-beauty-there.jpg 2000w,
-  	        {{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg 1000w,
-  	        {{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg 500w"
-    sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
-  	src="{{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
-  	alt="Whatsapp is not free.">
-  <figcaption>The cost of Whatsapp to developing countries.</figcaption>
-</figure>
 
 May our legacy overturn the exploitation and corruption we inherited yesterday.
 

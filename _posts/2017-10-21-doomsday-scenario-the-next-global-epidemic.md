@@ -32,7 +32,14 @@ This article has left me most thoughtful about my present and future. It and oth
  
 
 
-
+<figure class="sidebar">
+  <img
+  	srcset="http://tanaka.co.zw/assets/images/posts/Homo-Deus-Yuval-Harari.jpg"
+    sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
+  	src="http://tanaka.co.zw/assets/images/posts/Homo-Deus-Yuval-Harari.jpg"
+  	alt="Yuval Noah Harari- Homo Deus">
+  <figcaption>A Brief History of Tomorrow.</figcaption>
+</figure>
 
 In May of 1997, a boy in Hong Kong is diagnosed with a new form of [influenza- H5](https://www.cdc.gov/flu/avianflu/h5/index.htm)- he was dead within days. Within months, the Chinese government had ordered the slaughter of 1.2 million birds to curb the spread of the outbreak.
 Epidemics and pandemics have historically been the greatest existential dangers our species has faced. We spend trillions on defense annualy, but [war and violence](https://ourworldindata.org/slides/war-and-violence/#/title-slide) have really killed just 167 million to 188 million in the last century. That is a drop in the ocean compared to epidemics and disease.

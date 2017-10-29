@@ -56,6 +56,16 @@ War will continue to kill fewer and fewer people.
 
 In contrast, disease continues to be our greatest existential threat.
 
+<figure class="sidebar">
+  <img
+  	srcset=""
+    sizes=""
+  	src=""
+  	alt="Business Insider">
+  <figcaption><a href="http://www.businessinsider.com/xxx-it-is-very-likely-that-there-will-be-a-bird-flu-pandemic-in-humans-soon-2012-6" target="_blank">Bird Flu Is Only Five Mutations Away From Spreading From Human-To-Human
+</a></figcaption>
+</figure>
+
 "The Black Death is estimated to have wiped out approximately a third of the European population between 1346 and 1353. Tuberculosis killed about a billion people in the 19th and 20th centuries alone, and two billion are thought to be currently infected. The Spanish flu pandemic of 1918 resulted in between 50 and 100 million deaths worldwide in a space of just 24 weeks."
 
 -[Duncan Geere](https://howwegettonext.com/@duncangeere)

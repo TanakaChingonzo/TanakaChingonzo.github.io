@@ -57,7 +57,9 @@ People are now more widely connected, but even access to this connectedness is g
 
 Facebook's starting mission was, "to give people the power to build community and bring the world closer together."
 
-In 2017, that mission statement was updated to 
+In 2017, that mission statement was updated to:
+
+### "To Give people the power to build community and bring the world closer together."
 
 ![Mark Zuckerberg and his connectivity brain trust (from left): Hamid Hemmati, Andy Cox, and Yael Maguire.	 ART STREIBER](https://www.wired.com/wp-content/uploads/2016/01/fb_15-group2.jpg)
 
@@ -65,7 +67,7 @@ In 2017, that mission statement was updated to
   <img
   	srcset=""
   	src=""
-  	alt="Wired: INSIDE FACEBOOK’S AMBITIOUS PLAN TO CONNECT THE WHOLE WORLD">
+  	alt="Wired Magazine">
   <figcaption><a href="https://www.wired.com/2016/01/facebook-zuckerberg-internet-org/" target="_blank">"To Give people the power to build community and bring the world closer together."
 </a>
 </figcaption>
@@ -77,8 +79,17 @@ I want to think there is a more equitable way to do this. A way that gives reven
 
 Globalization has made the playing field more precariously slanted and it has made those connected, starkly aware of it. The wealthy are wealthier and the poorer are poorer still. It is my hope that my generation can reduce the inequality we are inheriting today, and that empathy may play a more prominent role in the way we do business.
 
+<figure class="sidebar">
+  <img
+  	srcset="https://tctechcrunch2011.files.wordpress.com/2017/06/aquila_secondflight_002.jpg"
+  	src="https://tctechcrunch2011.files.wordpress.com/2017/06/aquila_secondflight_002.jpg"
+  	alt="Facebook Notes:">
+  <figcaption><a href="https://www.facebook.com/notes/mark-zuckerberg/the-technology-behind-aquila/10153916136506634/" target="_blank">"Project Aquila and the Quest to bring everyone around the world internet access."
+</a>
+</figcaption>
+</figure>
 
-May our legacy overturn the exploitation and corruption we inherited yesterday.
+May our legacy do better. May we leave the world better than we inherited  it yesterday.
 
 Thank you <a href="http://venturesafrica.com/author/tawanda-karombo/" target="_blank">Tawanda Karombo</a> for an insightful article.
 

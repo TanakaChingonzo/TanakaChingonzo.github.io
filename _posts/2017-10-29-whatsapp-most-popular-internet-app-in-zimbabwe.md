@@ -28,11 +28,8 @@ I like to call my parents and family to find out how they are, and to let them k
 
 <figure class="sidebar">
   <img
-  	srcset="{{ site.assets }}{{ site.images }}wherever-seek-beauty-there.jpg 2000w,
-  	        {{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg 1000w,
-  	        {{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg 500w"
-    sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
-  	src="{{ site.assets }}{{ site.images }}whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
+  	srcset="https://t3n9sm.c2.acecdn.net/wp-content/uploads/2017/08/Data-prices-.jpg"
+  	src="https://t3n9sm.c2.acecdn.net/wp-content/uploads/2017/08/Data-prices-.jpg"
   	alt="Techzim- Data Prices in Zimbabwe">
   <figcaption><a href="https://www.techzim.co.zw/2017/08/data-not-much-more-expensive-in-zim/" target="_blank">Is data really that much more expensive in Zimbabwe?</a>
 </figcaption>

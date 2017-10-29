@@ -68,7 +68,7 @@ In 2017, that mission statement was updated to:
   	srcset=""
   	src=""
   	alt="Wired Magazine">
-  <figcaption><a href="https://www.wired.com/2016/01/facebook-zuckerberg-internet-org/" target="_blank">"To Give people the power to build community and bring the world closer together."
+  <figcaption><a href="https://www.wired.com/2016/01/facebook-zuckerberg-internet-org/" target="_blank">"To Give people the power to build community and bring the world closer together.- Facebook Mission Statement"
 </a>
 </figcaption>
 </figure>

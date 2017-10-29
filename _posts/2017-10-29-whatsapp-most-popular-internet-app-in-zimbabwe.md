@@ -89,7 +89,7 @@ Globalization has made the playing field more precariously slanted and it has ma
 </figcaption>
 </figure>
 
-May our legacy do better. May we leave the world better than we inherited  it yesterday.
+May our generation do better. May our legacy be a better one. May we leave the world better than we inherited  it yesterday.
 
 Thank you <a href="http://venturesafrica.com/author/tawanda-karombo/" target="_blank">Tawanda Karombo</a> for an insightful article.
 

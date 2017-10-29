@@ -16,13 +16,12 @@ medium: ''
     sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
   	src="http://tanaka.co.zw/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
   	alt="Whatsapp is not free.">
-  <figcaption>How do you really pay for your apps?<br>1. Your personal data.<br>
-  2.Revenue lost to governments and local firms.<br> 3. Subscriptions and impulsive in-app purchases.</figcaption>
+  <figcaption>How do you really pay for your apps?<br>1. Your personal data.<br> 2. Revenue lost to governments and local firms.<br> 3. Subscriptions and impulsive in-app purchases.</figcaption>
 </figure>
 
-It accounts for up to 44% of all mobile internet usage in the country. WhatsApp’s parent, Facebook took up only 1%. Mobile internet accounts for 98% of all internet use in the Zimbabwe.
+It accounts for up to 44% of all mobile internet usage in the country. WhatsApp’s parent, Facebook, took up only 1%. Mobile internet accounts for 98% of all internet use in the Zimbabwe.
 
-I like to call my parents and family to find out how they are, and to let them know how I miss them. It is interesting to see how my preference for "free" calls has the effect of "increasing cannibalization of traditional voice and messaging revenues" on my country's economy. Nothing is free. I am not particularly enamored with Econet, or NetOne- they especially teach us that nothing is free- but they employ between them, thousands of people.
+I like to call my parents and family to find out how they are, and to let them know how I miss them. It is interesting to see how my preference for "free" calls has the effect of "increasing cannibalization of traditional voice and messaging revenues" on my country's economy. Nothing is free. I am not particularly enamored with Econet, or NetOne- they especially teach us that nothing is free- but they employ thousands of people between them.
 
 <figure class="sidebar">
   <img
@@ -35,7 +34,7 @@ I like to call my parents and family to find out how they are, and to let them k
 
 Each Whatsapp call I make undercuts their revenue. Money that would have been added to our gross national revenue. The small ways I contribute to our economy. Or undermine it. Unknowingly.
 
-But it is more complex than that is it not? We have our Zimbabwean economy, but we also have our regional economy now- the SADC. Beyond that, we also have the global economy. Globalization, technology has given us the gift of connectedness, and ubiquity. 
+But it is more complex than that, is it not? We have our Zimbabwean economy, but we also have our regional economy now- the SADC. Beyond that, we also have the global economy. Globalization, technology has given us the gift of connectedness, and ubiquity. 
 
 >Everything is connected.
 
@@ -51,13 +50,13 @@ What globalization HAS not done is level the playing field.
 </figcaption>
 </figure>
 
-People are now more widely connected, but even access to this connectedness is grossly unequal across the world. 
+People are now more widely connected but even access to this connectedness is grossly unequal across the world. 
 
 Facebook's starting mission was, "to give people the power to build community and bring the world closer together."
 
 In 2017, that mission statement was updated to:
 
-### "To Give people the power to build community and bring the world closer together."
+### "To give people the power to build community and bring the world closer together."
 
 ![Mark Zuckerberg and his connectivity brain trust (from left): Hamid Hemmati, Andy Cox, and Yael Maguire.	 ART STREIBER](https://www.wired.com/wp-content/uploads/2016/01/fb_15-group2.jpg)
 
@@ -88,6 +87,8 @@ Globalization has made the playing field more precariously slanted and it has ma
 </figure>
 
 May our generation do better. May our legacy be a better one. May we leave the world better than we inherited  it yesterday.
+
+Do you have thoughts you would like to share? Reach out to say hi: <a href="mailto:tanaka.chingonzo@watsonuniversity.org?Subject=Blog" target="_top">Send me an email</a>.
 
 Thank you <a href="http://venturesafrica.com/author/tawanda-karombo/" target="_blank">Tawanda Karombo</a> for an insightful article.
 

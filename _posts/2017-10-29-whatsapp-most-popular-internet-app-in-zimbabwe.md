@@ -6,9 +6,11 @@ title: Whatsapp is not free. The underlying cost of things.
 image: true
 medium: ''
 ---
+
+# WhatsApp, is by far the most popular internet app in Zimbabwe
 <meta property="og:image" content="http://tanaka.co.zw/change/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg">
 
-"WhatsApp, is by far the most popular internet app in Zimbabwe, accounting for up to 44% of all mobile internet usage in the country. WhatsApp’s parent, Facebook took up only 1%. Mobile internet is 98% of all internet use in the country." -
+It accounts for up to 44% of all mobile internet usage in the country. WhatsApp’s parent, Facebook took up only 1%. Mobile internet accounts for 98% of all internet use in the Zimbabwe.
 
 I like to call my parents and family to find out how they are, and to let them know how I miss them. It is interesting to see how my preference for "free" calls has the effect of "increasing cannibalization of traditional voice and messaging revenues" on my country's economy. Nothing is free. I am not particularly enamored with Econet, or NetOne- they especially teach us that nothing is free- but they employ between them, thousands of people.
 

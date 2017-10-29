@@ -46,6 +46,16 @@ But it is more complex than that is it not? We have our Zimbabwean economy, but 
 
 What globalization HAS not done is level the playing field.
 
+<figure class="sidebar">
+  <img
+  	srcset="http://www.worldbank.org/content/dam/Worldbank/Feature%20Story/Poverty/DEC/EricMaskinStory-Farmer-June23-2014.jpg"
+  	src="http://www.worldbank.org/content/dam/Worldbank/Feature%20Story/Poverty/DEC/EricMaskinStory-Farmer-June23-2014.jpg"
+  	alt="World Bank">
+  <figcaption><a href="http://www.worldbank.org/en/news/feature/2014/06/23/theorist-eric-maskin-globalization-is-increasing-inequality" target="_blank">Theorist Eric Maskin: Globalization Is Increasing Inequality
+</a>
+</figcaption>
+</figure>
+
 People are now more widely connected, but even access to this connectedness is grossly unequal across the world. 
 
 Facebook's starting mission was, "to give people the power to build community and bring the world closer together."

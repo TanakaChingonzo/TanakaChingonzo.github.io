@@ -60,17 +60,6 @@ google_fonts:
 google_analytics_key: UA-83940835-1
 # google_site_verification: Z-pc_HPc4XNBz8xg1fgtxO2MSIYLirZc2jWTNq0bJyM
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83940835-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-83940835-1');
-</script>
-
-
 # Content
 excerpt_separator: <!-- Read more -->
 

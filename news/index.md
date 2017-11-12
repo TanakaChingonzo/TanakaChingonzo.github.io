@@ -8,9 +8,6 @@ ref: news
 
 # Articles and stories about Tanaka Chingonzo
 
-![](http://tanaka.co.zw/assets/images/posts/news.jpg)  
-
-
 London Centenary eClub gets involved in a community project in Zimbabwe
 -[Rotary International](https://portal.clubrunner.ca/3650/Stories/london-centenary-eclub-gets-involved-in-a-community-project-in-zimbabwe)
 

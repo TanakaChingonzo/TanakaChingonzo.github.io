@@ -8,7 +8,7 @@ ref: news
 
 # Articles and stories about Tanaka Chingonzo
 
-![The city of Harare- Tanaka Chingonzo's home](/images/city-of-harare-zimbabwe.jpg)  
+![](http://tanaka.co.zw/assets/images/posts/news.jpg)  
 
 
 London Centenary eClub gets involved in a community project in Zimbabwe

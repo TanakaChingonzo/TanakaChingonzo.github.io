@@ -3,7 +3,7 @@ layout: page
 lang: en
 ref: trust-in-the-age-of-big-data
 title: Who do you trust with your data?
-image: false
+image: true
 medium: ''
 ---
 

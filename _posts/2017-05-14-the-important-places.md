@@ -20,12 +20,7 @@ This poem was originally written and published by [Forest Woodward's father](htt
   <figcaption>Zimbabwe is my home. There are so many colours here.</figcaption>
 </figure>
 
-
 *The winter his father turned 70, filmmaker and photographer Forest Woodward found a poem his father had written in 1986, the year Woodward was born. It was called "[The Important places](https://www.artifactuprising.com/the-important-places)*
-
-
-
-
 
 >Child of Mine, come
 

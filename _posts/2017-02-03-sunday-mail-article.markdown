@@ -28,7 +28,7 @@ We received a fair amount of recognition for our project, winning prizes at vari
 
 The outcomes I walked away with from Watson including funding for my project, an invaluable network of mentors, peers and friends continue to prove indispensable even now.
 
-As Watson begins accepting applications for its fall Spring 2017 semester now, I highly encourage 19-23-year old’s working on social impact projects or interested in developing such a global network of peers to apply at http://www.watsonuniversity.org/.
+As Watson begins accepting applications for its fall Spring 2017 semester now, I highly encourage 19-23-year old’s working on social impact projects or interested in developing such a global network of peers to apply at [http://www.watsonuniversity.org/](http://www.watsonuniversity.org/)
 
 My four months at Watson saw me attend the Global Engagement Summit held at Northwestern University annually in April that welcomes young people from the world’s universities working on building and running ventures to solve the world’s problems.
 
@@ -36,7 +36,7 @@ Attending it, I could not help but think of the amazing Zimbabwean students in o
 
 I left that conference with the “outcome” as they called it, of having been awarded consultative services with an organisation known as Joining Vision and Outcomes that works with organisations to increase their impact and scale their solutions.
 
-The mentorship network as well as the global network of peers that the summit introduced me to have had the most lasting impact on my projects and work and I highly encourage students to consider applying to attend it at this link: http://theges.org/.
+The mentorship network as well as the global network of peers that the summit introduced me to have had the most lasting impact on my projects and work and I highly encourage students to consider applying to attend it at this link: [http://theges.org/](http://theges.org/).
 
 I was also able to attend The Conference on World Affairs at the University of Colorado-Boulder, Interning at Spark Boulder- a co-working space like our own B2C at Batanai Gardens here in Harare enabled me to interact with the Boulder community in a way I otherwise would never have been able to.
 
@@ -45,7 +45,6 @@ I met a Product manager at Google who later organised a tour of their small Boul
 It was an eye-opening experience to say the least and I left there after four months with a profound sense of wonder and loss at the world of opportunities available to Zimbabwean youth that go by every year without our taking advantage of them.
 
 It is with this background that I decided to begin an initiative to make these opportunities much more accessible to the Zimbabwean students who need to take advantage of them in order to gain exposure, to build their enterprises and to gain access to resources and networks and communities they can leverage as they build ventures and solutions to Zimbabwean problems.
-
 
 I was only able to attend Watson University because the Education Advisor at Education USA, who had been helping me as I applied to American colleges, recommended the opportunity to me.  It changed my life. I urge every student to visit the Education Advising center nearest to them if they are interested in pursuing an education in the USA or cultural and entrepreneurial exchange programs that may exist there.
 
@@ -61,10 +60,6 @@ Additionally, there is a wealth of local opportunities that high school students
 
 I also urge high school students to sign up at the bottom of the website for updates on new competitions and events. They can also like the page on Facebook and follow us on Twitter and get in touch with us on the same platforms.
 
-
-
----
-
 If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
- 
+
 This is the only thank you I need.

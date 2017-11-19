@@ -13,15 +13,11 @@ Perhaps the most basic and overlooked problem with climate change- and the most 
 
 ![Global Climate Change awareness for Africa and the World](http://www.nature.com/nclimate/journal/v5/n11/images_article/nclimate2728-f1.jpg)
 
-
 “More than a third of the world’s adults have never heard of climate change. For some countries, such as South Africa, Bangladesh, and Nigeria, this rises to more than two-thirds of the adult population.” In a survey carried out by the Pew center for Research, it is also estimated that as much as “40 percent of adults worldwide have never heard of climate change.” Yet is such uninformed populaces that shall need to find solutions to a problem they largely does not even know exists.
-
 
 Nations in which citizens had received a higher level of education proved to be more aware of climate change and its effects. In the same way, nations with easier access to information and communication were knew about the climate change phenomenon. Wealthier and more educated populations per capita were therefore inclined to take action against climate change. This makes the case for indirect and more long term solutions that will shape policies and mitigate climate change effects. Increased education, more equitable wealth distribution and more open access to information are increasingly important steps in the fight against climate change.
 
-
 The polarized nature of the public’s opinion about climate change is detrimental to efforts to solve it. Conversations in the media and political commentary around the world have and continue to shape public awareness and action on climate change. The current fake news phenomenon is only worsening awareness about climate change and proliferating ignorance. It is necessary for business, politics and the media to be more pragmatic in their portrayal of this global problem. There is an undeniable relationship between fake news and climate change. Eric Pooley, Senior Vice President at Environmental Defense Fund, has said, “Climate Change Denial Is the Original Fake News.” It will be the responsibility of young people to seek accurate information as they make socio-economic and political decisions as the world responds to climate change.
-
 
 Anthony Leiserowitz, director of the Yale Project on Climate Change Communication and study lead argues that as much as 40% of the World’s population is unaware of climate change. “This rises to more than 65 percent in some developing countries, like Egypt, Bangladesh, and India. There is still a critical need for basic climate literacy in many countries,” he says. Youth need to educate and promote climate change awareness in their communities and act and run their ventures and businesses in ways that respect and mitigate its effects.
 Youth-run organizations designing global and local policies and projects to increase climate change awareness in different countries and communities prove that every nation has an incredibly invested interest in mitigating climate change effects in their regions and by consequence- the world. They further demonstrate the feasibility of such initiatives as solutions to the climate change phenomenon. Many small efforts by young people and businesses around the world will need to work independently and culminate in a global response to climate change.
@@ -35,10 +31,6 @@ It is extremely encouraging to realize that this proportion of greenhouse gas em
 
 As more and more businesses adopt the triple bottom line framework, more and more governments are acting responsibly and fulfilling their responsibility to the world to preserve it. While this is extremely encouraging, more conversation and action is still needed at government level, and at individual level to reduce our collective impact and carbon footprint and thus mitigate climate change.
 
-
-
----
-
 If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
- 
+
 This is the only thank you I need.

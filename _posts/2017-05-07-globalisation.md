@@ -27,10 +27,6 @@ When people emulate and adapt traits of cultures they do not completely understa
 
 We are able to find and implement global solutions to the problems that face us. Entrepreneurship is growing in the Zimbabwean marketplace and its contribution to the Gross National Product continues to be more and more significant. The startup and innovation culture of Silicon Valley is developing roots in Harare and Bulawayo, leading to innovative solutions to Zimbabwean problems. Globalization has resulted in the upheaval of traditional structures and cultures and continues to foster the empowerment of Zimbabwean people and to push them up the value chain.
 
-
-
----
-
 If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
- 
+
 This is the only thank you I need.

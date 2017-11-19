@@ -17,7 +17,6 @@ We don't pay for our iphones and our unnecessarily thick blankets and our big em
 
 ![my teacher taought me to water the grass in primary school](https://upload.wikimedia.org/wikipedia/commons/d/db/Harare_Africa_Unity_1992.jpg)
 
-
 She told me a story once. While I watered the lawn outside our classroom. It was about how man was built with a great hole in his heart, and left to his own devices, he would devour the clouds, the sky and the stars in search of what he didn't know lay within him. Happiness. She said he couldn't be blamed. That happiness was the only thing that mattered- and without knowing it, we sought it in everything except itself. We sought happiness in things, and not in itself. So of course we never really found it. We spend our entire lives behind desks doing things that make us so unhappy because we want to be happy. I think that is sad.
 
 The nature of society requires that we do unpleasant things to make a living. But it does not require that we waste our entire lives trying to build imaginary ones. It's okay to go to work so you can gain the means to buy ice cream when it's hot and so you can cover yourself with a blanket when it turns cold. Far be it from me to criticise ice cream and the means by which it is obtained- ice cream is the one thing mankind got right. But I do think it incredibly important to take time out of our work and hustle to develop our relationships with our families. With our friends. With everything around us. And with ourselves. To live our actual lives. Afterall, what is life if not our relationships and ice cream?
@@ -28,11 +27,6 @@ I thank you whoever invented ice cream, you redeem our species.
 
 ![dog licking ice cream](http://www.pralinesownmade.com/blog/wp-content/uploads/2013/07/salty_ice_cream.jpg)
 
-
-
-
----
-
 If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
- 
+
 This is the only thank you I need.

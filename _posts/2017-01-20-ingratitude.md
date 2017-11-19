@@ -21,10 +21,6 @@ It is a funny thing to look back on something for which you have prayed so hard,
 
 A gift for which all your life you've prayed, and the day that you receive it- you wish you never had. I read somewhere that a parent bereaved of their child feels the same way. Could you come to wish you'd never had a child, and regret each moment spent with them because after all of it, you had lost them? I don't think I could.
 
-
-
----
-
 If this touched you, please share, or reach out to me to talk about it! And check out my other writing [here](http://medium.com/@tanakachingonzo)
- 
+
 This is the only thank you I need.

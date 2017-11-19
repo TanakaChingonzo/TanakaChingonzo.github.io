@@ -1,10 +1,10 @@
 ---
-title:  "Why I do what I do- Adversity and Curiosity"
-subtitle: "Adversity and Curiosity"
-author: "Tanaka Chingonzo"
-avatar: "img/authors/tanaka.jpg"
-image: "img/Tanaka Chingonzo at Watson University.jpg"
-date:   2017-02-03 01:52:12
+layout: page
+lang: en
+ref: 2017-02-03-sunday-mail-tanaka-chingonzo-news
+title: Why I do what I do- Adversity and Curiosity
+image: true
+medium: ''
 ---
 
 This article was originally published in the [Sunday Mail here](http://www.sundaymail.co.zw/a-simple-workshop-changed-my-life/){:target="_blank"} In my lower sixth year of high school, a series of unexpected events were set in motion that would find my life change in the most remarkable ways the next couple of months.

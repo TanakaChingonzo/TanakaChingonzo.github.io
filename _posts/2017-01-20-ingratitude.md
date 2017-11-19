@@ -2,7 +2,7 @@
 title:  "When the rain falls for too long after a drought"
 subtitle: "Unpredictability"
 author: "Tanaka Chingonzo"
-avatar: "img/authors/tanaka.jpg"
+avatar: "2017-02-03-sunday-mail-tanaka-chingonzo-news.md"
 image: "img/Tanaka Chingonzo as the rain falls outside the window on an adventure in rural Zimbabwe.jpg"
 date:   2017-01-20 19:23:12
 ---

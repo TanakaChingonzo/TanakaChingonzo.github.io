@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books that have touched my soul
+title: Reading
 image: true
 lang: en
 ref: currently-reading-tanaka-chingonzo
@@ -8,7 +8,7 @@ ref: currently-reading-tanaka-chingonzo
 
 # The books I have read since starting college that have touched my soul.
 
-## “It is what you read when you don't have to that determines what you will be when you can't help it.” ― Oscar Wilde
+### “It is what you read when you don't have to that determines what you will be when you can't help it.” ― Oscar Wilde
 
 Funny, Mark Twain had something funnier to say about books which I have found to be true.
 

@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 image: true
 lang: en
-ref:	portfolio-tanaka-chingonzo
+ref: portfolio-tanaka-chingonzo
 ---
 
 # Projects

@@ -10,6 +10,18 @@ ref: portfolio-tanaka-chingonzo
 <br>
 <br>
 <br>
+
+## SendIt
+Blockchain based remittances to the developing world.
+
+![Sendit](/assets/images/posts/SendIt.png)
+
+The international remittances market is a $500 billion one. Worldwide, 230 million people send $500 billion in remittances each year, primarily using firms like Western Union, Moneygram, and RIA, which together control 1.1 million retail locations and account for more than 25% of the world’s annual remittance volume. 
+
+Zimbabwe alone has a remittance market of $1 billion+ out of it’s GDP of $16 billion. -[ENCA Africa](http://www.enca.com/africa/zimbabwe%E2%80%99s-diaspora-remittances-reach-1billion)
+
+“Transferring $20 from the US to the Philippines via Viber and Western Union incurs a flat $4 fee, along with a 4% foreign exchange fee. After being converted to the Philippine peso, the money arrives at its destination as $15.15, a loss of nearly $5.” [Quartz](https://qz.com/775159/theres-a-500-billion-remittance-market-and-bitcoin-startups-want-in-on-it/)
+
 ## Rezident Zimbabwe
 Infrastructure Reporting for Municipalities
 <br>

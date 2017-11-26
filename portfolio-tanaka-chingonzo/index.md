@@ -23,8 +23,6 @@ Zimbabwe alone has a remittance market of $1 billion+ out of it’s GDP of $16 b
 “Transferring $20 from the US to the Philippines via Viber and Western Union incurs a flat $4 fee, along with a 4% foreign exchange fee. After being converted to the Philippine peso, the money arrives at its destination as $15.15, a loss of nearly $5.” [Quartz](https://qz.com/775159/theres-a-500-billion-remittance-market-and-bitcoin-startups-want-in-on-it/)
 
 <figure class="sidebar">
-  <imgsrc="https://qz.com/775159/theres-a-500-billion-remittance-market-and-bitcoin-startups-want-in-on-it/"
-  	alt="Whatsapp is not free.">
   <figcaption>Transferring $20 from the US to the Philippines via Viber and Western Union incurs a flat $4 fee, along with a 4% foreign exchange fee. After being converted to the Philippine peso, the money arrives at its destination as $15.15, a loss of nearly $5. -[Quartz]</figcaption>
 </figure>
 

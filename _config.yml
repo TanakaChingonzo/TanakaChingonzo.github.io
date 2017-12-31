@@ -22,8 +22,8 @@ compress_html:
 # Site meta
 title:                'Tanaka Chingonzo'
 tagline:              'Life Long Learner'
-description:          'I am a passionate learner and problem solver. <a href="http://tanaka.co.zw/blog/" target="_blank" rel="noopener noreferrer">So I made this</a>.'
-keywords:             'tanaka, chingonzo, tanakachingonzo, developer, traveller, design, code, jekyll, change, theme, for hire'
+description:          'Tanaka Chingonzo a global shaper with the World Economic Forum, and a student from Zimbabwe. He is a software engineer and student in Ohio. Look at some of his entrepreneurial work in his portfolio.'
+keywords:             'tanaka, chingonzo, tanakachingonzo, software engineer intern, python developer, design, zimbabwe, conference delegate, for hire'
 url:                  http://tanaka.co.zw
 baseurl:              
 assets:               /assets

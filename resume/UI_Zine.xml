@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><FlowPaper_Zine_UIConfiguration>
     <desktop>
-        <general imageAssets="assets_zine/material/" backgroundColor="#333333" panelColor="#555555" arrowColor="#aaaaaa" backgroundAlpha="1" navPanelBackgroundAlpha="0" enableFisheyeThumbnails="true" selectionColor="#AAAAAA" rollOverColor="#999999" fitModeScale="0.85" fitModeScaleMargin="-0.1" navPanelsVisible="true" zoomDragMode="true" bindBindNavigationKeys="true" readOnly="false" disableMouseWheel="false" disableZoom="true" flipSpeed="Medium" flipAnimation="3D, Soft" startWithTOCOpen="false" firstLastButtonsVisible="true" backgroundImage="" stretchBackgroundImage="true" enablePageShadows="true" linkColor="#72e6ff" linkAlpha="0.4"/>
+        <general imageAssets="assets_zine/material/" backgroundColor="#333333" panelColor="#555555" arrowColor="#aaaaaa" backgroundAlpha="1" navPanelBackgroundAlpha="0" enableFisheyeThumbnails="true" selectionColor="#AAAAAA" rollOverColor="#999999" fitModeScale="0.85" fitModeScaleMargin="-0.1" navPanelsVisible="true" zoomDragMode="true" bindBindNavigationKeys="true" readOnly="false" disableMouseWheel="false" disableZoom="false" flipSpeed="Medium" flipAnimation="3D, Soft" startWithTOCOpen="false" firstLastButtonsVisible="true" backgroundImage="" stretchBackgroundImage="true" enablePageShadows="true" linkColor="#72e6ff" linkAlpha="0.4"/>
         <toolbar height="40" width="100%" paddingTop="9" paddingLeft="15" paddingRight="15" paddingBottom="8" backgroundColor="#555555" borderColor="#555555" borderStyle="solid" borderThickness="1" cornerRadius="3" horizontalAlign="center" location="top" visible="true">
             <element type="button" id="bttnPrint" icon_width="15" icon_height="15" visible="true"/>
             <element type="button" id="bttnOutline" icon_width="13" icon_height="13" paddingTop="1" visible="false"/>
@@ -23,7 +23,7 @@
         </toolbar>
     </desktop>
     <tablet>
-        <general imageAssets="assets_zine/material/mobile/" backgroundColor="#333333" zoomDragMode="true" readOnly="false" disableMouseWheel="false" disableZoom="true" flipSpeed="Medium" flipAnimation="3D, Soft" enableFisheyeThumbnails="true" startWithTOCOpen="false" navPanelsVisible="true" firstLastButtonsVisible="true" bindBindNavigationKeys="true" backgroundImage="" stretchBackgroundImage="true" enablePageShadows="true" panelColor="#555555" arrowColor="#aaaaaa" navPanelBackgroundAlpha="0" linkColor="#72e6ff" linkAlpha="0.4"/>
+        <general imageAssets="assets_zine/material/mobile/" backgroundColor="#333333" zoomDragMode="true" readOnly="false" disableMouseWheel="false" disableZoom="false" flipSpeed="Medium" flipAnimation="3D, Soft" enableFisheyeThumbnails="true" startWithTOCOpen="false" navPanelsVisible="true" firstLastButtonsVisible="true" bindBindNavigationKeys="true" backgroundImage="" stretchBackgroundImage="true" enablePageShadows="true" panelColor="#555555" arrowColor="#aaaaaa" navPanelBackgroundAlpha="0" linkColor="#72e6ff" linkAlpha="0.4"/>
         <toolbar gradients="false" height="46" paddingTop="4" paddingBottom="3">
             <element type="button" id="bttnPrint" icon_height="39" icon_width="39" visible="false"/>
             <element type="button" id="bttnBookView" icon_height="30" icon_width="45" visible="true"/>
@@ -41,7 +41,7 @@
         </toolbar>
     </tablet>
     <mobile>
-        <general imageAssets="assets_zine/material/mobile/" backgroundColor="#333333" zoomDragMode="true" readOnly="false" disableMouseWheel="false" disableZoom="true" flipSpeed="Medium" flipAnimation="3D, Soft" enableFisheyeThumbnails="true" startWithTOCOpen="false" navPanelsVisible="true" firstLastButtonsVisible="true" bindBindNavigationKeys="true" backgroundImage="" stretchBackgroundImage="true" enablePageShadows="true" panelColor="#555555" arrowColor="#aaaaaa" navPanelBackgroundAlpha="0" linkColor="#72e6ff" linkAlpha="0.4"/>
+        <general imageAssets="assets_zine/material/mobile/" backgroundColor="#333333" zoomDragMode="true" readOnly="false" disableMouseWheel="false" disableZoom="false" flipSpeed="Medium" flipAnimation="3D, Soft" enableFisheyeThumbnails="true" startWithTOCOpen="false" navPanelsVisible="true" firstLastButtonsVisible="true" bindBindNavigationKeys="true" backgroundImage="" stretchBackgroundImage="true" enablePageShadows="true" panelColor="#555555" arrowColor="#aaaaaa" navPanelBackgroundAlpha="0" linkColor="#72e6ff" linkAlpha="0.4"/>
         <toolbar gradients="false" height="46" paddingTop="4" paddingBottom="3">
             <element type="button" id="bttnPrint" icon_height="39" icon_width="39" visible="false"/>
             <element type="button" id="bttnBookView" icon_height="30" icon_width="45" visible="false"/>

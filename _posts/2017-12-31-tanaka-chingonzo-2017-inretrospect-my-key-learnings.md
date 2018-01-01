@@ -9,7 +9,7 @@ medium: ''
 
 # These were my key learnings this year.
 
-<meta property="og:image" content="http://tanaka.co.zw/assets/images/posts/tanaka-chingonzo-2017-inretrospect-my-key-learnings.jpg>
+<meta property="og:image" content="http://tanaka.co.zw/assets/images/posts/tanaka-chingonzo-2017-inretrospect-my-key-learnings.jpg">
 
 <figure class="sidebar">
   <figcaption>How First-Generation College Students Do Thanksgiving Break-  <a href="https://www.nytimes.com/2017/11/18/opinion/sunday/college-thanksgiving-alone.html" target="_blank">The New York Times</a></figcaption>
@@ -21,10 +21,10 @@ The water is thickest while we’re in it. The path bumpiest while we walk it. I
 
 Going to school these last four months has been in one word, tumultuous. In these last few weeks, a century might as well have passed. The transition from home to this new place, would have been incredibly difficult were it not for the incredible people I have met along the way. I am grateful for the people who have supported me at every stage, and in whatever seemingly small way. That has been an important lesson for me this year:
 
-##### 1. People matter. Do not ever forget that. 
-##### 2. Treat everyone how you would want them to treat you. 
-##### 3. If you can make someone have a good day, please do it. Sometimes, all it really takes, is a smile. 
-##### 4. Also, spend your time and energy in the ways that feel important to you, and that matter. This is the only useful way to spend your time.
+###### 1. People matter. Do not ever forget that. 
+###### 2. Treat everyone how you would want them to treat you. 
+###### 3. If you can make someone have a good day, please do it. Sometimes, all it really takes, is a smile. 
+###### 4. Also, spend your time and energy in the ways that feel important to you, and that matter. This is the only useful way to spend your time.
 
 ## My family.
 

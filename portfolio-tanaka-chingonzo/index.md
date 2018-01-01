@@ -88,8 +88,6 @@ Shaped curriculum tool to better manage personal finances.
 
 TAKE OUR TEST!
 
-<br>
-<br>
 ![Shaped](/assets/images/posts/Shaped.png)
 [Shaped Financial Literacy Course](http://shaped.org.zw/)The Shaped curriculum is designed to give you the tools you need to better manage your finances. It is perfect for students and professionals alike as it equips you with practical tools to take control of your finances.
 <br>

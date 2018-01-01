@@ -11,10 +11,6 @@ medium: ''
 
 <meta property="og:image" content="http://tanaka.co.zw/assets/images/posts/tanaka-chingonzo-2017-inretrospect-my-key-learnings.jpg">
 
-<figure class="sidebar">
-  <figcaption>How First-Generation College Students Do Thanksgiving Break-  <a href="https://www.nytimes.com/2017/11/18/opinion/sunday/college-thanksgiving-alone.html" target="_blank">The New York Times</a></figcaption>
-</figure>
-
 The water is thickest while we’re in it. The path bumpiest while we walk it. I am still walking, but this last year is one more summit I have topped. What follows is a journey into another year. Before that happens, as I write this, at this time between times, it is easy to look back at the year past and the year ahead, and to consider my mistakes, and how I could have done things better. It is also nice to think about the things I did somewhat right. There are of course almost infinitely more of the former things than the latter. Still. This is my year in review, and my hope is that a year from now, as I read this and write about this coming year in review, these thoughts will help me look forward with hope, and back with joy and appreciation for the challenges I have faced, and overcome to get to wherever I will be then. 
 
 ## I started college in 2017.
@@ -29,6 +25,10 @@ Going to school these last four months has been in one word, tumultuous. In thes
 ## My family.
 
 Being so far away from the familiarity of home, and my family put how much I rely on my family, and how much I need them into perspective. There is a funny thing about being in college when something big happens and you want to share it with your family, and you know they are sleeping thousands of miles away from you. And when the holidays come, and students leave to spend time with their families and your own family is so far away from you. The international student’s experience in the US is an interesting one. An article I read in the New York Times summed it up perfectly.
+
+<figure class="sidebar">
+  <figcaption>How First-Generation College Students Do Thanksgiving Break-  <a href="https://www.nytimes.com/2017/11/18/opinion/sunday/college-thanksgiving-alone.html" target="_blank">The New York Times</a></figcaption>
+</figure>
 
 > My friends are my family here. I am so grateful for them.
 

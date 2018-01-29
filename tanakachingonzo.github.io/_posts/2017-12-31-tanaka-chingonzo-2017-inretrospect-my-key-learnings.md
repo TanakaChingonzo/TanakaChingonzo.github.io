@@ -11,7 +11,9 @@ medium: ''
 
 <meta property="og:image" content="http://tanaka.co.zw/assets/images/posts/tanaka-chingonzo-2017-inretrospect-my-key-learnings.jpg">
 
-The water is thickest while we’re in it. The path bumpiest while we walk it. I am still walking, but this last year is one more summit I have topped. What follows is a journey into another year. Before that happens, as I write this, at this time between times, it is easy to look back at the year past and the year ahead, and to consider my mistakes, and how I could have done things better. It is also nice to think about the things I did somewhat right. There are of course almost infinitely more of the former things than the latter. Still. This is my year in review, and my hope is that a year from now, as I read this and write about this coming year in review, these thoughts will help me look forward with hope, and back with joy and appreciation for the challenges I have faced, and overcome to get to wherever I will be then. 
+The water is thickest while we’re in it. The path bumpiest while we walk it. I am still walking, but this last year is one more summit I have topped. What follows is a journey into another year. Before that happens, as I write this, at this time between times, it is easy to look back at the year past and the year ahead, and to consider my mistakes, and how I could have done things better.
+
+ It is also nice to think about the things I did somewhat right. There are of course almost infinitely more of the former things than the latter. Still. This is my year in review, and my hope is that a year from now, as I read this and write about this coming year in review, these thoughts will help me look forward with hope, and back with joy and appreciation for the challenges I have faced, and overcome to get to wherever I will be then. 
 
 ## I started college in 2017.
 

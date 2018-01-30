@@ -24,5 +24,3 @@ These are the books that have touched my soul. Have you read any of them? Are th
 12. Questions for Ada by Ijeoma Umebinyuo
 13. Moby Dick by Herman Melville
 14. The Sense of An Ending by Julian Barnes
-
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A3fuNydG9kg2Y09i8Foqq0p" width="100%" height="300" frameborder="0" allowtransparency="true"></iframe>

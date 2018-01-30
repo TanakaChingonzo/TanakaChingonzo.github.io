@@ -3,7 +3,6 @@ layout: post
 lang: en
 ref: badly-beaten-path
 title: I watched you go down that little path so badly beaten
-medium:'i-watched-you-go-down-that-little-path-so-badly-beaten-35465180ecf4'
 ---
 ![I watched you go down that path so badly beaten](https://cdn-images-1.medium.com/max/2000/1*bMzl4JC7EsN0uHAjSobm9Q.jpeg)
 

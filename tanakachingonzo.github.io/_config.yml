@@ -1,67 +1,41 @@
-# Dependencies
-markdown:             kramdown
-highlighter:          rouge
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Tanaka Chingonzo
+email: tchingonzo21@wooster.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Tanaka Chingonzo a global shaper with the World Economic Forum, and a student from Zimbabwe. He is a software engineer and student in Ohio.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: tanakachingonzo
+github_username:  tanakachingonzo
 
-# Gems
-gems:
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
   - jekyll-feed
-  - jekyll-gist
-  - jekyll-redirect-from
-  - jekyll-seo-tag
 
-
-# Settings
-exclude:              [CNAME, README.md, NOTES.md, LICENSE.md, .gitignore, package.json, bower.json, _js, _scss, _images, gulpfile.js, gulpconfig.js, node_modules, bower_components, gemfile, Gemfile.lock]
-permalink:            /:title/
-compress_html:
-  clippings: all
-  comments: all
-
-
-# Site meta
-title:                'Tanaka Chingonzo'
-tagline:              'Life Long Learner'
-description:          'Tanaka Chingonzo a global shaper with the World Economic Forum, and a student from Zimbabwe. He is a software engineer and student in Ohio.'
-keywords:             'tanaka, chingonzo, tanakachingonzo, software engineer intern, python developer, design, zimbabwe, conference delegate, for hire'
-url:                  http://tanaka.co.zw
-baseurl:              
-assets:               /assets
-images:               /images/
-image:                index-large.jpg
-logo:                 /assets/icons/apple-icon-144x144.png
-dark_theme:           false
-
-author:
-  name:               Tanaka Chingonzo
-  bio:                Hi, I'm Tanaka, the author of this blog. Nice to meet you!
-  image:              author
-  url:                http://tanaka.co.zw
-  email:              tanaka.chingonzo@watsonuniversity.org
-  twitter:            tanakachingonzo
-
-social:
-  twitter:            https://twitter.com/tanakachingonzo
-  instagram:          https://instagram.com/tanakachingonzo
-  github:             https://github.com/tanakachingonzo
-  medium:             https://medium.com
-version:              3.1.3
-
-github:
-  repo:               https://github.com/tanakachingonzo/tanakachingonzo.github.io.git
-
-
-# Integrations
-# typekit:              fcv7rfe
-
-google_fonts:
-  Overpass:           400, 600, 800
-
-google_analytics_key: UA-83940835-1
-# google_site_verification: Z-pc_HPc4XNBz8xg1fgtxO2MSIYLirZc2jWTNq0bJyM
-
-# Content
-excerpt_separator: <!-- Read more -->
-
-navigation:
-  GitHub: https://github.com/tanakachingonzo/
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

@@ -2,7 +2,7 @@
 layout: page
 lang: en
 ref: miracle-of-life-poem-tanaka-chingonzo
-title: Writing in the morning: The miracle of life
+title: Writing in the morning- The miracle of life
 image: true
 medium: ''
 ---

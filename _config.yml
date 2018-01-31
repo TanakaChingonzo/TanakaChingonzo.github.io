@@ -1,46 +1,67 @@
-# Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+###################################
+# Site wide configuration
+####################################
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Tanaka Chingonzo
 email: tchingonzo21@wooster.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Tanaka Chingonzo a global shaper with the World Economic Forum, and a student from Zimbabwe. He is a software engineer and student in Ohio.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tanakachingonzo
-github_username:  tanakachingonzo
+description: Tanaka Chingonzo a global shaper with the World Economic Forum, and a student from Zimbabwe. He is a software engineer and student in Ohio.
+url: http://tanaka.co.zw # the base hostname & protocol for your site
+keywords: ["Programming", "Python", "C", "Entrepreneur"]
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-jekyll_analytics:
-GoogleAnalytics:          # Add, if you want to track with Google Analytics
-id: UA-83940835-1          # Required - replace with your tracking id
-anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Tanaka Chingonzo
+  avatar: tanaka-chingonzo.png
+  job: "Python & C programmer. Web Developer."
+  bio: "Tanaka Chingonzo a global shaper with the World Economic Forum, and a student from Zimbabwe. He is a software engineer and student in Ohio."
+  email: tchingonzo21@wooster.edu
+  disqus-shortname: tanakachingonzo
+  twitter: tanakachingonzo #username
+  facebook: tanakachingonzo #username
+  google:
+    plus: tanakachingonzo #username
+    analytics: UA-83940835-1
+    verify: <meta name="google-site-verification" content="n9cECzXDz-nT9u9E2Rx0tTilceSX692q1wJAIBAdogY" />
+    ad-client:
+    ad-slot:
+  bing-verify: <meta name="msvalidate.01" content="DF6EFA3DFDBFF0D4F3AAD9B490C1D9A2" />
+  github: tanakachingonzo #username
+  stackoverflow: 6148490/tanaka-chingonzo   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: tanakachingonzo #username
+  xing: #username
+  instagram: tanakachingonzo #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: tanakachingonzo #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: UCT5v02qriBiFiUt3hD5s0xw#username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username

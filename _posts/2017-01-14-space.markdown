@@ -5,9 +5,12 @@ author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"
 image: "img/i.jpg"
 date:   2017-01-14 12:12:12
+excerpt: "Do you ever look out your window at the night sky and feel a yearning to be elsewhere? A deep need to be somewhere else- somewhere you've never been."
+categories: [poetry]
+comments: true
 ---
 
-Do you ever look out your window at the night sky and feel a yearning to be elsewhere? A deep need to be somewhere else- somewhere you've neverbeen. Do you ever look at the stars and watching them twinkle in the darkness of eternity, wonder what is out there in the vastness of space? What lies beyond what our eyes can see?
+Do you ever look out your window at the night sky and feel a yearning to be elsewhere? A deep need to be somewhere else- somewhere you've never been. Do you ever look at the stars and watching them twinkle in the darkness of eternity, wonder what is out there in the vastness of space? What lies beyond what our eyes can see?
 
 ![The night sky- Tanaka Chingonzo blog](http://tanaka.co.zw/blog/img/d.jpg)
 

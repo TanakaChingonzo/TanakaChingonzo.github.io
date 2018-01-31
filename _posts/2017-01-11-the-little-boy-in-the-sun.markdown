@@ -5,6 +5,9 @@ author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"
 image: "img/j.jpg"
 date:   2017-01-11 12:12:12
+excerpt: "This sun whose heat annoys so, it is why the flowers you so love are in bloom. It is the one and only reason they are open now and sharing their color and beauty with you."
+categories: [poetry]
+comments: true
 ---
 
 "Do you see the sun?""

@@ -3,11 +3,12 @@ layout: page
 lang: en
 ref: beautiful-charts-with-frappe
 title: Beautiful Charts with Frappe Charts
-image: false
 medium: ''
-excerpt: "I found this really cool [tool](https://frappe.github.io/charts/) online today under Github's trending repositories. It is called Frappe Charts. "
+excerpt: "I found this really cool tool online today under Github's trending repositories. It is called Frappe Charts. "
 categories: [cool tools]
 comments: true
+image:
+  feature: https://i1.wp.com/www.cssscript.com/wp-content/uploads/2017/11/Frapp%C3%A9-Charts.png?fit=619%2C466&ssl=1
 ---
 
 ![](/assets/images/posts/beautiful-charts-with-frappe.gif)

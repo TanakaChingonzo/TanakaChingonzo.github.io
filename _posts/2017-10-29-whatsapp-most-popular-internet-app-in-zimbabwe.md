@@ -3,37 +3,24 @@ layout: post
 lang: en
 ref: whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe
 title: The cost of "free" apps and the quest to connect the world.
-image: true
 medium: ''
 excerpt: " The wealthy are wealthier and the poorer are poorer still. It is my hope that my generation can reduce the inequality we are inheriting today, and that empathy may play a more prominent role in the way we do business."
 categories: [economics]
 comments: true
+image:
+  feature: http://tanaka.co.zw/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg
 ---
 
 # WhatsApp, is by far the most popular internet app in Zimbabwe
-<meta property="og:image" content="http://tanaka.co.zw/change/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg">
+<meta property="og:image" content="http://tanaka.co.zw/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg">
 
-<figure class="sidebar">
-  <img
-  	srcset="http://tanaka.co.zw/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
-    sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
-  	src="http://tanaka.co.zw/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg"
-  	alt="Whatsapp is not free.">
-  <figcaption>How do you really pay for your apps?<br>1. Your personal data.<br> 2. Revenue lost to governments and local firms.<br> 3. Subscriptions and impulsive in-app purchases.</figcaption>
-</figure>
+How do you really pay for your apps?<br>1. Your personal data.<br> 2. Revenue lost to governments and local firms.<br> 3. Subscriptions and impulsive in-app purchases.
 
 It accounts for up to 44% of all mobile internet usage in the country. WhatsApp’s parent, Facebook, took up only 1%. Mobile internet accounts for 98% of all internet use in the Zimbabwe.
 
 I like to call my parents and family to find out how they are, and to let them know how I miss them. It is interesting to see how my preference for "free" calls has the effect of "increasing cannibalization of traditional voice and messaging revenues" on my country's economy. Nothing is free. I am not particularly enamored with Econet- they especially teach us that nothing is free- but they employ thousands of people.
 
-<figure class="sidebar">
-  <img
-  	srcset="https://t3n9sm.c2.acecdn.net/wp-content/uploads/2017/08/Data-prices-.jpg"
-  	src="https://t3n9sm.c2.acecdn.net/wp-content/uploads/2017/08/Data-prices-.jpg"
-  	alt="Techzim- Data Prices in Zimbabwe">
-  <figcaption><a href="https://www.techzim.co.zw/2017/08/data-not-much-more-expensive-in-zim/" target="_blank">Is data really that much more expensive in Zimbabwe?</a>
-</figcaption>
-</figure>
+<a href="https://www.techzim.co.zw/2017/08/data-not-much-more-expensive-in-zim/" target="_blank">Is data really that much more expensive in Zimbabwe?</a>
 
 Each Whatsapp call I make undercuts their revenue. Money that would have been added to our gross national revenue. The small ways I contribute to our economy. Or undermine it. Unknowingly.
 
@@ -64,13 +51,8 @@ In 2017, that mission statement was updated to:
 ![Mark Zuckerberg and his connectivity brain trust (from left): Hamid Hemmati, Andy Cox, and Yael Maguire.	 ART STREIBER](https://www.wired.com/wp-content/uploads/2016/01/fb_15-group2.jpg)
 
 <figure class="sidebar">
-  <img
-  	srcset=""
-  	src=""
-  	alt="Wired Magazine">
-  <figcaption><a href="https://www.wired.com/2016/01/facebook-zuckerberg-internet-org/" target="_blank">"To Give people the power to build community and bring the world closer together." - Facebook Mission Statement
+  <a href="https://www.wired.com/2016/01/facebook-zuckerberg-internet-org/" target="_blank">"To Give people the power to build community and bring the world closer together." - Facebook Mission Statement
 </a>
-</figcaption>
 </figure>
 
 

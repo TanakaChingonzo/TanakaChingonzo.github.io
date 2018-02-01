@@ -3,10 +3,13 @@ layout: post
 lang: en
 ref: tanaka-chingonzo-2017-inretrospect-my-key-learnings
 title: 2017 in retrospect
-image: true
 excerpt: "The water is thickest while we’re in it. The path bumpiest while we walk it."
 categories: [hello 2018]
 comments: true
+image:
+  feature: http://tanaka.co.zw/assets/images/posts/tanaka-chingonzo-2017-inretrospect-my-key-learnings.jpg
+  credit: Greg Rakozy
+  creditlink: https://unsplash.com/photos/oMpAz-DN-9I
 ---
 
 # These were my key learnings this year.

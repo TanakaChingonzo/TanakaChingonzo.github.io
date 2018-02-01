@@ -5,6 +5,9 @@ ref: ingratitude-when-the-rain-falls-tanaka-chingonzo
 title: When the rain falls for too long after a drought
 image: true
 medium: ''
+excerpt: "The rain fell as though the skies had been pregnant and their waters had broken. Literally."
+categories: [poetry]
+comments: true
 ---
 
 The rain fell as though the skies had been pregnant and their waters had broken. Literally. We had been waiting for the rain for the last year, but as it fell then, we thought it would never stop and we slowly began to find ourselves for the dry, hot days we had grown so accustomed to. Ungrateful? Perhaps.

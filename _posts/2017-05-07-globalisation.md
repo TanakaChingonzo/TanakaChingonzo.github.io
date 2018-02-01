@@ -5,6 +5,9 @@ ref: how-has-globalization-affected-our-communities
 title: How has globalization affected our communities?
 image: true
 medium: ''
+excerpt: "Globalization has resulted in the upheaval of traditional structures and cultures and continues to foster the empowerment of Zimbabwean people and to push them up the value chain."
+categories: [future]
+comments: true
 ---
 
 This article was written in response to a prompt by the [World Economic Forum's](https://www.weforum.org/) [Global Shapers](https://toplink.weforum.org/users/tanaka-chingonzo) Monthly prompt to the question: Globalization: Has it been a blessing or a curse in your community?

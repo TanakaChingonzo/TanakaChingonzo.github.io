@@ -5,6 +5,9 @@ ref: 2017-02-03-sunday-mail-tanaka-chingonzo-news
 title: Why I do what I do- Adversity and Curiosity
 image: true
 medium: ''
+excerpt: "I heard about Harare Start up Weekend from my brother, Takunda, a prominent entrepreneur in the Zimbabwe innovation space."
+categories: [reflections]
+comments: true
 ---
 
 This article was originally published in the [Sunday Mail here](http://www.sundaymail.co.zw/a-simple-workshop-changed-my-life/){:target="_blank"} In my lower sixth year of high school, a series of unexpected events were set in motion that would find my life change in the most remarkable ways the next couple of months.

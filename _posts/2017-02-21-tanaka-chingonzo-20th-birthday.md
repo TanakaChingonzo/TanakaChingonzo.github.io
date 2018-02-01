@@ -4,8 +4,8 @@ lang: en
 ref: tanaka-chingonzo-20th-birthday
 title: I turned 20 today. If I live to be 80, today I have used up a quarter of my life
 image: true
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-categories: [hello world]
+excerpt: "Gratitude. I turned twenty today. I feel 18 much like I did yesterday. Except, reflecting on the last year, this is the one word that I feel most completely sums up how I feel- gratitude"
+categories: [hello 20]
 comments: true
 ---
 

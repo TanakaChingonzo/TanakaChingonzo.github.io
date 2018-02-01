@@ -5,6 +5,9 @@ author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"
 image: "img/m.jpg"
 date:   2017-02-10 01:52:12
+excerpt: "In the heat of the summer sun in Zimbabwe, ice cream is a delightful thing to taste. It's a wonderful thing to look at. Like ambrosia- the food of the Gods. It's the taste of heaven."
+categories: [reflections]
+comments: true
 ---
 
 ![You're buying that ice cream with time](https://cdn-images-1.medium.com/max/1000/1*AatwFFM-GZ0lxF2tM8YJAw.jpeg)

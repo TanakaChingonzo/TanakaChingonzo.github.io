@@ -5,6 +5,9 @@ ref: the-important-places-poem-forrest-woodward
 title: Poem- The important places by Forrest Woodward
 image: true
 medium: ''
+excerpt: "Child of Mine, come as you grow in youth you will learn the secret places, the cave behind the waterfall"
+categories: [poetry]
+comments: true
 ---
 
 This poem was originally written and published by [Forest Woodward's father](https://www.artifactuprising.com/the-important-places)

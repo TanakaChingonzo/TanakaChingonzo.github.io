@@ -4,6 +4,9 @@ lang: en
 ref: badly-beaten-path
 title: People walk down the same roads.
 medium: ''
+excerpt: "I used to wonder what lay down that other road.What skyscrapers or forests or open fields lay down there that I couldn’t yet see."
+categories: [poetry]
+comments: true
 ---
 
 I used to wonder what lay down that other road.What skyscrapers or forests or open fields lay down there that I couldn’t yet see. That I would never see. My life was at a crossroads and I went up the higher road. There was a better view of the world from up there anyway. I watched you go down that little path so badly beaten, down into the forest and the green grass, until you disappeared and the sun fell and everything went blue-dark.

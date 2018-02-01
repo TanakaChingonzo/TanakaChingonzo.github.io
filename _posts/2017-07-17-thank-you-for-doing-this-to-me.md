@@ -5,6 +5,9 @@ ref: this-is-what-you-did-to-me
 title: A culture of silence and noise.
 image: true
 medium: 'byrslf.co/this-is-what-you-did-to-me-thank-you-f022186bceda'
+excerpt: "Thank you for teaching me how to speak. And then asking me to be silent when I did speak."
+categories: [poetry]
+comments: true
 ---
 
 ### 1. This is what you did to me. Thank you.

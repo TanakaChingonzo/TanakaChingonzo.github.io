@@ -1,4 +1,10 @@
 - name: Tanaka's Blog
+  descr: "My blog built with @Jekyll, HTML, CSS, and jS."
+  image: /_images/posts/about.jpg
+  github: https://github.com/tanakachingonzo/tanakachingonzo.github.io.git
+
+- name: Pamwe Infrastructure Platform
   descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-  image: pong.png
-  github: https://github.com/renyuanz/leonids
+  image: _images/posts/about.jpg
+  github: https://github.com/tanakachingonzo/tanakachingonzo.github.io.git
+

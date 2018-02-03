@@ -3,29 +3,30 @@
 - name: College of Wooster
   link: https://wooster.edu/
   date: September 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Information Technology
+  job: Student Technology Assistant
 
 - name: World Economic Forum
-  link: http://www.facebook.com/
-  date: May 2016 - Present
-  job: Global Shaper
+  link: https://www.globalshapers.org/
+  date: 2016 - 2018
+  job: Global Shaper  
 
 - name: American Embassy in Zimbabwe
   link: https://zw.usembassy.gov/
   date: 2014 - 2016
   job: Public Affairs Intern
 
-  - name: QOR
-  link: https://www.qor.com/
-  date: 2014 - 2016
-  job: Web Developer
-
-  - name: Spark Boulder
+- name: Spark Boulder
   link: http://www.sparkboulder.com/
   date: 2016 - 2017
   job: Associate Intern
 
- - name: World Economic Forum
-  link: https://www.globalshapers.org/
+- name: QOR
+  link: https://www.qor.com/
+  date: 2014 - 2016
+  job: Web Developer
+
+- name: Apply Zimbabwe
+  link: http://apply.co.zw
   date: 2016 - 2018
-  job: Global Shaper  
+  job: Founder and Developer
+

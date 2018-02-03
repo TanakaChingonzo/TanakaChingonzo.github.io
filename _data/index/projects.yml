@@ -1,10 +1,10 @@
-- name: Tanaka's Blog
-  descr: "My blog built with @Jekyll, HTML, CSS, and jS."
+- name: Shaped Financial Literacy
+  descr: "Shaped curriculum tool to better manage personal finances. The Shaped curriculum is designed to give you the tools you need to better manage your finances. It is perfect for students and professionals alike as it equips you with practical tools to take control of your finances."
   image: /_images/posts/about.jpg
-  github: https://github.com/tanakachingonzo/tanakachingonzo.github.io.git
+  github: http://shaped.org.zw/
 
 - name: Pamwe Infrastructure Platform
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+  descr: "Community-sourced Infrastructure Information. It is a platform that will enable members of a community to work together to solve problems that the city councils and government have failed to address effectively due to poor communication with citizens. “Pamwe” derives from the Shona word, “Pamwe-Chete”, meaning “community and togetherness”. Communities become powerful when they work together, as exemplified by farming endeavors, retail cooperatives, and community art."
   image: _images/posts/about.jpg
   github: https://github.com/tanakachingonzo/tanakachingonzo.github.io.git
 

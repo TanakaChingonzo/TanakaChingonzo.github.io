@@ -1,3 +1,8 @@
+- name: SendIt- Blockchain remittances to the world.
+  descr: "The international remittances market is a $500 billion one. Worldwide, 230 million people send $500 billion in remittances each year, primarily using firms like Western Union, Moneygram, and RIA, which together control 1.1 million retail locations and account for more than 25% of the world’s annual remittance volume. "
+  image: /_images/posts/about.jpg
+  github: http://shaped.org.zw/
+
 - name: Shaped Financial Literacy
   descr: "Shaped curriculum tool to better manage personal finances. The Shaped curriculum is designed to give you the tools you need to better manage your finances. It is perfect for students and professionals alike as it equips you with practical tools to take control of your finances."
   image: /_images/posts/about.jpg
@@ -8,3 +13,18 @@
   image: _images/posts/about.jpg
   github: https://github.com/tanakachingonzo/tanakachingonzo.github.io.git
 
+- name: Annual Meeting of the New Champions 2017
+  descr: "Annual Meeting of the New Champions- Africa's Meeting for Global Shapers of the World Economic Forum. The World Economic Forum Annual Meeting in Davos-Klosters remains the foremost creative force for engaging the world’s top leaders in collaborative activities to shape the global, regional and industry agendas at the beginning of each year. For over four decades, the World Economic Forum’s mission – improving the state of the world – has driven the design and development of the Annual Meeting programme."
+  image: _images/posts/about.jpg
+  github: https://github.com/tanakachingonzo/tanakachingonzo.github.io.git
+
+- name: Prism Brain Mapping Africa
+  descr: "it was designed for organisations to achieve day to day objectives, whilst experiencing: improved performance levels,
+increased employee engagement; and a strategic edge."
+  image: /_images/posts/about.jpg
+  github: http://shaped.org.zw/
+
+- name: Rezident
+  descr: "it is a communication platform built to bridge the gap between citizens and their city councils. The platform allows both citizens to communicate directly with city council and city council to communicate with its citizens. Our team was formed at Startup Weekend Harare in May of 2014 and has been undergoing development and refinement since then. The concept was born out of problems we each face everyday.Health, transportation, water and sanitation."
+  image: /_images/posts/about.jpg
+  github: http://www.rezident.co.zw

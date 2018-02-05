@@ -6,6 +6,7 @@ title: Beautiful Charts with Frappe Charts
 medium: ''
 excerpt: "I found this really cool tool online today under Github's trending repositories. It is called Frappe Charts. "
 categories: [cool tools]
+tags: [charts, javascript, science, data, information]
 comments: true
 image:
   feature: https://i1.wp.com/www.cssscript.com/wp-content/uploads/2017/11/Frapp%C3%A9-Charts.png?fit=619%2C466&ssl=1
@@ -51,7 +52,7 @@ GitHub-inspired simple and modern charts for the web with zero dependencies.
 </script>
 </pre>
 
-I found this really cool [tool](https://frappe.github.io/charts/) online today under Github's trending repositories. It is called Frappe Charts. 
+I found this really cool [tool](https://frappe.github.io/charts/) online today under Github's trending repositories. It is called Frappe Charts.
 
 It is a tool to display [graphs and data visualizations](https://frappe.github.io/charts/) without any complicated excel or tableu software on your website. It is so easy to implement. You can display graphs like the one below showing my mood this past semester throughout the day.
 

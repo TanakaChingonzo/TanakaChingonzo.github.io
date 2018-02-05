@@ -5,6 +5,7 @@ ref: tanaka-chingonzo-2017-inretrospect-my-key-learnings
 title: 2017 in retrospect
 excerpt: "The water is thickest while we’re in it. The path bumpiest while we walk it."
 categories: [hello 2018]
+tags: [easy, poetry, hope, fascinating]
 comments: true
 image:
   feature: http://tanaka.co.zw/assets/images/posts/tanaka-chingonzo-2017-inretrospect-my-key-learnings.jpg
@@ -18,15 +19,15 @@ image:
 
 The water is thickest while we’re in it. The path bumpiest while we walk it. I am still walking, but this last year is one more summit I have topped. What follows is a journey into another year. Before that happens, as I write this, at this time between times, it is easy to look back at the year past and the year ahead, and to consider my mistakes, and how I could have done things better.
 
- It is also nice to think about the things I did somewhat right. There are of course almost infinitely more of the former things than the latter. Still. This is my year in review, and my hope is that a year from now, as I read this and write about this coming year in review, these thoughts will help me look forward with hope, and back with joy and appreciation for the challenges I have faced, and overcome to get to wherever I will be then. 
+ It is also nice to think about the things I did somewhat right. There are of course almost infinitely more of the former things than the latter. Still. This is my year in review, and my hope is that a year from now, as I read this and write about this coming year in review, these thoughts will help me look forward with hope, and back with joy and appreciation for the challenges I have faced, and overcome to get to wherever I will be then.
 
 ## I started college in 2017.
 
 Going to school these last four months has been in one word, tumultuous. In these last few weeks, a century might as well have passed. The transition from home to this new place, would have been incredibly difficult were it not for the incredible people I have met along the way. I am grateful for the people who have supported me at every stage, and in whatever seemingly small way. That has been an important lesson for me this year:
 
-1. People matter. Do not ever forget that. 
-2. Treat everyone how you would want them to treat you. 
-3. If you can make someone have a good day, please do it. Sometimes, all it really takes, is a smile. 
+1. People matter. Do not ever forget that.
+2. Treat everyone how you would want them to treat you.
+3. If you can make someone have a good day, please do it. Sometimes, all it really takes, is a smile.
 4. Also, spend your time and energy in the ways that feel important to you, and that matter. This is the only useful way to spend your time.
 
 ## My family.
@@ -49,8 +50,8 @@ I travelled a fair amount this last semester. That was fun. Microsoft’s campus
 
 
  1. It is alright that things won’t always go according to plan. It is always an opportunity to get better.
- 2. And, you can almost always try again later. That applies to everything in life, perhaps except life itself. 
- 3. Never get too bummed out about failures. Seeing Seattle alone, and getting that interview experience was an incredible opportunity! Plus, you made some really good friends on that trip. 
- 4. It is always worth trying to get what you want. You never fail so badly that you get nothing at all. At the very least, you get to say hey, I was once stupid enough to try this. 
+ 2. And, you can almost always try again later. That applies to everything in life, perhaps except life itself.
+ 3. Never get too bummed out about failures. Seeing Seattle alone, and getting that interview experience was an incredible opportunity! Plus, you made some really good friends on that trip.
+ 4. It is always worth trying to get what you want. You never fail so badly that you get nothing at all. At the very least, you get to say hey, I was once stupid enough to try this.
 
 Now, 2017 was an incredible year, and ultimately, it brought with it challenges I did not expect I would ever need to know how to face. And yet I did, and I am here. I am ready for this next year, and I am grateful most of all for the people who step into this next year with me.

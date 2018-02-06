@@ -7,11 +7,11 @@ medium: ''
 excerpt: " The wealthy are wealthier and the poorer are poorer still. It is my hope that my generation can reduce the inequality we are inheriting today, and that empathy may play a more prominent role in the way we do business."
 categories: [economics]
 comments: true
-image:
-  feature: http://tanaka.co.zw/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg
 ---
 
 # WhatsApp, is by far the most popular internet app in Zimbabwe
+
+![](/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg)
 <meta property="og:image" content="http://tanaka.co.zw/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg">
 
 How do you really pay for your apps?<br>1. Your personal data.<br> 2. Revenue lost to governments and local firms.<br> 3. Subscriptions and impulsive in-app purchases.
@@ -24,7 +24,7 @@ I like to call my parents and family to find out how they are, and to let them k
 
 Each Whatsapp call I make undercuts their revenue. Money that would have been added to our gross national revenue. The small ways I contribute to our economy. Or undermine it. Unknowingly.
 
-But it is more complex than that, is it not? We have our Zimbabwean economy, but we also have our regional economy now- the SADC. Beyond that, we also have the global economy. Globalization, technology has given us the gift of connectedness, and ubiquity. 
+But it is more complex than that, is it not? We have our Zimbabwean economy, but we also have our regional economy now- the SADC. Beyond that, we also have the global economy. Globalization, technology has given us the gift of connectedness, and ubiquity.
 
 >Everything is connected.
 
@@ -40,7 +40,7 @@ What globalization HAS not done is level the playing field.
 </figcaption>
 </figure>
 
-People are now more widely connected but even access to this connectedness is grossly unequal across the world. 
+People are now more widely connected but even access to this connectedness is grossly unequal across the world.
 
 Facebook's starting mission was, "to give people the power to build community and bring the world closer together."
 

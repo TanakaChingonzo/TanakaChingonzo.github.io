@@ -17,7 +17,7 @@ keywords: ["Programming", "Python", "C", "Entrepreneur"]
 timezone:          Europe/Paris
 markdown:          kramdown
 highlighter:       rouge
-excerpt_separator: <!--more-->
+excerpt_separator: <!--read more-->
 permalink:         /:title
 
 kramdown:

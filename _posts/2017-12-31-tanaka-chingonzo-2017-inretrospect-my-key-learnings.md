@@ -7,13 +7,11 @@ excerpt: "The water is thickest while we’re in it. The path bumpiest while we 
 categories: [hello 2018]
 tags: [easy, poetry, hope, fascinating]
 comments: true
-image:
-  feature: http://tanaka.co.zw/assets/images/posts/tanaka-chingonzo-2017-inretrospect-my-key-learnings.jpg
-  credit: Greg Rakozy
-  creditlink: https://unsplash.com/photos/oMpAz-DN-9I
 ---
 
 # These were my key learnings this year.
+
+![](assets/images/posts/tanaka-chingonzo-2017-inretrospect-my-key-learnings.jpg)
 
 <meta property="og:image" content="http://tanaka.co.zw/assets/images/posts/tanaka-chingonzo-2017-inretrospect-my-key-learnings.jpg">
 

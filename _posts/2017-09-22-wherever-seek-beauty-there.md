@@ -8,11 +8,11 @@ medium: ''
 excerpt: "Find it in yourself and in everyone else. Take it into your heart, and keep it there and in the cold despair that touches you when you fail, may you learn to keep yourself warm."
 categories: [poetry]
 comments: true
-image:
-  feature: https://images.unsplash.com/photo-1515285768613-9efbec9fe26b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b9efd859aeca2dfc9e045769c4dab67a&auto=format&fit=crop&w=1050&q=80
 ---
 
 ## Wherever you are, seek beauty there.<br>
+
+![](https://images.unsplash.com/photo-1515285768613-9efbec9fe26b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b9efd859aeca2dfc9e045769c4dab67a&auto=format&fit=crop&w=1050&q=80)
 
 <figure class="sidebar">
   <img

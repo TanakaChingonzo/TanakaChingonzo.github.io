@@ -8,10 +8,8 @@ excerpt: "According to The Economist, in 2017, data is the new oil."
 categories: [infinite ethics]
 tags: [infinity, ethics, science, data, information]
 comments: true
-image:
-  feature: https://images.unsplash.com/photo-1468070454955-c5b6932bd08d?auto=format&fit=crop&w=750&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3DI
 ---
-
+![](https://images.unsplash.com/photo-1468070454955-c5b6932bd08d?auto=format&fit=crop&w=750&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3DI)
 <figure class="sidebar">
   <img
   	srcset="https://images.unsplash.com/photo-1468070454955-c5b6932bd08d?auto=format&fit=crop&w=750&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D"

@@ -8,8 +8,6 @@ excerpt: "I found this really cool tool online today under Github's trending rep
 categories: [cool tools]
 tags: [charts, javascript, science, data, information]
 comments: true
-image:
-  feature: https://i1.wp.com/www.cssscript.com/wp-content/uploads/2017/11/Frapp%C3%A9-Charts.png?fit=619%2C466&ssl=1
 ---
 
 ![](/assets/images/posts/beautiful-charts-with-frappe.gif)

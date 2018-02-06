@@ -8,7 +8,7 @@ comments: true
 categories: [hello 2018]
 pinned: true
 ---
-![illusion of explanatory depth](/assets/images/posts/ioed.jpg)
+![illusion of explanatory depth](http://tanaka.co.zw//assets/images/posts/ioed.jpg)
 
 ## Often, those of us who know the least about things are the same ones who over-estimate our understanding of everything.
 

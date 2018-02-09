@@ -3,11 +3,11 @@ title:  "A half remembered dream."
 subtitle: "The things I write when I don't think I'll write."
 author: "Tanaka Chingonzo"
 avatar: "img/authors/tanaka.jpg"
-image: "img/d.jpg"
 date:   2017-01-06 12:12:12
 excerpt: "In my head, perhaps in a dream- a half forgotten dream- I have written this a thousand times, and each time I put my hands to my keyboard, it feels like a dream half remembered. But I have not yet truly begun, on paper."
 categories: [poetry]
 comments: true
+tags: [poetry]
 ---
 ![A half remembered dream](https://cdn-images-1.medium.com/max/1000/1*yzLKhC_fQRcvfhRitsxQoA.jpeg)
 

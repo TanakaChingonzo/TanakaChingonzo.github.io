@@ -1,13 +1,14 @@
 ---
 layout: post
 lang: en
-ref: this-is-what-you-did-to-me
-title: A culture of silence and noise.
+ref: staring-oppression-in-the-face
+title: A culture of silent noise and oppression.
 image: true
 medium: 'byrslf.co/this-is-what-you-did-to-me-thank-you-f022186bceda'
-excerpt: "Thank you for teaching me how to speak. And then asking me to be silent when I did speak."
+excerpt: "Thank you for teaching me how to speak. And then asking me to be silent when I did speak. For everyone who has looked oppression in the face."
 categories: [poetry]
 comments: true
+tags: [poetry, feminism]
 ---
 
 ### 1. This is what you did to me. Thank you.

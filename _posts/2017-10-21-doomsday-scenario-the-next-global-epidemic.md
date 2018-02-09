@@ -7,6 +7,7 @@ medium: ''
 excerpt: "Then there’s malaria, about which there are only scattershot records, but may have killed as many as half the human beings who have ever lived."
 categories: [future]
 comments: true
+tags: [future, science, disease]
 ---
 # This week in a few words.
 

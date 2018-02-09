@@ -8,6 +8,7 @@ medium: ''
 excerpt: "Child of Mine, come as you grow in youth you will learn the secret places, the cave behind the waterfall"
 categories: [poetry]
 comments: true
+tags: [poetry]
 ---
 
 This poem was originally written and published by [Forest Woodward's father](https://www.artifactuprising.com/the-important-places)

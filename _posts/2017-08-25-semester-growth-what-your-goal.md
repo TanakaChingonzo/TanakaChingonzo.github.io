@@ -8,6 +8,7 @@ medium: 'mystudentvoices.com/tanakachingonzo-this-semester-i-want-to-grow-what-i
 excerpt: "When I was a child, I talked like a child, I thought like a child, I reasoned like a child. But when I grew up, I put away childish things."
 categories: [future]
 comments: true
+tags: [poetry, future]
 ---
 
 # Class of 2021, the future begins now, and it is ours.

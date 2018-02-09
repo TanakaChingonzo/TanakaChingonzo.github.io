@@ -6,6 +6,7 @@ date:   2017-01-03 12:12:12
 excerpt: "I recently read a paper on an some obscure thing called “Infinite Ethics,” by Nick Bostrom."
 categories: [infinite ethics]
 comments: true
+tags: [ethics, science, fascinating]
 ---
 ![The weight of kindness](https://cdn-images-1.medium.com/max/800/1*ceErosd6C4CgPAZSgbt73g.jpeg)
 

@@ -7,6 +7,7 @@ medium: ''
 excerpt: " The wealthy are wealthier and the poorer are poorer still. It is my hope that my generation can reduce the inequality we are inheriting today, and that empathy may play a more prominent role in the way we do business."
 categories: [economics]
 comments: true
+tags: [information, zimbabwe, africa, data]
 ---
 
 # WhatsApp, is by far the most popular internet app in Zimbabwe

@@ -3,11 +3,11 @@ layout: page
 lang: en
 ref: miracle-of-life-poem-tanaka-chingonzo
 title: Writing in the morning- The miracle of life
-image: true
 medium: ''
 excerpt: "We live and we die, and perhaps though we forget this in adulthood, a forgotten promise sealed on our lips by the cavern angels hand- children know that life ends and does not."
 categories: [poetry]
 comments: true
+tags: [poetry]
 ---
 
 ![The Miracle of life- Tanaka Chingonzo blog](https://cdn-images-1.medium.com/max/800/1*hK0LXs3O7TuyMGCBnua5Lw.jpeg)

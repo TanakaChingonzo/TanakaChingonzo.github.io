@@ -8,6 +8,7 @@ medium: ''
 excerpt: "We have the greatest opportunities in the time that man has walked this earth, and the greatest challenges. Many would argue we are largely responsible for both. What a time to be alive."
 categories: [future]
 comments: true
+tags: [philosophy]
 ---
 
 # Most people think the world has changed. It hasn’t.

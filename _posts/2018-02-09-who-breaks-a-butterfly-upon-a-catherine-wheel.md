@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Who Breaks a Butterfly Upon a Wheel
-excerpt: "And because the past is never dead; it is not even past. The Sense of an Ending, and the untimely death of Aaron Swartz. Does death make any sense?"
+excerpt: "And because the past is never dead; it is not even past. The Sense of an Ending, and the untimely death of Aaron Swartz. Here is suicide as a philosophical question: does suicide make sense as an answer to suffering?"
 modified: 2018-02-05
 tags: [death, ethics, poetry, fascinating]
 comments: true
-categories: [hello 2018]
+categories: [philosophy]
 pinned: true
 ---
 

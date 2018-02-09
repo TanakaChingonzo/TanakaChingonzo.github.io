@@ -51,7 +51,7 @@ Rozenblit and Keil initially demonstrated the IOED through multi-phase studies. 
      economic markets and virtually anything we are capable of (mis)understanding.
 
 ![](http://tanaka.co.zw/assets/images/posts/brain.png)
-
+ *Brain Traps* by [Liza Otchenashenko](https://dribbble.com/shots/3550062-Brain-Traps)
 
 At present, the IOED is profoundly pervasive given that we have infinite access to information, but consume information in a largely superficial fashion. A 2014 survey found that approximately six in ten Americans read news headlines and nothing more. Major geopolitical issues from civil wars in the Middle East to the latest climate change research advances are distilled into tweets, viral videos, memes, “explainer” websites, soundbites on comedy news shows, and daily e-newsletters that get inadvertently re-routed to the spam folder. We consume knowledge widely, but not deeply.
 

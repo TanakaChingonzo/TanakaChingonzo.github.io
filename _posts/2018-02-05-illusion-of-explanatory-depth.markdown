@@ -5,11 +5,11 @@ excerpt: "Often, those of us who know the least about things are the same ones w
 modified: 2018-02-05
 tags: [illusion, explanatory depth, science, fascinating]
 comments: true
-categories: [hello 2018]
+categories: [philosophy]
 pinned: true
 ---
 
-![](https://cdn.vox-cdn.com/thumbor/zfk_Cq8KPkp9QKK49NYdJRfA3OM=/0x0:1024x683/1200x800/filters:focal(523x306:685x468/cdn.vox-cdn.com/uploads/chorus_image/image/53489463/shutterstock_329644514_1024.0.jpg)
+![](http://tanaka.co.zw/assets/images/posts/39-waterfall.gif)
 
 <meta property="og:image" content="https://cdn.vox-cdn.com/thumbor/zfk_Cq8KPkp9QKK49NYdJRfA3OM=/0x0:1024x683/1200x800/filters:focal(523x306:685x468/cdn.vox-cdn.com/uploads/chorus_image/image/53489463/shutterstock_329644514_1024.0.jpg">
 

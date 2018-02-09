@@ -47,7 +47,10 @@ Rozenblit and Keil initially demonstrated the IOED through multi-phase studies. 
   participants to write a detailed explanation of how each artifact works, and afterwards asked them re-rate how well they
    understand each one. Study after study showed that ratings of self-knowledge dropped dramatically from phase one to
     phase two, after participants were faced with their inability to explain how the artifact in question operates.
-    Of course, the IOED extends well beyond artifacts, to how we think about scientific fields, mental illnesses, economic markets and virtually anything we are capable of (mis)understanding.
+    Of course, the IOED extends well beyond artifacts, to how we think about scientific fields, mental illnesses,
+     economic markets and virtually anything we are capable of (mis)understanding.
+
+![](http://tanaka.co.zw/assets/images/posts/brain.png)
 
 
 At present, the IOED is profoundly pervasive given that we have infinite access to information, but consume information in a largely superficial fashion. A 2014 survey found that approximately six in ten Americans read news headlines and nothing more. Major geopolitical issues from civil wars in the Middle East to the latest climate change research advances are distilled into tweets, viral videos, memes, “explainer” websites, soundbites on comedy news shows, and daily e-newsletters that get inadvertently re-routed to the spam folder. We consume knowledge widely, but not deeply.
@@ -55,8 +58,6 @@ At present, the IOED is profoundly pervasive given that we have infinite access 
 > “Most people feel they understand the world with far greater detail, coherence, and depth than they really do.”
 
 Understanding the IOED allows us to combat political extremism. In 2013, Philip Fernbach and colleagues demonstrated that the IOED underlies people’s policy positions on issues like single-payer health care, a national flat tax, and a cap-and-trade system for carbon emissions. As in Rozenbilt and Keil’s studies, Fernbach and colleagues first asked people to rate how well they understood these issues, and then asked them to explain how each issue works and subsequently re-rate their understanding of each issue. In addition, participants rated the extremity of their attitudes on these issues both before and after offering an explanation. Both self-reported understanding of the issue and attitude extremity dropped significantly after explaining the issue—people who strongly supported or opposed an issue became more moderate. What is more, reduced extremity also reduced willingness to donate money to a group advocating for the issue. These studies suggest the IOED is a powerful tool for cooling off heated political disagreements.
-
-![](http://tanaka.co.zw/assets/images/posts/brain.png)
 
 
 > We consume knowledge widely, but not deeply.

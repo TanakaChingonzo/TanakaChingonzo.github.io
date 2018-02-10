@@ -11,7 +11,7 @@ comments: true
 
 # These were my key learnings this year.
 
-![](assets/images/posts/tanaka-chingonzo-2017-inretrospect-my-key-learnings.jpg)
+![](assets/images/posts/2018.gif)
 
 <meta property="og:image" content="http://tanaka.co.zw/assets/images/posts/tanaka-chingonzo-2017-inretrospect-my-key-learnings.jpg">
 

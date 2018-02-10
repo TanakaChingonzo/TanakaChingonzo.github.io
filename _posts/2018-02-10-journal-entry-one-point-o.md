@@ -9,8 +9,6 @@ categories: [journal]
 pinned: true
 ---
 
-![](assets/images/posts/2018.gif)
-
 Today was a good day. I had my sociology exam. I wrote 5 and a half pages of social theories describing the sociological imagination and the 3 main sociological paradigms. I am finding that Marx, Durkheim and I share views on more things than I would have thought even all 3 of them disagree on almost everything.
 
 I know I want Sociology to occupy a significant part of my life; what better use of my brief time on earth could there possibly be other than examining why the world is as fucked up as it is, why so many of us willingly and unwittingly (raised eyebrow) look the other way?

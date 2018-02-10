@@ -10,11 +10,15 @@ pinned: true
 ---
 #### Journal Entry 1.0: Friday, Post Week 4 Semester 2
 
-Today was a good day. I had my sociology exam. I wrote 5 and a half pages of social theories describing the sociological imagination and the 3 main sociological paradigms. I am finding that Marx, Durkheim and I share views on more things than I would have thought even all 3 of them disagree on almost everything.
+Today was a good day. I had my sociology exam. I wrote 5 and a half pages of social theories describing the sociological imagination and the 3 main sociological paradigms. I am finding that Marx, Durkheim and I share views on more things than I would have thought.
+> even though all 3 of them disagree on almost everything.
 
-I know I want Sociology to occupy a significant part of my life; what better use of my brief time on earth could there possibly be other than examining why the world is as fucked up as it is, why so many of us willingly and unwittingly (raised eyebrow) look the other way?
+I know I want Sociology to occupy a significant part of my life; what better use of my brief time on earth could there possibly be other than examining why the world is as fucked up as it is, why so many of us willingly and unwittingly (raised eyebrow) look the other way in the face of oppression and injustice?
 
-Are we all blind or do we grossly overestimate our collective intelligence? The prospect of my own utter stupidity is a reality I do not feel particularly ready to confront, and I don't know what Ockham's razor would cut in this particular situation. It is impossible that the entire world is blind, but incompetence is arguable. The simplest explanation is that we are all stupid.
+Are we all blind or do we grossly overestimate our collective intelligence when we overdress to give meaningless class presentations on Cabeza de Vaca and his journey into North America?
+>who breaks a butterfly upon a wheel
+
+The prospect of my own utter stupidity is a reality I do not feel particularly ready to confront, and I don't know what Ockham's razor would cut in this particular situation. It is impossible that the entire world is blind, but incompetence is arguable. The simplest explanation is that we are all stupid.
 
 I also decided I would journal and keep track of my day to day life. The goal is that I be able to look back at each day and see what I did wrong, what patterns I carry from each day to the next. I will try to do this as briefly and concisely as I possibly can.
 

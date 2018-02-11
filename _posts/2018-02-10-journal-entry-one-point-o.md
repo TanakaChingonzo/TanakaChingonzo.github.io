@@ -1,53 +1,39 @@
 ---
 layout: post
-title: Post Week 4 Semester 2 at Wooster. Chaos Theory.
-excerpt: "Today was a good day. I had my sociology exam. I wrote 5 and a half pages of social theories describing the sociological imagination and the 3 main sociological paradigms. I am finding that Marx, Durkheim and I share views on more things than I would have thought even all 3 of them disagree on almost everything."
+title: Saturday, 11 February. Moore's Law. Sod's Law.
+excerpt: "Everything that is possible is happening all at once."
 modified: 2018-02-10
 tags: [journal]
 comments: true
 categories: [journal]
 pinned: true
 ---
-#### Journal Entry 1.0: Friday, Post Week 4 Semester 2
+#### Journal Entry 1.0: Saturday, 11 February. Moore's Law. Sod's Law. Everything that is possible is happening all at once.
 
-Today was a good day. I had my sociology exam. I wrote 5 and a half pages of social theories describing the sociological imagination and the 3 main sociological paradigms. I am finding that Marx, Durkheim and I share views on more things than I would have thought.
-> even though all 3 of them disagree on almost everything.
+#### 02-10-2018 Night
+I had my RA interview today. I bungled it up. The limits of human stupidity are infinite it seems- I am abundant evidence of this. I walked into the room with my phone on.
 
-I know I want Sociology to occupy a significant part of my life; what better use of my brief time on earth could there possibly be other than examining why the world is as fucked up as it is, why so many of us willingly and unwittingly (raised eyebrow) look the other way in the face of oppression and injustice?
+#### Murphy's Quantum Law.
 
-Are we all blind or do we grossly overestimate our collective intelligence when we overdress to give meaningless class presentations on Cabeza de Vaca and his journey into North America?
->who breaks a butterfly upon a wheel
+- Anything that can, could have, or will go wrong, is going wrong, all at once. If there are two or more ways to do something, and one of those ways can result in a catastrophe or pregnancy, then someone will do it.
 
-The prospect of my own utter stupidity is a reality I do not feel particularly ready to confront, and I don't know what Ockham's razor would cut in this particular situation. It is impossible that the entire world is blind, but incompetence is arguable. The simplest explanation is that we are all stupid.
+A few minutes into the interview lo and behold, my phone rang. It was mortifying.
 
-I also decided I would journal and keep track of my day to day life. The goal is that I be able to look back at each day and see what I did wrong, what patterns I carry from each day to the next. I will try to do this as briefly and concisely as I possibly can.
+*But it gets **even** worse.*
 
-#### Day 1 of journaling. 10 February 2018.
 
-Today I met someone and talked about books. It was a beautiful conversation, and yet, I did not remember her name. I carried on our conversation in the pretentious way people carry conversations on with people whose names they have forgotten. This happens far more than I would like. It bothers me how little people here read, and it almost seems counterintuitive to the education we are here in pursuit of that so many of us read so little.
+#### Sod's law
 
-Things I did today that made me happy and I am proud of.
+While Murphy's law says that anything that **can** go wrong, will go wrong (eventually), Sod's law requires that it **always** goes wrong with the worst possible outcome.
 
-1. I read this article on [Wait But Why](https://waitbutwhy.com/2016/09/marriage-decision.html). I was enjoying it and then I was confronted by a friend who did not want to be friend any longer. It was startling. Everyone is redeemable, are we not? There is some good in all of us no matter how dark our sins.
+And it did.
 
-2. I read about Descartes' Demon, and arguments for why everything we obsess over is pointless.
-3. I went through some of Python's official documentation.
-4. I muddled around in Jupyter notebook.
-5. I updated my post format in Liquid on my Jekyll Blog. I would like to learn more Ruby.
-6. I finished watching Altered Carbon Last Night. I feel tempted to read the book now. I have so many books I need to get to reading. I still haven't read Marloes' To Kill A Mockingbird- and she is my best friend and if I owe anyone anything, I owe her that.
-7. I am finding that I immensely enjoy having the evenings to myself, which is an interesting thing to think about- I have observed my psychological state transform when I meet people and then leave their company. I will plan to make more time to sit down, read a book, and meditate on my days and my future.
-8. I watched a video on Business Insider that explained why Caviar is so expensive and it mentioned an economic theory that states how things rise in value as they become rarer. This does not bode well for endangered species- in the video it was the Wild Sturgeon that produce actual caviar.
+I completely misinterpreted the interview question in the first activity and fashioned my own question in its stead. I have always been told by my friends and the people who aspire to know me most intimately that I should consider going into politics one day, and perhaps I will. The true mark of a good politician is the ability to answer any question, if only by refashioning the question into one they find more friendly and works to their advantage. My little mistake was to nobody's advantage. Still, I am happy with how my day went overall.
 
-#### Key Reflections of the day
-1. I feel happy when I am talking to people and getting to know them and what makes them happy. Durkheim is right  I an saying that I am a social animal.
-2. I love learning new things in bite sized servings.
-3. I thrive in the chaos of activity and business.
-4. I love my own company.
-5. I enjoy the feeling of accomplishment when I accomplish a task successfully. 6. I need to figure out how to successfully implement Disqus into my Jekyll blog.
-6. I keep thinking about the Illusion of Explanatory Depth and how I need to learn as much I can, about everything. But when I die, what happens to all that knowledge? There is nothing as wasteful as death.
+What a beautiful thing it is to be happy on my own. A friend cut me off yesterday, and in its own way, that was liberating. My mind is free to dwell on other things, and my heart is spared of the heartache and risk that defines trusting in another person. No more breaking the butterfly upon the wheel. I liked to think that the human heart's capacity to endure suffering was limitless. I am now more infatuated with a theory of a theory of suffering and elasticity.
 
-My blog post on Aaron Swartz makes me feel this last sentiment even sharper. We die with our genius and stupidity. Perhaps that last thing isn't a terrible waste after all. The world has too much stupidity in it as it is.
+Elasticity has limits. As does the amount of suffering the human heart can bear. Either that, or the amount of suffering we are willing to bear, because Viktor Frankl described a limitless human spirit in his book Man's Search for meaning and his psychological analysis of his experience as tyranny's subject in the holocaust camps of this last century. Ah the human spirit. Frankl said something in his book along the lines of
 
-> Reminder. A conversation I still need to have with a psychology professor here at Wooster, can suicide ever be the product of a healthy, logical, and rational mind?
+**Elastic limit**: the maximum stress or force per unit area within a solid material that can arise before the onset of permanent deformation.
 
-I have an RA interview tomorrow at 9am. It is 02:13 am. There is no rest for the wicked. Morality is relative. Erika Goetz will disagree, but you dear reader, and I, know better.
+I had really interesting conversations with Gracie today about religion and the nature of belief. I was fascinated by how my readings about Descartes' demon and the Dreaming problem wove into our conversation today. I am asking myself whether there are any absolute truths. I am inclined to think not; for in everything, there is as much fact of the truth as there is of the opposite.

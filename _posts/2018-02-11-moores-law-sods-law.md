@@ -8,9 +8,9 @@ comments: true
 categories: [journal]
 pinned: true
 ---
-#### Journal Entry 1.0: Saturday, 11 February. Moore's Law. Sod's Law. Everything that is possible is happening all at once.
+#### Journal Entry. Saturday, 11 February. Moore's Law. Sod's Law. Everything that is possible is happening all at once.
 
-#### 02-10-2018 Night
+#### Night
 I had my RA interview today. I bungled it up. The limits of human stupidity are infinite it seems- I am abundant evidence of this. I walked into the room with my phone on.
 
 #### Murphy's Quantum Law.

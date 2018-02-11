@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post Week 4 Semester 2 at Wooster. Chaos Theory.
+title: Friday, 10 February. Semester 2 at Wooster. Chaos Theory.
 excerpt: "Today was a good day. I had my sociology exam. I wrote 5 and a half pages of social theories describing the sociological imagination and the 3 main sociological paradigms. I am finding that Marx, Durkheim and I share views on more things than I would have thought even all 3 of them disagree on almost everything."
 modified: 2018-02-10
 tags: [journal]

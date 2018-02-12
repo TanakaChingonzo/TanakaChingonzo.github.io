@@ -44,7 +44,9 @@ I had a really deep conversation with Gracie today about religion and the nature
 #### Sunday
 On dreams, I read this article today, it said;
 
->"The opening sentence of a novel sets up a pact with the reader: it says that what is about to be described didn’t happen in reality but starting now we will act as if it had." A pact to lie. I am reminded of the Liar's paradox. I am a liar. Am I?
+>"The opening sentence of a novel sets up a pact with the reader: it says that what is about to be described didn’t happen in reality but starting now we will act as if it had." A pact to lie. 
+
+I am reminded of the **Liar's paradox**. I am a liar. Am I?
 
 How I agree with this. Every work of fiction I have ever read is a lie, and as I first read it, the author and I made a pact to never acknowldge that everything we were aboutu to share with each other was a lie. Their singular job, to deceive me. So many of us make similar pacts with the people in our lives every day. It is easier to be deceived than to face the truth. The truth is seldom beautiful. It is something everyone thinks they want to hear until they actually hear it. 
 

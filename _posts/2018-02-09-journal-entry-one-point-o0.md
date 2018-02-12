@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Friday, 10 February. Semester 2 at Wooster. Chaos Theory.
+title: Friday, 09 February. Semester 2 at Wooster. Chaos Theory.
 excerpt: "Today was a good day. I had my sociology exam. I wrote 5 and a half pages of social theories describing the sociological imagination and the 3 main sociological paradigms. I am finding that Marx, Durkheim and I share views on more things than I would have thought even all 3 of them disagree on almost everything."
-modified: 2018-02-10
+modified: 2018-02-09
 tags: [journal]
 comments: true
 categories: [journal]
@@ -20,7 +20,7 @@ Are we all blind or do we grossly overestimate our collective intelligence when 
 
 The prospect of my own utter stupidity is a reality I do not feel particularly ready to confront, and I don't know what Ockham's razor would cut in this particular situation. It is impossible that the entire world is blind, but incompetence is arguable. The simplest explanation is that we are all stupid.
 
-I also decided I would journal and keep track of my day to day life. The goal is that I be able to look back at each day and see what I did wrong, what patterns I carry from each day to the next. I will try to do this as briefly and concisely as I possibly can.
+Today, I also decided I would journal and keep track of my day to day life. The goal is that I be able to look back at each day and see what I did wrong, what patterns I carry from each day to the next. I will try to do this as briefly and concisely as I possibly can. That will be a struggle: I listen too little and I talk too much.
 
 #### Day 1 of journaling. 10 February 2018.
 

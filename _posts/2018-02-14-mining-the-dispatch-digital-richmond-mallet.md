@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Review: Mining the Dispatch for Textual Data on the Civil War
+title: Mining the Dispatch for Textual Data on the Civil War
 excerpt: "Using machine learning and probabilistic topic modelling specifically a tool called MALLET -created by McCallum, Andrew to analyze an archive of 112000 pieces of text, and more than 24 million words."
 modified: 2018-02-14
 tags: [data, charts, ]

@@ -27,11 +27,13 @@ Nelson queries why the market for slave labor remained largely contest over time
 
 #### Topics Explored
 
-Slavery was a prominent part of this humanities project and Nelson analyzed these textual bodies of data to identify trends and patterns in slavery and how the civil war influenced it. In examining this project, it can be useful to inquire of Nelson about the factors that influenced the survival of slavery that did not include the war and what impact slavery had on the slaves themselves and the social fabric of the period.
+**Slavery** was a prominent part of this humanities project and Nelson analyzed these textual bodies of data to identify trends and patterns in slavery and how the civil war influenced it. In examining this project, it can be useful to inquire of Nelson about the factors that influenced the survival of slavery that did not include the war and what impact slavery had on the slaves themselves and the social fabric of the period.
 
-Nationalism and Patriotism were analyzed in poems, articles and essays that were published in the newspaper that rallied for the support of anti-northern sentiment and support for the southern war effort.
+![](http://journalofdigitalhumanities.org/wp-content/uploads/2013/02/chart.png)
 
-In all, 40 different topics are explored by this research project which identifies the relationships between different variables and metrics that influenced the politics and developments of the period. Some of these other topics include military conflict, soldiers, economy, politics, local news, and advertisements.
+**Nationalism and Patriotism** were analyzed in poems, articles and essays that were published in the newspaper that rallied for the support of anti-northern sentiment and support for the southern war effort.
+
+In all, **40 different topics** are explored by this research project which identifies the relationships between different variables and metrics that influenced the politics and developments of the period. Some of these other topics include military conflict, soldiers, economy, politics, local news, and advertisements.
 
 #### History and process.
 

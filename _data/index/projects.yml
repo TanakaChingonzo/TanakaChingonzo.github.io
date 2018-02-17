@@ -3,6 +3,11 @@
   image: /_images/posts/about.jpg
   github: http://shaped.org.zw/
 
+- name: Apply Africa
+  descr: "Apply Africa is an online platform that bridges the gap between theoretical education and practical implementation. Our website attracts 5,000+ views monthly with 500+ people engaging with us on our various social media platforms. Unlike other platforms for youth opportunities, we distinguish ourselves. We do this with extremely niche opportunities for the Zimbabwean population of the student, graduate and professional demographic."
+  image: "http://tanaka.co.zw/assets/images/posts/PrismAfrica.png"
+  github: http://apply.co.zw/
+
 - name: Shaped Financial Literacy
   descr: "Shaped curriculum tool to better manage personal finances. The Shaped curriculum is designed to give you the tools you need to better manage your finances. It is perfect for students and professionals alike as it equips you with practical tools to take control of your finances."
   image: /_images/posts/about.jpg

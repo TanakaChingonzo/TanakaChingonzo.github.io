@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sunday, 11 February. Tears. Distance.
-excerpt: "I sat with a close friend of mine today, and I stood witness to her grief. Grief is a heartbreakingly beautiful thing. It connects us in ways I don't think happiness can."
+title: Sunday, 11 February. Distance. Displacement.
+excerpt: "How far I have come. Distance. How little I have moved? Displacement."
 modified: 2018-02-11
 tags: [journal]
 comments: true
@@ -10,7 +10,7 @@ pinned: true
 ---
 #### Journal Entry. Sunday, 11 February.
 
-I had breakfast with David today. We had planned for it to be an hour long. We sat and talked for close to 3 hours. My conversations with david are always supremely interesting; we have such different yet similar views of everything. What rich exchanges we have when we meet and talk: I bring naivety to the table, and he brings the depth of his experience, and his sharp, cutting intelligence. I always leave our meals hopeful, thoughtful, and even more curious than when I arrive.
+I had breakfast with David today. We had planned for it to be an hour long. We sat and talked for close to 3 hours. My conversations with David are always supremely interesting; we have such different yet similar views of everything. What rich exchanges we have when we meet and talk: I bring naivety to the table, and he brings the depth of his experience, and his sharp, cutting intelligence. I always leave our meals hopeful, thoughtful, and even more curious than when I arrive.
 
 
 David said something that really struck me to me today. That is generally the way our conversations go, but this was a larger than life experience for me. My morning started off with me running franticly to get to Babcock Hall where he was waiting for me, patiently. I was 15 minutes late to our meeting. We got into his car, and caught up on each others weeks. I apologized profusely, and he did not dwell on how late I had been. Time is incredibly important, but I am convinced there are things of greater consequence.
@@ -22,13 +22,15 @@ As he drove me back to campus, we talked about how quickly the world was changin
 - the observation that the number of transistors in a dense integrated circuit doubles approximately every two years. is. the processing power of computers should double every 2 years.
 
 
-I sat with Meg, Billy and Brandi today. Sitting with them gave me a glimpse of what I imagined friendships would be when I came to college. They have been more and less than I thought they would be. I felt a part of them, and I think that is in large part to Billy's great and possibly questionable sense of humor, but also because true friendship does not segregate when it feels threatened? This is a question because I do not know the answer to it. True friendship does not feel threatened. It stretches and accomodates.
+I sat with Meg, Billy and Brandi today. Sitting with them gave me a glimpse of what I imagined friendships would be when I came to college. They have been more and less than I thought they would be. I felt a part of them because true friendship does not segregate when it feels threatened? This is a question because I do not know the answer to it. True friendship does not feel threatened. It stretches and accommodates.
 
 I think of Halen and Marloes now. Ah. All the things I could write. I will devote a separate blog post to them lest they hog all the words on this one. We were sitting together yesterday or today, and Marloes made the most unpredictable association between two seemingly unrelated things in my own opinion. And I thought to myself, this is what makes us human; this ability to see patterns between completely separate , seemingly unconnected things. And to connect them to each other. Halen and Marloes, Beautiful crazy things.
 
-I sat with a close friend of mine today, and I stood witness to their grief. Grief is a heartbreakingly beautiful thing. It connects us in ways I don't think happiness can. In this and other ways, it is a bridge. Between things past and something better. Between broken hearts and things that mend. If you have ever watched someone cry, then you know that our hearts are never broken, but bent. I think I read that, or something similar somewhere.
+How far I have come. Distance. How little I have moved? Displacement.
 
-I am thinking about my dad and how far away he is as I write this. I think he would like this song. In truth he probably wouldn't. I wonder what he is thinking right now.
+I am thinking about my dad and how far away he is as I write this. I think he would like this song. In truth he probably wouldn't. How nuanced coming to college so far from home is. There are high highs and low lows. I have amended this article and I write this as I sit in my hotel room on 02/17/2018. The time is 12:34am. Tomorrow is going to be a busy day.
+
+I was thinking about my dad when I originally wrote this, and I still am. I wonder what he is thinking about right now. Our parents carry the burden of worrying about us their entire lives, and our entire lives. Is there a heavier burden one could possibly bear?
 
 <iframe src="https://open.spotify.com/embed/track/10ViidwjGLCfVtGPfdcszR" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
 

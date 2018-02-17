@@ -5,7 +5,7 @@
 #
 title: Tanaka Chingonzo
 email: tchingonzo21@wooster.edu
-description: Tanaka Chingonzo a global shaper with the World Economic Forum, and a student from Zimbabwe. He is a software engineer and student in Ohio.
+description: Tanaka Chingonzo a global shaper with the World Economic Forum, and a student from Zimbabwe. He is a software engineer and student in Ohio. Computer Science and Sociology Double Major | Digital Humanities Student | Making Connections between people and data
 url: http://tanaka.co.zw # the base hostname & protocol for your site
 keywords: ["Programming", "Python", "C", "Entrepreneur"]
 
@@ -41,7 +41,7 @@ owner:
   disqus-shortname: tanakachingonzo
   twitter: tanakachingonzo #username
   facebook: tanakachingonzo #username
-  google: 
+  google:
     plus: +tanakagregchingonzohme #username
     analytics: UA-83940835-1
     verify: <meta name="google-site-verification" content="n9cECzXDz-nT9u9E2Rx0tTilceSX692q1wJAIBAdogY" />

@@ -9,9 +9,26 @@ categories: [cool tools]
 pinned: true
 ---
 
-![](http://tanaka.co.zw//assets/images/posts/immersionemail.png)
+![](http://tanaka.co.zw/assets/images/posts/immersionemail.png)
 
 [Immersion](https://immersion.media.mit.edu/), MIT Media Lab released a tool a year or two ago that allows people to analyze their own email metadata. Called Immersion, it scrapes a user's Gmail/Outlook/ Yahoo account looking only at the metadata (From, To, Cc and Timestamp fields of the emails) to present an overview of your network.
+
+#### What is Immersion?
+It has been almost two decades since the beginning of the web. This means that the web is no longer just a technology of the present, but also, a record of our past.
+
+Email, one of the original forms of social media, is even older than the web and contains a detailed description of our personal and professional history.
+
+Immersion is an invitation to dive into the history of your email life in a platform that offers you the safety of knowing that you can always delete your data.
+
+Just like a cubist painting, Immersion presents users with a number of different perspectives of their email data.
+
+It provides a tool for self-reflection at a time where the zeitgeist is one of self-promotion.
+
+It provides an artistic representation that exists only in the presence of the visitor.
+
+It helps explore privacy by showing users data that they have already shared with others.
+
+Finally, it presents users wanting to be more strategic with their professional interactions, with a map to plan more effectively who they connect with.
 
 It's worth noting that this tool only works because of our tendency to archive everything. I've saved over 70,000 emails rather than deleting them.
 
@@ -27,16 +44,9 @@ If you decide to save your email metadata with Immersion, that data will be stor
 
 If you take a snapshot of your Immersion network, the snapshot link will be accessible for 30 days, after which it will be deleted from our server.
 
-#### What is Immersion?
-It has been almost two decades since the beginning of the web. This means that the web is no longer just a technology of the present, but also, a record of our past.
-
-Email, one of the original forms of social media, is even older than the web and contains a detailed description of our personal and professional history.
-
-Immersion is an invitation to dive into the history of your email life in a platform that offers you the safety of knowing that you can always delete your data.
-Just like a cubist painting, Immersion presents users with a number of different perspectives of their email data.
-It provides a tool for self-reflection at a time where the zeitgeist is one of self-promotion.
-
-It provides an artistic representation that exists only in the presence of the visitor.
-It helps explore privacy by showing users data that they have already shared with others.
-Finally, it presents users wanting to be more strategic with their professional interactions, with a map to plan more effectively who they connect with.
 So Immersion is not about one thing. It’s about four. It’s about self-reflection, art, privacy and strategy. It’s about providing users with a number of different perspectives by leveraging on the fact that the web, and emails, are now an important part of our past.
+
+Here are the creators:
+[Daniel Smilkov](https://www.linkedin.com/in/dsmilkov)
+[Deepak Jagdish](http://deepakjagdish.com/)
+[César Hidalgo](http://www.chidalgo.com/)

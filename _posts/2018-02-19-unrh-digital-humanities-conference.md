@@ -2,7 +2,7 @@
 layout: post
 title: Undergraduate Network for Research in the Humanities Conference at Hope College 2018
 excerpt: "Using digital humanities tools to ask and answer humanistic questions."
-modified: 2018-02-18
+modified: 2018-02-19
 tags: [UNRH, digital humanities]
 comments: true
 categories: [digital humanities]

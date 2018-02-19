@@ -1,52 +1,80 @@
 ---
 layout: post
-title: Immersion Email Network Analysis and Visualization
-excerpt: "Using Immersion to find patterns in emails and networks"
-modified: 2018-02-17
-tags: [data, charts]
+title: Undergraduate Network for Research in the Humanities Conference at Hope College 2018
+excerpt: "Using digital humanities tools to ask and answer humanistic questions."
+modified: 2018-02-18
+tags: [UNRH, digital humanities]
 comments: true
-categories: [cool tools]
+categories: [digital humanities]
 pinned: true
 ---
 
 ![](http://tanaka.co.zw/assets/images/posts/immersionemail.png)
+Undergraduate Network for Research in the Humanities is an organization working to address the lack of cross-institutional support for undergraduate research in the humanities.
 
-[Immersion](https://immersion.media.mit.edu/), MIT Media Lab released a tool a year or two ago that allows people to analyze their own email metadata. Called Immersion, it scrapes a user's Gmail/Outlook/ Yahoo account looking only at the metadata (From, To, Cc and Timestamp fields of the emails) to present an overview of your network.
+To reverse this culture, the Undergraduate Network for Research in the Humanities has become that collective of students from a wide array of colleges and universities whose mission is to promote, present, and encourage rigorous student research in the humanities, especially with an emphasis on digital humanities. UNRH provides both a physical space for student interactions in the form of an annual conference, and a virtual space on their website with a forum built for the exchange of ideas. The UNRH network has been steadily growing; in fact, since the first UNRH conference in November, 2015, the conference has accepted over 50 projects, involving over 80 undergraduates from 31 institutions all across the United States, Canada, Nigeria, and Pakistan.
 
-#### What is Immersion?
-It has been almost two decades since the beginning of the web. This means that the web is no longer just a technology of the present, but also, a record of our past.
+The 2018 conference was hosted by Hope College this past weekend on February 16th-18th in Holland, MI. I was privileged to attend with my professor [Jacob Heil](http://jacobheil.github.io/) who was the key note speaker at this year's conference.
 
-Email, one of the original forms of social media, is even older than the web and contains a detailed description of our personal and professional history.
+![Jacob Heil](https://pbs.twimg.com/media/DWQc3pUWsAEQvK7.jpg)
 
-Immersion is an invitation to dive into the history of your email life in a platform that offers you the safety of knowing that you can always delete your data.
+The biggest themes from the conference I feel were around finding support structures and avenues through which to ask humanities and digital humanities questions. Delegates discussed the importance of faculty and student cooperating in the pursuit of research questions.
 
-Just like a cubist painting, Immersion presents users with a number of different perspectives of their email data.
+I was particularly by [Shaheera Pesnani](https://twitter.com/ShaheeraPesnani) insistence on the importance of design thinking centered courses, projects and planning. Many of the delegates expressed the sentiment that access to faculty mentorship and guidance in digital humanities work would move projects forward in incredible ways. There was also mention of departmental tables/ lunches to foster student-faculty conversation by [Arianna Montero-Colbert](https://twitter.com/ariannamc18). These are incredible people, and they are working on the most incredible projects! I want to examine each of their projects individually but find a short description of each of their projects below:
 
-It provides a tool for self-reflection at a time where the zeitgeist is one of self-promotion.
+[Women Against Violent Extremism (WAVE)](http://unrh.org/wave/)
+The American University of Nigeria–Zamiyat Abubakar, Ebiuwairo Uwagboe, & Fatimah Bashir
 
-It provides an artistic representation that exists only in the presence of the visitor.
+[Technology Enhanced Learning for All (TELA)](http://unrh.org/tela/)
+The American University of Nigeria–Oluwafunminitemi Oluwadare & Maryam Abdulkadir
 
-It helps explore privacy by showing users data that they have already shared with others.
+[Multi-stakeholder Input in Tackling Karachi’s Water Distribution Issues and the Use of GIS Mapping](http://unrh.org/karachi-water-system/)
+Habib University–Uzair Ibrahim & Farwa Hussain
 
-Finally, it presents users wanting to be more strategic with their professional interactions, with a map to plan more effectively who they connect with.
+[Space Network Analysis](http://unrh.org/space-network-analysis/)
+Habib University–Shaheera Pesnani & Fahad Ahmed Khan
 
-It's worth noting that this tool only works because of our tendency to archive everything. I've saved over 70,000 emails rather than deleting them.
+[Florence As It Was](http://unrh.org/florence-as-it-was/)
+Washington & Lee University–Colby Gilley & Katherine Dau
 
-What stood out to me was the patterns in my clustering. Significant others are easy to identify and it's quite easy to find some of my story sources -- which could potentially be interesting to a snooper -- as they were disconnected from the rest of my networks.
+[The Meadiaville Listening Project](http://unrh.org/meadiaville-listening-project/)
+Allegheny College–Chelsea Contino & Sophie Dodge
 
-If nothing else, the tool is a way to quantify who matters to you, and thanks to a sliding time scale, you can see as certain people rise and fall in importance to you; their bubbles swell or shrink or fade away. Even though it's just metadata, getting that perspective on my social network was almost as poignant as time traveling through old emails and conversations.
+[War Memories Intercultural Intergenerational Oral History Project](http://unrh.org/war-memories/)
+Kalamazoo College–Lisa Johnston & Min Soo Kim
 
-Once you log in, Immersion will use only the From, To, Cc and Timestamp fields of the emails in the account you are signing in with. It will not access the subject or the body content of any of your emails.
+[Early DC Criminal Court](http://unrh.org/early-dc-criminal-court/)
+Oberlin College–Shira Cohen, Julia Butterfield, & Siena Marcelle
 
-Upon logging out of Immersion, you will be presented with a choice to save or delete your data, which contains your compressed email metadata and user profile.
+[Sentiment Analysis of Online Book Club Literary Discussion](http://unrh.org/sentiment-analysis-online-bookclub/)
+The College of Wooster–Catherine Lockwood
 
-If you decide to save your email metadata with Immersion, that data will be stored in a secure system. You can always return to the site remotely and delete it at a later time, if you wish to do so.
+[Digital Tools for Police Accountability](http://unrh.org/digital-tools-police-accountability/)
+Occidental College–Xiomara Rodriguez
 
-If you take a snapshot of your Immersion network, the snapshot link will be accessible for 30 days, after which it will be deleted from our server.
+[Cinquecento 360](http://unrh.org/cinquecento-360/)
+Occidental College–Lilla Butterworth
 
-So Immersion is not about one thing. It’s about four. It’s about self-reflection, art, privacy and strategy. It’s about providing users with a number of different perspectives by leveraging on the fact that the web, and emails, are now an important part of our past.
+[Socially Responsible Gaming](http://unrh.org/socially-responsible-gaming/)
+Davidson College–Arianna Montero-Colbert
 
-Here are the creators:
-[Daniel Smilkov](https://www.linkedin.com/in/dsmilkov)
-[Deepak Jagdish](http://deepakjagdish.com/)
-[César Hidalgo](http://www.chidalgo.com/)
+[Sleeping With the Pedagogy](http://unrh.org/sleeping-with-the-pedagogy/)
+Davidson College–Ellie Rifkin & Meredith Foulke
+
+[The Man Who Wore Red](http://unrh.org/man-who-wore-red/)
+Hope College–Nia Stringfellow
+
+[Discovering Digital Humanities: Food Culture as a Case Study in the Visual and Representational](http://unrh.org/discovering-digital-humanities/)
+Denison University–Grace Martin
+
+The Refugee Show and Tell Project
+Dickinson College–Norma Jean Park, Alex Bossakov, Andrea Bisbjerg, & Julie Yao
+
+“You’ve Got the Wrong Bitch”: Empowered Queer Identity through the Contemporary Witches in Oz
+Lakehead University–McKenna Boeckner
+
+My Person
+Whittier College–Regina Loren Valencia
+
+Isabella Bird: New Perspectives on the American West
+Creighton University–Alisha Baginski

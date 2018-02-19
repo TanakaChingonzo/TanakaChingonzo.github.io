@@ -2,22 +2,22 @@
 
 <div class="cover-card table-cell table-middle">
   {% if author.avatar %}
-  <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">
+  <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar" style="text-align: -webkit-auto">
   {% endif %}
-  <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
-  <span class="author_job">{{ author.job }}</span>
-  <span class="author_bio mbm" style="text-align: justify">{{ author.bio }}</span>
+  <a href="{{ site.url }}/" class="author_name" style="text-align: -webkit-auto">{{ author.name }}</a>
+  <span class="author_job" style="text-align: -webkit-auto">{{ author.job }}</span>
+  <span class="author_bio mbm" style="text-align: -webkit-auto">{{ author.bio }}</span>
   <nav class="nav">
-    <ul class="nav-list">
+    <ul class="nav-list" style="text-align: -webkit-center">
       <li class="nav-item">
         <a href="{{ site.url }}/">home</a>
-        <span>/</span>
+        <span>|</span>
       </li>
       {% for page in site.pages %} {% if page.title %}
       <li class="nav-item">
         <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
         {% unless forloop.last %}
-          <span>/</span>
+          <span>|</span>
         {% endunless %}
       </li>
       {% endif %} {% endfor %}

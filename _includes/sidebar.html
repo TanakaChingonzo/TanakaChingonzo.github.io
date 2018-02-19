@@ -8,7 +8,7 @@
   <span class="author_job" style="text-align: -webkit-auto">{{ author.job }}</span>
   <span class="author_bio mbm" style="text-align: -webkit-auto">{{ author.bio }}</span>
   <nav class="nav">
-    <ul class="nav-list" style="text-align: -webkit-center">
+    <ul class="nav-list" style="text-align: -webkit-left">
       <li class="nav-item">
         <a href="{{ site.url }}/">home</a>
         <span>|</span>
@@ -21,8 +21,10 @@
         {% endunless %}
       </li>
       {% endif %} {% endfor %}
+      <li>
+      {% include social-links.html %}
+      </li>
     </ul>
   </nav>
-  {% include social-links.html %}
 
 </div>

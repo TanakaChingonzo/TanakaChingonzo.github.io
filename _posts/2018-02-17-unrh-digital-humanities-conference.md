@@ -9,10 +9,15 @@ categories: [digital humanities]
 pinned: true
 ---
 
-![](http://tanaka.co.zw/assets/images/posts/immersionemail.png)
+![Undergraduate Network for Research in the Humanities Conference at Hope College 2018](https://pbs.twimg.com/media/DWQOJa9XkAEpKMa.jpg:large)
+
 Undergraduate Network for Research in the Humanities is an organization working to address the lack of cross-institutional support for undergraduate research in the humanities.
 
-To reverse this culture, the Undergraduate Network for Research in the Humanities has become that collective of students from a wide array of colleges and universities whose mission is to promote, present, and encourage rigorous student research in the humanities, especially with an emphasis on digital humanities. UNRH provides both a physical space for student interactions in the form of an annual conference, and a virtual space on their website with a forum built for the exchange of ideas. The UNRH network has been steadily growing; in fact, since the first UNRH conference in November, 2015, the conference has accepted over 50 projects, involving over 80 undergraduates from 31 institutions all across the United States, Canada, Nigeria, and Pakistan.
+To reverse this culture, the Undergraduate Network for Research in the Humanities has become that collective of students from a wide array of colleges and universities whose mission is to promote, present, and encourage rigorous student research in the humanities, especially with an emphasis on digital humanities.
+
+UNRH provides both a physical space for student interactions in the form of an annual conference, and a virtual space on their website with a forum built for the exchange of ideas.
+
+The UNRH network has been steadily growing; in fact, since the first UNRH conference in November, 2015, the conference has accepted over 50 projects, involving over 80 undergraduates from 31 institutions all across the United States, Canada, Nigeria, and Pakistan.
 
 The 2018 conference was hosted by Hope College this past weekend on February 16th-18th in Holland, MI. I was privileged to attend with my professor [Jacob Heil](http://jacobheil.github.io/) who was the key note speaker at this year's conference.
 
@@ -67,14 +72,14 @@ Hope College–Nia Stringfellow
 [Discovering Digital Humanities: Food Culture as a Case Study in the Visual and Representational](http://unrh.org/discovering-digital-humanities/)
 Denison University–Grace Martin
 
-The Refugee Show and Tell Project
+[The Refugee Show and Tell Project](http://unrh.org/the-refugee-show-tell-project/)
 Dickinson College–Norma Jean Park, Alex Bossakov, Andrea Bisbjerg, & Julie Yao
 
-“You’ve Got the Wrong Bitch”: Empowered Queer Identity through the Contemporary Witches in Oz
+[“You’ve Got the Wrong Bitch”: Empowered Queer Identity through the Contemporary Witches in Oz](http://unrh.org/youve-got-the-wrong-bitch/)
 Lakehead University–McKenna Boeckner
 
-My Person
+[My Person](http://unrh.org/my-person/)
 Whittier College–Regina Loren Valencia
 
-Isabella Bird: New Perspectives on the American West
+[Isabella Bird: New Perspectives on the American West](http://unrh.org/isabella-bird/)
 Creighton University–Alisha Baginski

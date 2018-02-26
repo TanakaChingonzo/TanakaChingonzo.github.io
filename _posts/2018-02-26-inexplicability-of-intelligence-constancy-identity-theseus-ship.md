@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inexplicability of intelligence and the constancy of identity.
-excerpt: "You cannot explain your reasoning and the processes that drove you to the conclusions you hold. If you are constantly changing, then who are you? Conspicuous consumerism and inequality."
+excerpt: "You cannot explain your reasoning and the processes that drove you to the conclusions you hold. If you are constantly changing, then who are you? Conspicuous consumerism and inequality. Every society must inherently possess and perpetuate a certain amount of inequality."
 modified: 2018-02-16
 tags: [inequality, sociology]
 comments: true

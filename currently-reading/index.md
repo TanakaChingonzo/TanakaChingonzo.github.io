@@ -5,8 +5,9 @@ image: true
 lang: en
 ref: currently-reading
 ---
+| [Books]({{ site.url }}/currently-reading/#books)  | [Poems]({{ site.url }}/currently-reading/#poems)   | [Articles]({{ site.url }}/currently-reading/#articles) |
 
-# The books I have read since starting college that have touched my soul.
+<h2 class="hover-underline-animation" id="books">Books I have read that have touched my soul.</h2>
 
 These are the books that have touched my soul. Have you read any of them? Are there any that have touched yours that you think I should read?
 
@@ -27,19 +28,7 @@ These are the books that have touched my soul. Have you read any of them? Are th
 15. This Idea is Brilliant by John Brockman
 
 
-
-
-
-
-
-
-
-
-
-## Poems I have read and thought beautiful
-<br>
-<br>
-<br>
+<h2 class="hover-underline-animation" id="poems"> Poems I have read and thought beautiful </h2>
 
 Because I could not stop for Death,<br> He kindly stopped for me;<br>
 The carriage held but just ourselves<br>
@@ -80,3 +69,21 @@ Quietly they go, the intelligent, the witty, the brave.<br>
 I know. But I do not approve. And I am not resigned.<br>
 'Dirge Without Music',<br>
 -Edna St. Vincent Millay
+
+<h2 class="hover-underline-animation" id="articles"> Articles that have influenced me a lot. </h2>
+
+Speak Memory. By Casey Newton, appeared in The Verge.<br>
+When her best friend died, she rebuilt him using artificial intelligence.<br>
+[https://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot](https://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot)
+
+The Dark Secret at the Heart of AI. by Will Knight in The MIT Technology Review.<br>
+No one really knows how the most advanced algorithms do what they do. That could be a problem.<br>
+[https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
+
+The AI Revolution: The Road to Superintelligence, By Tim Urban for Wait But Why<br>
+We are on the edge of change comparable to the rise of human life on Earth. — Vernor Vinge<br>
+[https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+
+The Fermi Paradox By Tim Urban for Wait But Why<br>
+When confronted with the topic of stars and galaxies, a question that tantalizes most humans is, “Is there other intelligent life out there?” Let’s put some numbers to it.<br>
+[https://waitbutwhy.com/2014/05/fermi-paradox.html](https://waitbutwhy.com/2014/05/fermi-paradox.html)

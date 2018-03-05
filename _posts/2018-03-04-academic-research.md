@@ -38,9 +38,8 @@ The public -- which has indirectly funded this research with federal and state t
 
  In what kind of world is this right?
 
+## Sources:
+LAURA MCKENNA “Locked in the Ivory Tower: Why JSTOR Imprisons Academic Research” The Atlantic, 20 January 2012,
+[The Atlantic](https://www.theatlantic.com/business/archive/2012/01/locked-in-the-ivory-tower-why-jstor-imprisons-academic-research/251649/).
 
----
->LAURA MCKENNA “Locked in the Ivory Tower: Why JSTOR Imprisons Academic Research” The Atlantic, 20 January 2012,
-[https://www.theatlantic.com/business/archive/2012/01/locked-in-the-ivory-tower-why-jstor-imprisons-academic-research/251649/](https://www.theatlantic.com/business/archive/2012/01/locked-in-the-ivory-tower-why-jstor-imprisons-academic-research/251649/).
-
->ALEXIS C. MADRIGAL "Every Year, JSTOR Turns Away 150 Million Attempts to Read Journal Articles" The Atlantic, 13 January 2012, [https://www.theatlantic.com/technology/archive/2012/01/every-year-jstor-turns-away-150-million-attempts-to-read-journal-articles/251382/](https://www.theatlantic.com/technology/archive/2012/01/every-year-jstor-turns-away-150-million-attempts-to-read-journal-articles/251382/)
+ALEXIS C. MADRIGAL "Every Year, JSTOR Turns Away 150 Million Attempts to Read Journal Articles" The Atlantic, 13 January 2012, [The Atlantic](https://www.theatlantic.com/technology/archive/2012/01/every-year-jstor-turns-away-150-million-attempts-to-read-journal-articles/251382/)

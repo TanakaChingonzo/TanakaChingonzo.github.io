@@ -15,7 +15,7 @@ No one really knows how the most advanced algorithms do what they do. That could
 
 The chief problem with replicating biological intelligence and drawing inspiration for artificially intelligent system is that biologically intelligent systems operate in a black box environment.
 
-You cannot explain your reasoning and the processes that drove you to it.
+Similarly, you cannot explain your reasoning and the processes that drove you to it. Your brain operates in the same way, like a black box.
 
 In the [MIT Tech Review](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/):
 
@@ -27,6 +27,9 @@ We’ve never before built machines that operate in ways their creators don’t 
 
 ### Identity and persistence across time.
 
+#### 1. Can you step into the same river twice?
+
+#### 2. If you are constantly changing, between one moment and the next, are you the same person?
 
 Heraclitus’s “**river fragments**” raise puzzles about identity and persistence: under what conditions does an object persist through time as one and the same object? If the world contains things which endure, and retain their identity in spite of undergoing alteration, then somehow those things must persist through changes. Heraclitus wonders whether one can step into the same river twice precisely because it continually undergoes changes. In particular, it changes compositionally. At any given time, it is made up of different component parts from the ones it was previously made up of. So, according to one interpretation, Heraclitus concludes that we do not have (numerically) the same river persisting from one moment to the next.
 
@@ -37,6 +40,7 @@ The ship wherein Theseus and the youth of Athens returned had thirty oars, and w
 Was it?
 
 ---
+### Is wealth immoral?
 
 In The New York Times, **On wealth and the meaning of the American dream this decade:**<br>
 Nonetheless, their ambivalence about recognizing privilege suggests a deep tension at the heart of the idea of American dream. While pursuing wealth is unequivocally desirable, having wealth is not simple and straightforward. Our ideas about egalitarianism make even the beneficiaries of inequality uncomfortable with it. And it is hard to know what they, as individuals, can do to change things.

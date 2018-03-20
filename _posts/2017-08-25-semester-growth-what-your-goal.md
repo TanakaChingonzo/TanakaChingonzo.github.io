@@ -4,11 +4,11 @@ lang: en
 ref: this-semester-i-want-to-go-grow-biggest-goal
 title: This semester I want to grow. What is your biggest goal?
 image: true
-medium: 'mystudentvoices.com/tanakachingonzo-this-semester-i-want-to-grow-what-is-your-goal-bc28679a8d60'
 excerpt: "When I was a child, I talked like a child, I thought like a child, I reasoned like a child. But when I grew up, I put away childish things."
 categories: [future]
 comments: true
 tags: [poetry, future]
+published: false
 ---
 
 # Class of 2021, the future begins now, and it is ours.

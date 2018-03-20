@@ -9,6 +9,7 @@ excerpt: "In the heat of the summer sun in Zimbabwe, ice cream is a delightful t
 categories: [reflections]
 comments: true
 ref: purpose-what-keeps-you-up-at-night
+published: false
 ---
 
 ![You're buying that ice cream with time](https://cdn-images-1.medium.com/max/1000/1*AatwFFM-GZ0lxF2tM8YJAw.jpeg)

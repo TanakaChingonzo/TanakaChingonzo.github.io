@@ -7,6 +7,7 @@ tags: [journal]
 comments: true
 categories: [journal]
 pinned: true
+published: false
 ---
 #### Journal Entry. Sunday, 11 February.
 

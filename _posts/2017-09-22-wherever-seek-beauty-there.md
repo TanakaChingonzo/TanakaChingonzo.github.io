@@ -9,6 +9,7 @@ excerpt: "Find it in yourself and in everyone else. Take it into your heart, and
 categories: [poetry]
 comments: true
 tags: [poetry]
+published: false
 ---
 
 ## Wherever you are, seek beauty there.<br>

@@ -4,6 +4,7 @@ title: Comment policy
 image: true
 lang: en
 ref: comment-policy
+comments: true
 ---
 
 <h2 class="hover-underline-animation" id="books">Rules of Engagement for you dear readers</h2>

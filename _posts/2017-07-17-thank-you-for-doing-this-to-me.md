@@ -9,6 +9,7 @@ excerpt: "Thank you for teaching me how to speak. And then asking me to be silen
 categories: [poetry]
 comments: true
 tags: [poetry, feminism]
+published: false
 ---
 
 ### 1. This is what you did to me. Thank you.

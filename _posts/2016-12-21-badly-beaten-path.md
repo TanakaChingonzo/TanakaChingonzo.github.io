@@ -8,6 +8,7 @@ excerpt: "I used to wonder what lay down that other road. What skyscrapers or fo
 categories: [poetry]
 comments: true
 tags: [poetry]
+published: false
 ---
 ![I watched you go down that path so badly beaten](https://cdn-images-1.medium.com/max/2000/1*bMzl4JC7EsN0uHAjSobm9Q.jpeg)
 

@@ -8,6 +8,7 @@ excerpt: "In my head, perhaps in a dream- a half forgotten dream- I have written
 categories: [poetry]
 comments: true
 tags: [poetry]
+published: false
 ---
 ![A half remembered dream](https://cdn-images-1.medium.com/max/1000/1*yzLKhC_fQRcvfhRitsxQoA.jpeg)
 

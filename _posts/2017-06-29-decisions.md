@@ -9,6 +9,7 @@ excerpt: "We aren’t sure of ourselves anymore. Our generation pushes its decis
 categories: [abstract]
 comments: true
 tags: [abstract]
+published: false
 ---
 
 We aren’t sure of ourselves anymore. Our generation pushes its decisions forward. Too often. We procrastinate, telling ourselves we need more information to make the decision. “I’ll do it later” we say, assuring ourselves we need to learn some more when in essence we are really just abstaining from making a choice. The problem with that is, indecision is a decision and the even bigger problem is that it’s a decision in which we give away the little control we have and leave everything to chance. Which is almost always to our detriment. Fun fact: “I won’t participate in this decision,” means I could make this better. But I won’t.

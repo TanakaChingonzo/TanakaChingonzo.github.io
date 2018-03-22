@@ -87,3 +87,7 @@ We are on the edge of change comparable to the rise of human life on Earth. — 
 The Fermi Paradox By Tim Urban for Wait But Why<br>
 When confronted with the topic of stars and galaxies, a question that tantalizes most humans is, “Is there other intelligent life out there?” Let’s put some numbers to it.<br>
 [https://waitbutwhy.com/2014/05/fermi-paradox.html](https://waitbutwhy.com/2014/05/fermi-paradox.html)
+
+
+Yet this fight to remain silent will not be enough: The smart city is more than just a city that watches and listens. City dwellers are constantly generating data about themselves, down to the vibrations of their footsteps.- GEOFF MANAUGH <br>
+[https://www.theatlantic.com/technology/archive/2018/02/james-joyce-as-police-operation/553817/](https://www.theatlantic.com/technology/archive/2018/02/james-joyce-as-police-operation/553817/)

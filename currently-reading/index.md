@@ -91,3 +91,6 @@ When confronted with the topic of stars and galaxies, a question that tantalizes
 
 Yet this fight to remain silent will not be enough: The smart city is more than just a city that watches and listens. City dwellers are constantly generating data about themselves, down to the vibrations of their footsteps.- GEOFF MANAUGH  <br>
 [https://www.theatlantic.com/technology/archive/2018/02/james-joyce-as-police-operation/553817/](https://www.theatlantic.com/technology/archive/2018/02/james-joyce-as-police-operation/553817/)
+
+Paul Ehrlich: 'Collapse of civilisation is a near certainty within decades'<b>
+[https://www.theguardian.com/cities/2018/mar/22/collapse-civilisation-near-certain-decades-population-bomb-paul-ehrlich](https://www.theguardian.com/cities/2018/mar/22/collapse-civilisation-near-certain-decades-population-bomb-paul-ehrlich)

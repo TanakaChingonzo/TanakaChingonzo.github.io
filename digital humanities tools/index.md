@@ -3,7 +3,7 @@ layout: page
 title: Digital Humanities Tools
 image: true
 lang: en
-ref: data-visualization-digital-humanities-tools
+ref: data-humanities-tools
 comments: true
 ---
  <h3 class="hover-underline-animation" id="books">Tools for digital humanists </h3>
@@ -13,7 +13,7 @@ Online or downloadable tools that are free, free to students, or have generous t
 
 1. [Prism](http://prism.scholarslab.org/)
 
-![](/_images/posts/prism-the-raven.png)
+![](/assets/images/posts/prism-the-raven.png)
 
 [Github repository](https://github.com/scholarslab/prism)
 

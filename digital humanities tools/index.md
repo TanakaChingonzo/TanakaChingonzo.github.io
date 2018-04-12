@@ -7,7 +7,7 @@ ref: data-visualization-digital-humanities-tools
 comments: true
 ---
 
-<h3 class="hover-underline-animation" id="books">Tools for digital humanists </h2>
+<h3 class="hover-underline-animation" id="books">Tools for digital humanists </h3>
 
 Digital Humanities Resources for Project Building  — DH Tools
 Online or downloadable tools that are free, free to students, or have generous trial periods without tight usage constraints, watermarks, or other spoilers.  Bias toward tools that can be run online or installed on a personal computer without needing an institutional server.

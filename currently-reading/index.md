@@ -9,7 +9,7 @@ ref: currently-reading
 
 <h2 class="hover-underline-animation" id="books">Books I have read that have touched my soul.</h2>
 
-<h3>Right now, I am re-reading <span class="hover-underline-animation" id="books"> When Breath Becomes Air by Paul Kalanithi</span></h3>
+<h4>Right now, I am re-reading <span class="hover-underline-animation" id="books"> When Breath Becomes Air by Paul Kalanithi</span></h4>
 
 These are the books that have touched my soul. Have you read any of them? Are there any that have touched yours that you think I should read?
 

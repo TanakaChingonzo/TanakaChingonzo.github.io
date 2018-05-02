@@ -1,8 +1,8 @@
 ---
 layout: post
-title: LDA topic modelling- a mathematical probability statistics problem that demonstrates the interdisciplinary nature of computer science work.
-excerpt: "LDA topic modelling process uses probability statistics to divide a corpus into groups of words to determine what the topics/ themes of the constituent words of the corpus are. The system works by doing this continuously, over and over again, choosing a word, and then comparing it to all the words in each category, and determining which category the word best fits into. After enough iterations, all the words are grouped in the correct themes and they no longer need to be moved from one category to another."
-modified: 2018-04-11
+title: Interviewing for Microsoft's Explore Internship program as a Freshman
+excerpt: "I had the privilege of spending three days with Microsoft interviewing as a candidate for their Explorer program. The Microsoft Explorer program is a 12-week paid summer internship where interns can explore software engineering at Microsoft in their freshman or sophomore years. Groups of two to three interns are assigned a team and an impactful summer project."
+modified: 2018-04-30
 tags: [software-engineering, data]
 comments: true
 categories: [internship interview]
@@ -10,7 +10,7 @@ pinned: true
 ---
 ![David Mimno LDA topic modelling](/assets/images/posts/microsoft-picture.jpg)
 
-Last week, I had the privilege of spending three days with Microsoft interviewing as a candidate for their Explorer program. The Microsoft Explorer program is a 12-week paid summer internship where interns can explore software engineering at Microsoft in their freshman or sophomore years. Groups of two to three interns are assigned a team and an impactful summer project.
+Last fall, I had the privilege of spending three days with Microsoft interviewing as a candidate for their Explorer program. The Microsoft Explorer program is a 12-week paid summer internship where interns can explore software engineering at Microsoft in their freshman or sophomore years. Groups of two to three interns are assigned a team and an impactful summer project.
 
 I was initially invited to a phone interview which was mostly behavioral questions. The interview went well and it took the form of a conversation more than a formal 20-questions type of interview. I really enjoyed this. A few days after this, I received an email from my recruiter saying I was moving on to the final round of interviews. I did not see this email because it was being automatically routed to my spam folder in my inbox. It was not until roughly two weeks before my interview that I found out I had been accepted to the next round of in-person interviews in Seatle. The interviewing process was a little vague because it wasn’t supposed to be 100% technical nor 100% behavioral. The intent of this article is to aid future Explorer candidates in better understanding what the on-site interviews are like and, most importantly, how to prepare for them.
 
@@ -22,32 +22,14 @@ Recruiters mentioned that Microsoft asked questions that tried to decipher the t
 Interview 1
 My first interviewer was a software engineer on Azure. He began by going down my resume, asking me probing questions about my projects and previous summer internship. Because I had worked on creating an internal RESTful API at Sizzle, he asked me about the functionality surrounding HTTP methods like GET, POST, and PUT and the differences between POST and PUT.
 
-In one personal project, I had used MongoDB and Redis, two popular databases. He asked me about the differences between the two, cases where someone would use one over the other, and the tradeoffs between SQL and NoSQL.
 
-Continuing with this thread, he asked me an intriguing Redis question. If a cache write to Redis failed but a user requested said data, the back-end would look in the cache first. However, the key would not be there and the user would ultimately receive stale data. So, how would Redis handle these cases? At the time, I thought it might have something to do with timestamps, which was along the right track.
-
-We eventually got to the main interview question, which was to implement Cron, the UNIX time-based job scheduler. I started with a mediocre solution but got closer to the optimal solution after discussing the problem with the interviewer.
-
-I was pleasantly surprised by the caliber of these questions. It was nothing like I had seen on Glassdoor – I thought I was being interviewed for a regular software engineering intern position.
-
-Interview 2
-For the second interview, I spoke with a software engineer on the Azure Automation team. We briefly went over my resume and my interviewer asked me some questions regarding the web crawling process used in UT Courses. On the whiteboard, he wanted me to explain at a high-level the algorithm of how my web crawler would traverse target websites.
-
-Next, he asked me an interesting array question. We are given an array nums of unsorted integers. Given some arbitrary index i, if nums[i] > 0, then you can move forward nums[i] spaces. If nums[i] < 0, then you can move backwards nums[i] spaces. Determine if there is a loop between two arbitrary indices i and j in nums. If you’re interested, this is the Circular Array Loop question on Leetcode.
-
-Interview 3
-The third interview went the best. The interviewer was a software engineering manager on the Azure Log Analytics/Security team, so he was doing a lot of fascinating work which he told me about when the interview was over.
-
-The first question he asked me was interesting because it required me to solve a real-world problem using data structures. He asked me to implement an API that developers could use when tracking browser history. There were many different data structures one could use to solve this problem – such as stacks or linked lists – so this left room to discuss the pros and cons of each one. I had to define an interface, come up with tests, discover edge cases, and optimize the solution.
-
-The second question was a basic string parsing problem. Given a string, print out all patterns of A’s and B’s. For example, the string AaheaabelloaaabB contains the patterns Aa, aa, b, aaa, and bB.
 
 Post-Interviews
 Because each interview was 100% technical and I wasn’t given a single behavioral or product design question, I was upset with how the interviews went. Every single question I was asked was something I had never encountered in my preparation.
 
 In retrospect, this was an important lesson to learn because interviewers will try to ask questions that is outside the scope of what a candidate has prepared for. It is a very useful skill to fully understand a problem, come up with various solutions, and optimize them when requirements change.
 
-After the interviews, we were given a free Microsoft jacket and $55 to explore Seattle! I had a couple of friends studying at the University of Washington, so I went to visit them. We enjoyed a meal at Little Thai on Microsoft’s expenses.
+After the interviews, we were given a free Microsoft hoodie and $55 to explore Seattle! I had a couple of friends studying at the University of Washington, so I went to visit them. We enjoyed a meal at Little Thai on Microsoft’s expenses.
 
 Ultimately, the experience was phenomenal. It was my first time being flown out to an on-site interview, staying at an extravagant hotel with all expenses paid, and speaking with candidates all over the nation.
 

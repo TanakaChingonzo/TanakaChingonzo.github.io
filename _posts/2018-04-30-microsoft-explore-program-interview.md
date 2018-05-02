@@ -7,6 +7,7 @@ tags: [software-engineering, data]
 comments: true
 categories: [internship interview]
 pinned: true
+published: false
 ---
 ![David Mimno LDA topic modelling](/assets/images/posts/microsoft-picture.jpg)
 
@@ -36,7 +37,7 @@ Ultimately, the experience was phenomenal. It was my first time being flown out 
 Decision Day
 It took exactly a week for a recruiter to get back to me with a decision. I was getting very nervous because other candidates had already heard back with their decisions by the time I received mine.
 
-Fortunately, I received an offer! I was ecstatic and shouted a couple of times in my room before settling down. Based on my preferences and interview performance, I was placed on the Azure Stack team in the Cloud Enterprise and Management group. This was exactly where I wanted to work. I had worked with AWS at my previous internship, so I wanted to get experience with Azure.
+Unfortunately, I did not receive an offer! I was ecstatic and shouted a couple of times in my room before settling down. Based on my preferences and interview performance, I was placed on the Azure Stack team in the Cloud Enterprise and Management group. This was exactly where I wanted to work. I had worked with AWS at my previous internship, so I wanted to get experience with Azure.
 
 Concluding Remarks
 I hope this article shed some light on what the Microsoft interview process is like and what to expect. Generally speaking, interviewers ask questions that are tailored to each candidates’ experiences and resume. It should not have come as a surprise that I didn’t get standard string or array reversal questions. Don’t be discouraged if some of my questions seemed difficult – there’s a high chance yours might be different.

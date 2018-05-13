@@ -19,11 +19,6 @@ I decided to use Palladio to manipulate this dataset and to overlay this data on
 
 I found that Google fusion tables intuitively used the address label to map the incidents to physical address locations within google maps. A photograph of such visualizations from within fusion tables is below.
 
-This shows the information that each incident had attached to it in the information bubble.
-
-
-![](https://raw.githubusercontent.com/tanakachingonzo/gun-violence-ohio-2013-2018/master/ohio-tagged.png)
-
 This shows the frequency distribution visualization in Cleveland specifically.
 
 ![](https://raw.githubusercontent.com/tanakachingonzo/gun-violence-ohio-2013-2018/master/cleveland.png)

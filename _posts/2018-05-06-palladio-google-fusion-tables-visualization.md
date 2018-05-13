@@ -9,6 +9,7 @@ categories: [information]
 pinned: true
 ---
 ### Project for Intro to Digital Humanities Class: Gun Violence in Ohio 2013 - 2018 Analysis with Palladio and Google Fusion Tables
+![Project for Intro to Digital Humanities Class: Gun Violence in Ohio 2013 - 2018 Analysis with Palladio and Google Fusion Tables](https://raw.githubusercontent.com/tanakachingonzo/gun-violence-ohio-2013-2018/master/ohio-tagged.png)
 
 Initially, I began working on this project trying to answert the humanistic question of what social media, specifically tweets and conversation on twitter could tell me about the "mood" or sentiment about particular topics based on keywords. In doing this, I tried to use the toolset of a single file python script which used the tweepy library to scrape twitter for data around tweets which included my keyword of choice. In installing the different libraries required for the script to compile on my linux machine, I found that the script had been written in Python 2.7, but the current versions of the library were in 3.5. There was no backwards compatibility between the library and the script, and the task of modifying the script to make it compatible with the version of tweepy available proved too ardous. 
 

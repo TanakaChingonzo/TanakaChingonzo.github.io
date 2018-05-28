@@ -1,67 +1,23 @@
-#
-###################################
-# Site wide configuration
-####################################
-#
-title: Tanaka Chingonzo
-email: tchingonzo21@wooster.edu
-description: Tanaka Chingonzo is a global shaper with the World Economic Forum, and a student from Zimbabwe. He is a software engineer and student in Ohio. Computer Science and Sociology Double Major | Digital Humanities Student | Making Connections between people and data
-url: http://tanaka.co.zw # the base hostname & protocol for your site
-keywords: ["Programming", "Python", "C", "Entrepreneur"]
+# main text of home
+name: Tanaka Chingonzo
+bio: Making Connections between people and data
 
-#
-###################################
-# Jekyll configuration
-####################################
-#
-timezone:          Europe/Paris
-markdown:          kramdown
-highlighter:       rouge
-excerpt_separator: <!--read more-->
-permalink:         /:title
+# twitter summary info
+description: Digital Humanities Student writing about Computer Science and the Humanities
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+picture: assets/images/picture.jpg
 
-#
-###################################
-# Site Owner configuration
-####################################
-#
-owner:
-  name: Tanaka Chingonzo
-  avatar: tanaka-chingonzo.png
-  job: "Python & C programmer. Web Developer."
-  bio: "Tanaka Chingonzo is a global shaper with the World Economic Forum, and a student from Zimbabwe. He is a software engineer and student in Ohio. Computer Science and Sociology Double Major | Digital Humanities Student | Making Connections between people and data"
-  email: tchingonzo21@wooster.edu
-  disqus-shortname: tanakachingonzo
-  twitter: tanakachingonzo #username
-  facebook: tanakachingonzo #username
-  google:
-    plus: +tanakagregchingonzohme #username
-    analytics: UA-83940835-1
-    verify: <meta name="google-site-verification" content="n9cECzXDz-nT9u9E2Rx0tTilceSX692q1wJAIBAdogY" />
-    ad-client:
-    ad-slot:
-  bing-verify: <meta name="msvalidate.01" content="DF6EFA3DFDBFF0D4F3AAD9B490C1D9A2" />
-  github: tanakachingonzo #username
-  stackoverflow: 6148490/tanaka-chingonzo   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: tanakachingonzo #username
-  xing: #username
-  instagram: tanakachingonzo #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: tanakachingonzo #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: UCT5v02qriBiFiUt3hD5s0xw #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-  telegram: #username
+url: http://tanaka.co.zw/violet
+# your url: http://USERNAME.github.io
+
+# if you don't have any of social below, comment the line
+facebook: tanakachingonzo
+twitter: tanakachingonzo
+github: tanakachingonzo
+email: tchingonzo21(at)wooster.edu
+linkedin: tanakachingonzo
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]

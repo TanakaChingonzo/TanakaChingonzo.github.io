@@ -1,13 +1,13 @@
 ---
-layout: page
-title: Reading</br>
+layout: default
+title: Reading
 image: true
 lang: en
 ref: currently-reading
 ---
 
-<h2 class="hover-underline-animation" id="books">Books I have read that have touched my soul.</h2>
-<h4>Right now, I am re-reading <span class="hover-underline-animation" id="books"> When Breath Becomes Air by Paul Kalanithi</span></h4>
+<h3>Books I have read that have touched my soul.</h3>
+Right now, I am re-reading When Breath Becomes Air by Paul Kalanithi
 
 These are the books that have touched my soul. Have you read any of them? Are there any that have touched yours that you think I should read?
 
@@ -28,7 +28,7 @@ These are the books that have touched my soul. Have you read any of them? Are th
 15. This Idea is Brilliant by John Brockman
 16. Complications by Atul Gawande
 
-<h2 class="hover-underline-animation" id="articles"> Articles that have influenced me a lot. </h2>
+<h3> Articles that have influenced me a lot. </h3>
 
 Speak Memory. By Casey Newton, appeared in The Verge.<br>
 When her best friend died, she rebuilt him using artificial intelligence.<br>

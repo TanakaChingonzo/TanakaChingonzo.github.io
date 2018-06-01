@@ -15,10 +15,7 @@ picture: assets/images/picture.jpg
 # if you don't have any of social below, comment the line
 facebook: tanakachingonzo
 
-twitter:
-  username: tanakachingonzo
-  card: summary
-
+twitter: tanakachingonzo
 github: tanakachingonzo
 email: tchingonzo21(at)wooster.edu
 linkedin: tanakachingonzo
@@ -28,6 +25,7 @@ webmaster_verifications:
   bing: B9D9DC6DCEBA8821431AA3336C5A1512
 
 plugins:
-  - jekyll-seo-tag
+  - jekyll-seo-tag 
+  - jekyll-sitemap
 
 exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]

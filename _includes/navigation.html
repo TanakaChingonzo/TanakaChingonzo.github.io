@@ -1,0 +1,37 @@
+<nav class="main-nav">
+        <a href="http://tanaka.co.zw/"> <span class="arrow">←</span> Home </a>
+        <a href="tanaka.co.zw/blog">Blog </a>
+        <a href="http://tanaka.co.zw/resume">Resume</a>
+        <a href="https://github.com/tanakachingonzo">GitHub</a>
+        <a class="cta" href="{{ "/" | relative_url  }}feed.xml">Subscribe</a>
+</nav>
+
+<style>
+        nav.main-nav {
+        padding: 10px 10px 10px 10px;
+        
+	/*max-width: 600px;*/
+	/*width:100%;*/
+	background:#66339900;
+	margin: 0 auto;
+	text-align: right;
+	/*position: fixed;*/
+	z-index: 100;
+}
+
+nav.main-nav a {
+	top: 8px;
+	right: 6px;
+	padding: 8px 12px;
+	font-size: 13px;
+	/*font-weight: bold;*/
+	line-height: 1.35;
+	border-radius: 3px;
+
+}
+nav.main-nav a.cta {
+        background: black;
+	color: #fff;
+	margin-left: 12px;
+}
+</style>

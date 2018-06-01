@@ -23,7 +23,7 @@ Inspiration</strong>: <a href="http://cyberglot.me">Ju Gonçalves</a>
 </p>
 
 <p align="center">
-    <img src="" />
+    <img src="https://raw.githubusercontent.com/tanakachingonzo/tanakachingonzo.github.io/master/assets/images/design.png" />
 </p>
 
 ## What is inside?

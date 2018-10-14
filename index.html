@@ -1,68 +1,79 @@
----
-layout: default
-title: Home
----
-<header>
-  <img alt="{{ site.name }} picture" src="{{ site.picture }}" />
+<!DOCTYPE html>
+<html>
 
-  <h1>
-    <strong><a href="./">{{ site.name }}</a></strong>
-  </h1>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Tanaka Chingonzo's Website"/>
+    <meta name="author" content="Tanaka Chingonzo"/>
 
-  <p>
-    Computer Science and Sociology Double Major</br>
-    College of Wooster class of 2021</br>
-  </p>
-  <nav>
-    <ul>
-      <li><a href="https://github.com/{{ site.github }}">github</a></li>
-      <li><a href="{{ site.baseurl }}/resume">resume</a></li>
-      <li><a href="https://linkedin.com/in/{{ site.linkedin }}">linkedin</a></li>
-      <li><a href="https://twitter.com/{{ site.twitter }}">twitter</a></li>
-      <li><a href="mailto:{{ site.email }}">email</a></li>
-    </ul>
-  </nav>
+    <title>Tanaka Chingonzo</title>
 
-  <small>
-    <a href="{{ site.url }}/blog">Tanaka Chingonzo</a>'s blog powered by <a href="https://jekyllrb.com/"> jekyll</a>
-  </small>
-</header>
+    <!-- CSS -->
+    <link href="main.css" rel="stylesheet" media="all">
 
-<!--subscriber form-->
-<script src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-mailmunch-site-id="507302" async="async"></script>
+    <!-- FontAwesome -->
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <!-- Favicon -->
+    <link href="assets/logo.png" rel="icon">
+</head>
 
-<section class="content">
-  <p>
-    Digital Humanities Student and Software Engineer. Digital Humanities Making Connections between people and data.
-  </p>
-  <p>
-    Creator of <a href="http://site.url/apply_africa/">Apply Africa</a>. Global shaper with the Cleveland Hub.
-  </p>
+<body>
+	<section class="root fade-in">
+    <!-- <img src="assets/icon_resized.png" class="main-icon invert"></img> -->
+    <div class="content">
+      <span class="summary-text">Hi, I'm Tanaka and this is what I do:<br><br>
+      - Steering Commitee<u><a target="_blank" href="http://unrh.org/"> Undergraduate Network for Research in the Humanities</a></u> organizing URNH 2019.<br>
+      - Creator of Apply Africa. Global shaper with the Cleveland Hub.<br>
+      - Computer science student at <u><a target="_blank" href="http://www.wooster.edu/">The College of Wooster</a></u>.<br>
+      - Digital Humanities Student and Software Engineer. Digital Humanities Making Connections between people and data.<br>
+      </span>
 
-  <p>
-    Steering Commitee <a href="https://unrh.org/"> Undergraduate Network for Research in the Humanities.</a>.
-  </p>
+      <span class="summary-text"> <strong>Study Interests</strong><br>
+         - Twitter bots, web scraping and text analysis in Python <br>
+         - Dabbling in Python libraries and linux shell scripts in C-lang<br>
+         - Front end web development and design with Jekyll and Hakyll.<br>
+         - Data visualization in using D3.js and charts.js in JavaScript<br>
+         - Front end web development and design in HTML, CSS<br>
+         - Digital Humanities text mining and sentiment analysis and LDA Topic Modelling using Stanford's Palladio and Python <br>
+         - Github pages, Omeka and Wordpress for blog design.<br>
+       </span>
 
-  <p>
-    Member of <a href="http://sga.spaces.wooster.edu/"> Student Government Senate at the College of Wooster</a>.
-  </p>
+         <span class="summary-text"> <strong>Projects</strong> <br>
+           - <u><a href="https://github.com/tanakachingonzo/apply_africa">Apply Africa</a></u> website.<br>
+           - <u><a href="https://github.com/tanakachingonzo/apply-africa-twitter-bot">Apply Africa</a></u> twitter bot.<br>
+           - <u><a href="https://github.com/tanakachingonzo/EarlyBird">Twitter Early Bird 2018</a></u> Twitter Hashtag analyser and ranker.<br>
+           - <u><a href="https://github.com/tanakachingonzo/gun-violence-ohio-2013-2018">US Gun violence Data Visualization 2003-2018</a></u> using Stanford's Palladio tool and Google Fusion tables.<br>
+         </span>
 
-  <p>
-    <strong>Study Interests</strong></br>
-    - Twitter bots, web scraping and text analysis in Python</br>
-    - Dabbling in Python libraries and linux shell scripts in C-lang</br>
-    - Front end web development and design with Jekyll and Hakyll.<br>
-    - Data visualization in using D3.js and charts.js in JavaScript</br>
-    - Front end web development and design in HTML, CSS</br>
-    - Digital Humanities text mining and sentiment analysis and LDA Topic Modelling using Stanford's Palladio and Python </br>
-    - Github pages, Omeka and Wordpress for blog design.</br>
-  </p>
+         <span class="summary-text contact-icons">
+             <a target="_blank" href="http://www.facebook.com/tanaka.ching">
+                 <img class="contact-icon" src="icons/facebook-icon.png"></img>
+             </a>
+             <a target="_blank" href="mailto:tchingonzo21@wooster.edu">
+                 <img class="contact-icon" src="icons/email-icon.png"></img>
+             </a>
+             <a target="_blank" href="http://www.linkedin.com/in/tanakachingonzo">
+                 <img class="contact-icon" src="icons/linkedin-icon.png"></img>
+             </a>
+             <a target="_blank" href="assets/Tanaka%20Chingonzo%20Resume.pdf">
+                 <img class="contact-icon" src="icons/cv-icon.png"></img>
+             </a>
+             <a target="_blank" href="http://tanaka.co.zw/blog/">Blog</a>
+         </span>
 
-  <p>
-        <strong>Projects</strong></br>
-        - <a href="https://github.com/tanakachingonzo/apply_africa">Apply Africa</a> website.<br>
-        - <a href="https://github.com/tanakachingonzo/apply-africa-twitter-bot">Apply Africa</a> twitter bot.<br>
-        - <a href="https://github.com/tanakachingonzo/EarlyBird">Twitter Early Bird 2018</a> Twitter Hashtag analyser and ranker.<br>
-        - <a href="https://github.com/tanakachingonzo/gun-violence-ohio-2013-2018">US Gun violence Data Visualization 2003-2018</a> using Stanford's Palladio tool and Google Fusion tables.<br>
-      </p>
-</section>
+         <span class="summary-text" id="year">Last updated October 2018</span>
+
+    </div>
+
+    <!-- <span class="accent-text hometown">Wooster, oh from Harare, Zw</span> -->
+    <!-- <span class="accent-text year" id="year"></span> -->
+
+  </section>
+  <!-- <script>
+    document.getElementById("year").innerHTML = '© ' + new Date().getFullYear();
+  </script> -->
+</body>
+
+</html>

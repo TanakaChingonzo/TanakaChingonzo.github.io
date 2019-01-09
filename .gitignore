@@ -1,4 +1,4 @@
+_drafts/
+_site/
 .DS_Store
-_site
-.sass-cache
-.npm-debug.log
+*.swp

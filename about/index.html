@@ -1,0 +1,35 @@
+---
+layout: default
+title: Tanaka Chingonzo
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Highlighted Profiles</h1>
+  <ul class="posts">
+    <li><span>02 Aug 2018</span> &raquo; <a href="https://www.wooster.edu/students/diversity/iss/get-involved/ambassador/tchingonzo/" target="_blank">Profile: The College of Wooster Ambassador Program</a></li>
+    <li><span>07 May 2015</span> &raquo; <a href="https://watson.is/portfolio/tanaka-chingonzo/" target="_blank">Profile: Watson Institute</a></li>
+  </ul>
+
+  <h1>Publications, Talks, Etc</h1>
+  <ul class="posts">
+    <li><span>12 Sep 2013</span> &raquo; <a href="https://www.youtube.com/watch?v=NBoKak2I45U" target="_blank">Video: First Semester of College</a></li>
+    <li><span>02 Sep 2013</span> &raquo; <a href="https://www.africanexponent.com/bpost/4663-upheaval-of-traditional-structures-cultures-empowerment-progression-up-the-value-chain" target="_blank">Article: Globalization: Has it Been a Blessing or a Curse in Your Community?</a></li>
+  </ul>
+
+  <h1>Noteworthy Open Source Projects and Specifications</h1>
+  <ul class="posts">
+    <li><a href="https://github.com/tanakachingonzo/physics_sophomore_research" target="_blank">BZ-Timeline:</a> A web-based timeline of the history of the Belousov-Zhabotinsky reaction.</li>
+    <li><a href="https://github.com/tanakachingonzo/apply_africa" target="_blank">Apply Africa website:</a> A website that shows opportunities for young people.</li>
+    <li><a href="https://github.com/tanakachingonzo/apply-africa-twitter-bot" target="_blank">Twitter bot:</a> posts scholarships, internships, and conferences through the <a href="https://twitter.com/applyafrica" target="_blank">@applyafrica</a> handle.</li>
+    <li><a href="https://github.com/tanakachingonzo/EarlyBird" target="_blank">Twitter Hashtag prototype:</a> Demo page built with a team for Twitter's #TakeFlightChallenge.</li>
+    <li><a href="https://github.com/tanakachingonzo/gun-violence-ohio-2013-2018" target="_blank">Gun Violence Visualization:</a> analysis of gun violence in Ohio with geodata and statistics and news sources, fatalities and injuries.</li>
+
+  </ul>
+</div>

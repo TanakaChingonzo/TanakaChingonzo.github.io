@@ -1,74 +1,21 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }}</title>
-   <meta name="author" content="Tanaka Chingonzo" />
-   <!-- <link href="http://feeds.feedburner.com/tom-preston-werner" rel="alternate" title="Tanaka Chingonzo" type="application/atom+xml" /> -->
-   <meta name="readability-verification" content="QCzSs992GxmRYRKVpPeZ6LE2tS8aYKxsSSQKV8YM"/>
+<html lang="en">
 
-   <!-- syntax highlighting CSS -->
-   <link rel="stylesheet" type="text/css" href="/css/syntax.css">
+{% include head.html %}
 
-
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection">
-
-   
-
-   <!-- Typekit -->
-   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
-   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-</head>
 <body>
 
-<div class="site">
-  <div class="title">
-    <a href="/">Tanaka Chingonzo</a>
-    <a class="extra" href="/">home</a>
-    <a href="/resume/resume.html">resume</a>
-  </div>
+  {% if site.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+  {% include loader.html %}
+  {% include header.html %}
 
-  {{ content }}
+      {{ content }}
 
-  <div class="footer">
-    <div class="contact">
-      <p>
-        Tanaka Chingonzo
-        <br />
-        Steering Committee of
-          <a href="https://unrh.org/">UNRH</a>,
-          <!-- <a href="https://github.com/">GitHub</a> -->
-        <br />
-        tanaching@gmail.com
-      </p>
-    </div>
-    <div class="contact">
-      <p>
-        <a href="http://github.com/mojombo/">github.com/tanakachingonzo</a><br />
-        <a href="http://linkedin.com/in/tanakachingonzo/">linkedin.com/in/tanakachingonzo</a><br />
-      </p>
-    </div>
-    <div class="rss">
-      <a href="http://tanaka.co.zw/resume.pdf">
-        <img src="/images/rss.png" alt="Download Tanaka Chingonzo's resume" />
-      </a>
-    </div>
-  </div>
-</div>
-
-<!-- <a href="http://github.com/mojombo"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" /></a> -->
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83940835-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-83940835-1');
-</script>
-
+  {% include footer.html %}
+  {% include javascripts.html %}
 
 </body>
+
 </html>

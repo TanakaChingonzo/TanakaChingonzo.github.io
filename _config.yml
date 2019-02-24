@@ -1,0 +1,72 @@
+#-------------------------------
+# General Site Settings
+
+title: Tanaka Chingonzo
+description: Tanaka Chingonzo # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+#-------------------------------
+# About Section
+author-name:   Tanaka Chingonzo
+author-avatar: 09.jpg
+
+
+#-------------------------------
+# Contact links
+facebook:  https://facebook.com/tanaka.ching # Add your Facebook handle
+twitter:   https://twitter.com/nditanaka # Add your Facebook handle
+instagram: https://www.instagram.com/nditanaka # Add your Facebook handle
+pinterest: https://www.pinterest.com/tanakachingonzo # Add your Facebook handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: tanakachingonzo # Add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: UA-83940835-1 # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - http://eepurl.com/gimyGj
+
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+permalink: ':title/'
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 7
+paginate_path: "/page/:num"
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+#-------------------------------
+# Exclude from processing.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

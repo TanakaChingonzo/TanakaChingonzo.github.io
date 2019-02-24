@@ -7,7 +7,7 @@ description: "I recently read a paper on an some obscure thing called “Infinit
 categories: [infinite ethics]
 comments: true
 tags: [ethics, science, fascinating]
-published: false
+published: true
 ---
 ![The weight of kindness](https://cdn-images-1.medium.com/max/800/1*ceErosd6C4CgPAZSgbt73g.jpeg)
 

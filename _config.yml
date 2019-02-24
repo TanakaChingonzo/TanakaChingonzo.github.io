@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Tanaka Chingonzo
-description: Tanaka Chingonzo # this means to ignore newlines until "baseurl:"
+description: Blogging about technology, software engineering, digital humanities and data # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

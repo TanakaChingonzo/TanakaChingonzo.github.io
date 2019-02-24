@@ -7,7 +7,7 @@ description: "Do you ever look out your window at the night sky and feel a yearn
 categories: [poetry]
 comments: true
 tags: [poetry]
-published: false
+published: true
 ---
 
 Do you ever look out your window at the night sky and feel a yearning to be elsewhere? A deep need to be somewhere else- somewhere you've never been. Do you ever look at the stars and watching them twinkle in the darkness of eternity, wonder what is out there in the vastness of space? What lies beyond what our eyes can see?

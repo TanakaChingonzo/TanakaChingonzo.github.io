@@ -8,7 +8,7 @@ description: "We live and we die, and perhaps though we forget this in adulthood
 categories: [poetry]
 comments: true
 tags: [poetry]
-published: false
+published: true
 ---
 
 ![The Miracle of life- Tanaka Chingonzo blog](https://cdn-images-1.medium.com/max/800/1*hK0LXs3O7TuyMGCBnua5Lw.jpeg)

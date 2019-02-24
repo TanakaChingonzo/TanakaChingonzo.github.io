@@ -9,7 +9,7 @@ description: "The rain fell as though the skies had been pregnant and their wate
 categories: [poetry]
 comments: true
 tags: [poetry]
-published: false
+published: true
 ---
 
 The rain fell as though the skies had been pregnant and their waters had broken. Literally. We had been waiting for the rain for the last year, but as it fell then, we thought it would never stop and we slowly began to find ourselves for the dry, hot days we had grown so accustomed to. Ungrateful? Perhaps.

@@ -4,8 +4,8 @@ lang: en
 ref: tanaka-chingonzo-2017-inretrospect-my-key-learnings
 title: 2017 in retrospect
 description: "The water is thickest while we’re in it. The path bumpiest while we walk it."
-categories: [hello 20]
-tags: [poetry, hope, fascinating]
+categories: [birthday]
+tags: [birthday, hope]
 comments: true
 ---
 

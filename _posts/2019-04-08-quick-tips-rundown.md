@@ -7,7 +7,7 @@ description: I will flesh out this post more as I get time.
 categories: [journal]
 comments: true
 tags: [thoughts, journal]
-published: true
+published: false
 image: 
 ---
 

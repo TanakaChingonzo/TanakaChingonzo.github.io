@@ -12,8 +12,8 @@ tags: [information, zimbabwe, africa, data]
 
 # WhatsApp, is by far the most popular internet app in Zimbabwe
 
-![](/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg)
-<meta property="og:image" content="http://tanaka.co.zw/assets/images/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg">
+![](/assets/img/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg)
+<meta property="og:image" content="http://tanaka.co.zw/assets/img/posts/whatsapp-is-by-far-the-most-popular-internet-app-in-zimbabwe.jpg">
 
 How do you really pay for your apps?<br>1. Your personal data.<br> 2. Revenue lost to governments and local firms.<br> 3. Subscriptions and impulsive in-app purchases.
 

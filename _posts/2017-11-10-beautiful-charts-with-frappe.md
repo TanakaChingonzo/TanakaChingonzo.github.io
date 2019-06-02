@@ -10,7 +10,7 @@ tags: [charts, javascript, science, data, information]
 comments: true
 ---
 
-![](/assets/images/posts/beautiful-charts-with-frappe.gif)
+![](/assets/img/posts/beautiful-charts-with-frappe.gif)
 
 ## Frappé Charts
 

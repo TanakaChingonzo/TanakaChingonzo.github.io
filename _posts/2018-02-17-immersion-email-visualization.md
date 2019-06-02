@@ -11,7 +11,7 @@ pinned: true
 {{ page.title }}
 ================
 
-![](http://tanaka.co.zw/assets/images/posts/immersionemail.png)
+![](http://tanaka.co.zw/assets/img/posts/immersionemail.png)
 
 [Immersion](https://immersion.media.mit.edu/), MIT Media Lab released a tool a year or two ago that allows people to analyze their own email metadata. Called Immersion, it scrapes a user's Gmail/Outlook/ Yahoo account looking only at the metadata (From, To, Cc and Timestamp fields of the emails) to present an overview of your network.
 

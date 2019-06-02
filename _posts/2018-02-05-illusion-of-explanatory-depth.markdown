@@ -11,7 +11,7 @@ pinned: true
 {{ page.title }}
 ================
 
-![](http://tanaka.co.zw/assets/images/posts/39-waterfall.gif)
+![](http://tanaka.co.zw/assets/img/posts/39-waterfall.gif)
 
 <meta property="og:image" content="https://cdn.vox-cdn.com/thumbor/zfk_Cq8KPkp9QKK49NYdJRfA3OM=/0x0:1024x683/1200x800/filters:focal(523x306:685x468/cdn.vox-cdn.com/uploads/chorus_image/image/53489463/shutterstock_329644514_1024.0.jpg">
 
@@ -52,7 +52,7 @@ Rozenblit and Keil initially demonstrated the IOED through multi-phase studies. 
     Of course, the IOED extends well beyond artifacts, to how we think about scientific fields, mental illnesses,
      economic markets and virtually anything we are capable of (mis)understanding.
 
-![](http://tanaka.co.zw/assets/images/posts/brain.png)
+![](http://tanaka.co.zw/assets/img/posts/brain.png)
  *Brain Traps* by [Liza Otchenashenko](https://dribbble.com/shots/3550062-Brain-Traps)
 
 At present, the IOED is profoundly pervasive given that we have infinite access to information, but consume information in a largely superficial fashion. A 2014 survey found that approximately six in ten Americans read news headlines and nothing more. Major geopolitical issues from civil wars in the Middle East to the latest climate change research advances are distilled into tweets, viral videos, memes, “explainer” websites, soundbites on comedy news shows, and daily e-newsletters that get inadvertently re-routed to the spam folder. We consume knowledge widely, but not deeply.

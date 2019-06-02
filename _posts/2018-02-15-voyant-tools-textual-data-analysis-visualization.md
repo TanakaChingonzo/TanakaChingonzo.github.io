@@ -12,7 +12,7 @@ pinned: true
 {{ page.title }}
 ================
 
-![](http://tanaka.co.zw//assets/images/posts/Voyant-Tools.png)
+![](http://tanaka.co.zw//assets/img/posts/Voyant-Tools.png)
 
 [Voyant Tools](http://voyant-tools.org/) is one of my favorite text analysis tools because it is fast and easy to use, even for people who have no background in text analysis. Although Voyant offers a lot of options—which can be overwhelming—the interface presents basic results that any user can easily customize. The results of Voyant’s analysis can be downloaded as visualizations or in tab-separated or JSON data formats, and Voyant also generates embed codes for its tools (which I’m using for this blog post), as well as citations for specific analyses. This post will cover basic Voyant functions, including inputting texts for analysis, working with and understanding basic Voyant tools, and downloading data.
 

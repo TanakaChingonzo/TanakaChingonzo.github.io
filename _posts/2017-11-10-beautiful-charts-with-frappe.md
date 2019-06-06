@@ -10,8 +10,6 @@ tags: [charts, javascript, science, data, information]
 comments: true
 ---
 
-![](/assets/img/posts/beautiful-charts-with-frappe.gif)
-
 ## Frappé Charts
 
 GitHub-inspired simple and modern charts for the web with zero dependencies.

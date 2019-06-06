@@ -8,9 +8,6 @@ comments: true
 categories: [philosophy]
 pinned: true
 ---
-{{ page.title }}
-================
-
 ![](https://cdn.dribbble.com/users/49803/screenshots/1982200/solareclipse.gif)
 
 No one really knows how the most advanced algorithms do what they do. That could be a problem.

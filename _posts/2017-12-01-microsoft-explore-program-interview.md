@@ -9,7 +9,6 @@ categories: [internship interview]
 pinned: true
 published: true
 ---
-![At Microsoft Interviewing for the Explorer program in my freshman year](/assets/img/posts/microsoft-picture.jpg)
 
 Last November, I had the privilege of spending three days at Microsoft in Redmond, Seattle, interviewing as a candidate for their Explorer program. The Microsoft Explorer program is a 12-week paid summer internship where interns can explore software engineering at Microsoft in their freshman or sophomore years. Groups of two to three interns are assigned a team and an impactful summer project. 
 

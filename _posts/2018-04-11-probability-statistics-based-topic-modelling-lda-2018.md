@@ -8,8 +8,6 @@ comments: true
 categories: [information]
 pinned: true
 ---
-{{ page.title }}
-================
 ![David Mimno LDA topic modelling](https://databricks.com/wp-content/uploads/2015/03/20newsgroups.png)
 
 [David Mimno](http://www.mimno.org/)'s LDA topic modelling process uses probability statistics to divide a corpus into groups of words to determine what the topics/ themes of the constituent words of the corpus are. The system works by doing this continuously, over and over again, choosing a word, and then comparing it to all the words in each category, and determining which category the word best fits into. After enough iterations, all the words are grouped in the correct themes and they no longer need to be moved from one category to another.

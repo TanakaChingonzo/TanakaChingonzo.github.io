@@ -12,8 +12,6 @@ pinned: true
 {{ page.title }}
 ================
 
-![](http://tanaka.co.zw//assets/img/posts/Voyant-Tools.png)
-
 [Voyant Tools](http://voyant-tools.org/) is one of my favorite text analysis tools because it is fast and easy to use, even for people who have no background in text analysis. Although Voyant offers a lot of options—which can be overwhelming—the interface presents basic results that any user can easily customize. The results of Voyant’s analysis can be downloaded as visualizations or in tab-separated or JSON data formats, and Voyant also generates embed codes for its tools (which I’m using for this blog post), as well as citations for specific analyses. This post will cover basic Voyant functions, including inputting texts for analysis, working with and understanding basic Voyant tools, and downloading data.
 
 Voyant’s tagline is “see through your text.” Computer-based text analysis is a helpful supplement to close reading: for example, it can provide quantitative confirmation of patterns that you notice in a text, allow you to quickly locate interesting words or phrases within a large corpus, and help to contextualize trends in word usage. Using a tool like Voyant at the beginning of a project may also help you to find interesting trends in a text that you’d like to research further.

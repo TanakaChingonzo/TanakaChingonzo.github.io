@@ -33,30 +33,14 @@ As someone who is passionate about Computer Science, and having always had an in
 This article has left me most thoughtful about my present and future. It and other readings I will cite at the bottom examine an issue of interest to me, and perhaps to all of us in many ways. Share your thoughts about it with me.
 
 
-
-<figure class="sidebar">
-  <img
-  	srcset="{{ site.url }}/assets/img/posts/Homo-Deus-Yuval-Harari.jpg"
-    sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)"
-  	src="{{ site.url }}assets/img/posts/Homo-Deus-Yuval-Harari.jpg"
-  	alt="Yuval Noah Harari- Homo Deus">
-  <figcaption>A Brief History of Tomorrow.</figcaption>
-</figure>
-
 In May of 1997, a boy in Hong Kong is diagnosed with a new form of [influenza- H5](https://www.cdc.gov/flu/avianflu/h5/index.htm)- he was dead within days. Within months, the Chinese government had ordered the slaughter of 1.2 million birds to curb the spread of the outbreak.
 Epidemics and pandemics have historically been the greatest existential dangers our species has faced. We spend trillions on defense annualy, but [war and violence](https://ourworldindata.org/slides/war-and-violence/#/title-slide) have really killed just 167 million to 188 million in the last century. That is a drop in the ocean compared to epidemics and disease.
-
-![The History of Conflict]({{ site.url }}/assets/img/posts/democracy.png)
-<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;" href="https://ourworldindata.org/slides/war-and-violence/#/title-slide" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from James Hammond"><span style="display:inline-block;padding:2px 3px;"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;" viewBox="0 0 32 32"><title></title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px;">View full infographic here</span></a>
 
 ## And more and more countries are continuing to become democratic.
 
 <a ref="https://www.theguardian.com/books/2017/oct/02/future-of-war-lawrence-freedman-review" target="_blank">The Future of War: A History by Lawrence Freedman – review</a>
 
 War will continue to kill fewer and fewer people.
-
-![The Future of Conflict]({{ site.url }}/assets/img/posts/violence.png)
-<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;" href="https://ourworldindata.org/slides/war-and-violence/#/title-slide" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from James Hammond"><span style="display:inline-block;padding:2px 3px;"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;" viewBox="0 0 32 32"><title></title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px;">View full infographic here</span></a>
 
 In contrast, disease continues to be our greatest existential threat.
 

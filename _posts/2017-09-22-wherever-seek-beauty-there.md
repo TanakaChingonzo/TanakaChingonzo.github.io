@@ -3,7 +3,7 @@ layout: post
 lang: en
 ref: wherever-seek-beauty-there
 title: Wherever you are, seek beauty there.
-image: true
+image: wherever-seek-beauty-there.jpg
 medium: ''
 description: "Find it in yourself and in everyone else. Take it into your heart, and keep it there and in the cold despair that touches you when you fail, may you learn to keep yourself warm."
 categories: [poetry]

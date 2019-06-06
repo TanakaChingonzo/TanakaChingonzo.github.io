@@ -14,21 +14,21 @@ image: james-baldwin-audre-lorde.jpeg
 
 <strong>JB</strong>: <mark>One of the dangers of being a Black American is being schizophrenic, and I mean ‘schizophrenic’ in the most literal sense. To be a Black American is in some ways to be born with the desire to be white.</mark> It’s a part of the price you pay for being born here, and it affects every Black person. We can go back to Vietnam, we can go back to Korea. We can go back for that matter to the First World War. We can go back to W.E.B. Du Bois – an honorable and beautiful man – who campaigned to persuade Black people to fight in the First World War, saying that if we fight in this war to save this country, our right to citizenship can never, never again be questioned – and who can blame him? He really meant it, and if I’d been there at that moment I would have said so too perhaps. Du Bois believed in the American dream. So did Martin. So did Malcolm. So do I. So do you. That’s why we’re sitting here.
 
-<strong>AL</strong>: I don’t, honey. I’m sorry, I just can’t let that go past. Deep, deep, deep down I know that dream was never mine. And I wept and I cried and I fought and I stormed, but I just knew it. I was Black. I was female. And I was out – out – by any construct wherever the power lay. So if I had to claw myself insane, if I lived I was going to have to do it alone. Nobody was dreaming about me. Nobody was even studying me except as something to wipe out.
+<strong>AL</strong>: I don’t, honey. I’m sorry, I just can’t let that go past. Deep, deep, deep down I know that dream was never mine. And I wept and I cried and I fought and I stormed, but I just knew it. I was Black. I was female. And I was out – out – by any construct wherever the power lay. So if I had to claw myself insane, if I lived I was going to have to do it alone. <mark>Nobody was dreaming about me. Nobody was even studying me except as something to wipe out.</mark>
 
-<strong>JB</strong>: You are saying you do not exist in the American dream except as a nightmare.
+<strong>JB</strong>: <mark>You are saying you do not exist in the American dream except as a nightmare.</mark>
 
 <strong>AL</strong>: That’s right. And I knew it every time I opened Jet, too. I knew that every time I opened a Kotex box. I knew that every time I went to school. I knew that every time I opened a prayer book. I knew it, I just knew it.
 
-<strong>JB</strong>: It is difficult to be born in a place where you are despised and also promised that with endeavor – with this, with that, you know – you can accomplish the impossible. You’re trying to deal with the man, the woman, the child – the child of whichever sex – and he or she and your man or your woman has got to deal with the 24-hour-a-day facts of life in this country. We’re not going to fly off someplace else, you know, we’d better get through whatever that day is and still have each other and still raise children – somehow manage all of that. And this is 24 hours of every day, and you’re surrounded by all of the paraphernalia of safety: If you can strike this bargain here. If you can make sure your armpits are odorless. Curl your hair. Be impeccable. Be all the things that the American public says you should do, right? And you do all those things – and nothing happens really. And what is much worse than that, nothing happens to your child either.
+<strong>JB</strong>: <mark>It is difficult to be born in a place where you are despised and also promised that with endeavor – with this, with that, you know – you can accomplish the impossible.</mark> You’re trying to deal with the man, the woman, the child – the child of whichever sex – and he or she and your man or your woman has got to deal with the 24-hour-a-day facts of life in this country. We’re not going to fly off someplace else, you know, we’d better get through whatever that day is and still have each other and still raise children – somehow manage all of that. And this is 24 hours of every day, and you’re surrounded by all of the paraphernalia of safety: If you can strike this bargain here. If you can make sure your armpits are odorless. Curl your hair. Be impeccable. Be all the things that the American public says you should do, right? And you do all those things – and nothing happens really. And what is much worse than that, nothing happens to your child either.
 
-<strong>AL</strong>: Even worse than the nightmare is the blank. And Black women are the blank. I don’t want to break all this down, then have to stop at the wall of male/female division. When we admit and deal with difference; when we deal with the deep bitterness; when we deal with the horror of even our different nightmares; when we turn them and look at them, it’s like looking at death: hard but possible. If you look at it directly without embracing it, then there is much less that you can ever be made to fear.
+<strong>AL</strong>: Even worse than the nightmare is the blank. And Black women are the blank. I don’t want to break all this down, then have to stop at the wall of male/female division. <mark>When we admit and deal with difference; when we deal with the deep bitterness; when we deal with the horror of even our different nightmares; when we turn them and look at them, it’s like looking at death: hard but possible.</mark> If you look at it directly without embracing it, then there is much less that you can ever be made to fear.
 
 <strong>JB</strong>: I agree.
 
 <strong>AL</strong>: Well, in the same way when we look at our differences and not allow ourselves to be divided, when we own them and are not divided by them, that is when we will be able to move on. But we haven’t reached square one yet.
 
-<strong>JB</strong>: I’m not sure of that. I think the Black sense of male and female is much more sophisticated than the western idea. I think that Black men and women are much less easily thrown by the question of gender or sexual preference – all that jazz. At least that is true of my experience.
+<strong>JB</strong>: I’m not sure of that. <mark>I think the Black sense of male and female is much more sophisticated than the western idea.</mark> I think that Black men and women are much less easily thrown by the question of gender or sexual preference – all that jazz. At least that is true of my experience.
 
 <strong>AL</strong>: Yea, but let’s remove ourselves from merely a reactive position – i.e., Black men and women reacting to what’s out there. While we are reacting to what’s out there, we’re also dealing between ourselves – and between ourselves there are power differences that come down…
 
@@ -38,7 +38,7 @@ image: james-baldwin-audre-lorde.jpeg
 
 <strong>JB</strong>: Differences and samenesses.
 
-<strong>AL</strong>: Differences and samenesses. But in a crunch, when all our asses are in the sling, it looks like it is easier to deal with the samenesses. When we deal with sameness only, we develop weapons that we use against each other when the differences become apparent. And we wipe each other out – Black men and women can wipe each other out – far more effectively than outsiders do.
+<strong>AL</strong>: Differences and samenesses. But in a crunch, when all our asses are in the sling, it looks like it is easier to deal with the samenesses. When we deal with sameness only, we develop weapons that we use against each other when the differences become apparent. And we wipe each other out – <mark>Black men and women can wipe each other out – far more effectively than outsiders do.</mark>
 
 <strong>JB</strong>: That’s true enough.
 
@@ -48,7 +48,7 @@ image: james-baldwin-audre-lorde.jpeg
 
 <strong>AL</strong>: We need to acknowledge those power differences between us and see where they lead us. An enormous amount of energy is being taken up with either denying the power differences between Black men and women or fighting over power differences between Black men and women or killing each other off behind them. I’m talking about Black women’s blood flowing in the streets – and how do we get a 14-year-old boy to know I am not the legitimate target of his fury? The boot is on both of our necks. Let’s talk about getting it off. My blood will not wash out your horror. That’s what I’m interested in getting across to adolescent Black boys.
 
-There are little Black girl children having babies. But this is not an immaculate conception, so we’ve got little Black boys who are making babies, too. We have little Black children making little Black children. I want to deal with that so our kids will not have to repeat that waste of themselves.
+<mark>There are little Black girl children having babies. But this is not an immaculate conception, so we’ve got little Black boys who are making babies, too. We have little Black children making little Black children.</mark> I want to deal with that so our kids will not have to repeat that waste of themselves.
 
 <strong>JB</strong>: I hear you – but let me backtrack, for better or worse. You know, for whatever reason and whether it’s wrong or right, for generations men have come into the world, either instinctively knowing or believing or being taught that since they were men they in one way or another had to be responsible for the women and children, which means the universe.
 
@@ -104,7 +104,7 @@ There are little Black girl children having babies. But this is not an immaculat
 
 <strong>JB</strong>: Yes, yes…
 
-<strong>AL</strong>: And the fury that is engendered in the denial of that vulnerability – we have to break through it because there are children growing up believe that it is legitimate to shed female blood, right? I have to break through it because those boys really think that the sign of their masculinity is impregnating a sixth grader. I have to break through it because of that little sixth-grade girl who believes that the only thing in life she has is what lies between her legs…
+<strong>AL</strong>: And the fury that is engendered in the denial of that vulnerability – we have to break through it because there are children growing up believe that it is legitimate to shed female blood, right? <mark>I have to break through it because those boys really think that the sign of their masculinity is impregnating a sixth grader. I have to break through it because of that little sixth-grade girl who believes that the only thing in life she has is what lies between her legs…</mark>mark>
 
 <strong>JB</strong>: Yeah, but we’re not talking now about men and women. We’re talking about a particular society. We’re talking about a particular time and place. You were talking about the shedding of Black blood in the streets, but I don’t understand –
 
@@ -120,11 +120,11 @@ There are little Black girl children having babies. But this is not an immaculat
 
 <strong>JB</strong>: I agree with you. I see exactly what you mean and it hurts me at least as much as it hurts you. But how to maneuver oneself past this point – how not to lose him or her who may be in what is in effect occupied territory. That is really what the Black situation is in this country. For the ghetto, all that is lacking is barbed wire, and when you pen people up like animals, the intention is to debase them and you have debased them.
 
-<strong>AL</strong>: Jimmy, we don’t have an argument
+<strong>AL</strong>: <mark>Jimmy, we don’t have an argument
 
 <strong>JB</strong>: I know we don’t.
 
-<strong>AL</strong>: But what we do have is a real disagreement about your responsibility not just to me but to my son and to our boys. Your responsibility to him is to get across to him in a way that I never will be able to because he did not come out of my body and has another relationship to me. Your relationship to him as his farther is to tell him I’m not a fit target for his fury.
+<strong>AL</strong>: But what we do have is a real disagreement about your responsibility not just to me but to my son and to our boys.</mark> Your responsibility to him is to get across to him in a way that I never will be able to because he did not come out of my body and has another relationship to me. Your relationship to him as his farther is to tell him I’m not a fit target for his fury.
 
 <strong>JB</strong>: Okay, okay…
 
@@ -142,7 +142,7 @@ There are little Black girl children having babies. But this is not an immaculat
 
 <strong>AL</strong>: Yes, exactly so. And I’m interested in seeing that we do not accept terms that will help us destroy each other. And I think one of the ways in which we destroy each other is by being programmed to knee-jerk on our differences. Knee-jerk on sex. Knee-jerk on sexuality…
 
-<strong>JB</strong>: I don’t quite know what to do about it, but I agree with you. And I understand exactly what you mean. You’re quite right. We get confused with genders – you know, what the western notion of woman is, which is not necessarily what a woman is at all. It’s certainly not the African notion of what a woman is. Or even the European notion of what a woman is. And there’s certainly not standard of masculinity in this country which anybody can respect. Part of the horror of being a Black American is being trapped into being an imitation of an imitation.
+<strong>JB</strong>: I don’t quite know what to do about it, but I agree with you. And I understand exactly what you mean. You’re quite right. We get confused with genders – you know, what the western notion of woman is, which is not necessarily what a woman is at all. It’s certainly not the African notion of what a woman is. Or even the European notion of what a woman is. And there’s certainly not standard of masculinity in this country which anybody can respect. <mark>Part of the horror of being a Black American is being trapped into being an imitation of an imitation.</mark>
 
 <strong>AL</strong>: I can’t tell you what I wished you would be doing. I can’t redefine masculinity. I can’t redefine Black masculinity certainly. I am in the business of redefining Black womanness. You are in the business of redefining Black masculinity. And I’m saying, ‘Hey, please go on doing it,’ because I don’t know how much longer I can hold this fort, and I really feel that Black women are holding it and we’re beginning to hold it in ways that are making this dialogue less possible.
 

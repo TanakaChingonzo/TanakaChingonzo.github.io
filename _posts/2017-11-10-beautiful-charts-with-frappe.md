@@ -6,7 +6,7 @@ title: Beautiful Charts with Frappe Charts
 medium: ''
 description: "I found this really cool tool online today under Github's trending repositories. It is called Frappe Charts. "
 categories: [cool tools]
-tags: [charts, javascript, science, data, information]
+tags: [digital-humanities]
 comments: true
 ---
 

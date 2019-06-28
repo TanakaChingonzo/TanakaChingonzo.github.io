@@ -3,7 +3,7 @@ layout: post
 title: Attending Twitter's immersion program for first year students
 description: I was one of 30 attendees selected out of 2000+ applicants to attend a five-day immersion program for first-year computer science students focused on professional and technical development including coding, networking, personal branding, resume writing,interview skills. It was awesome!
 modified: 2018-05-06
-tags: [information, data]
+tags: [coding, conferences]
 comments: true
 categories: [information]
 pinned: true

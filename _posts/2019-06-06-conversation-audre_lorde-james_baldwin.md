@@ -6,7 +6,7 @@ title: A conversation Between Audre Lorde and James Baldwin
 description: James Baldwin and Audre Lorde in a conversation about the American Dream, race, and gender dynamics.
 categories: [article, diaspora]
 comments: true
-tags: [thoughts, journal, diaspora, race]
+tags: [quote, diaspora]
 published: true
 image: james-baldwin-audre-lorde.jpeg
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Interviewing for Microsoft's Explore Internship program as a Freshman
 description: "I had the privilege of spending three days with Microsoft interviewing as a candidate for their Explorer program. The Microsoft Explorer program is a 12-week paid summer internship where interns can explore software engineering at Microsoft in their freshman or sophomore years. Groups of two to three interns are assigned a team and an impactful summer project."
 modified: 2017-12-01
-tags: [software-engineering, data]
+tags: [coding, conferences]
 comments: true
 categories: [internship interview]
 pinned: true

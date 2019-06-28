@@ -3,7 +3,7 @@ layout: post
 title: The illusion of Explanatory Depth
 description: "Often, those of us who know the least about things are the same ones who over-estimate our understanding of everything."
 modified: 2018-02-05
-tags: [illusion, explanatory depth, science, fascinating]
+tags: [journal]
 comments: true
 categories: [philosophy]
 pinned: true

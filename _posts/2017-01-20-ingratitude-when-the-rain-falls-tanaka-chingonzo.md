@@ -8,7 +8,7 @@ medium: ''
 description: "The rain fell as though the skies had been pregnant and their waters had broken. Literally."
 categories: [poetry]
 comments: true
-tags: [poetry]
+tags: [poetry, journal]
 published: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Interesting charts that visualize the world today in data
 description: "With an additional 1.3 billion people on the continent by 2050, Africa will account for the highest population growth spurts compared to other continents. Chinese consumers are more trusting about their data. A dataset resulting from a Mechanical Turk, procured 50,000 responses through a Mechanical Turk asking people what had made them the most happy in the past three months."
 modified: 2018-03-20
-tags: [information, charts, data]
+tags: [digital-humanities]
 comments: true
 categories: [information]
 pinned: true

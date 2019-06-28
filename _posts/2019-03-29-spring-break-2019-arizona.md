@@ -4,9 +4,9 @@ lang: en
 ref: spring-break-2019-arizona
 title: Spring Break in Arizona 
 description: We spent spring break of this year in Arizona. What an adventure that was! Mooning, camping under the moon, hiking, and many thrift shop adventures.
-categories: [journal, conferences]
+categories: [journal]
 comments: true
-tags: [thoughts, journal, spring-break]
+tags: [journal, fun]
 published: true
 image: canyon_blue.jpg
 ---

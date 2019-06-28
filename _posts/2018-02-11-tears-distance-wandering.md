@@ -3,7 +3,7 @@ layout: post
 title: Sunday, 11 February. Distance. Displacement.
 description: "How far I have come. Distance. How little I have moved? Displacement."
 modified: 2018-02-11
-tags: [journal]
+tags: [journal, diaspora]
 comments: true
 categories: [journal]
 pinned: true

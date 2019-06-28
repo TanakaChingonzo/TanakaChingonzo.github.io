@@ -3,7 +3,7 @@ layout: post
 title: What is wrong with academic research?
 description: "You and your university have to pay thousands of dollars every year to read research you fund and they create. The public can't access the research it funds. In what kind of world is this right?"
 modified: 2018-03-05
-tags: [information, ethics, digital humanities]
+tags: [ethics, digital-humanities]
 comments: true
 categories: [information]
 pinned: true

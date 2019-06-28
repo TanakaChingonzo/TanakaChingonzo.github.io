@@ -6,7 +6,7 @@ title: Hosting the Undergraduate Network for Research in the Humanities 2019 at 
 description: Hosting UNRH 2019 at Wooster was one of the most fulfulling things I have done in some time. Here are some of my reflections on it.
 categories: [journal, conferences]
 comments: true
-tags: [thoughts, journal, unrh]
+tags: [journal, unrh, digital-humanities, conferences]
 published: true
 image: unrh.jpg
 ---

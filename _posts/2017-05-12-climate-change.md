@@ -8,7 +8,7 @@ medium: 'erudite/how-can-young-people-speed-up-the-response-to-climate-change-b3
 description: "Climate change is a unique problem in many ways. Unlike any other challenge humankind has previously faced, its responsibility is not shared equally across the world, and its consequences will be felt in the same way- unequally but devastatingly. "
 categories: [future]
 comments: true
-tags: [science, climate]
+tags: [science]
 ---
 
 Climate change is a unique problem in many ways. Unlike any other challenge humankind has previously faced, its responsibility is not shared equally across the world, and its consequences will be felt in the same way- unequally but devastatingly. Climate change is already beginning to have far-reaching consequences whose full weight cannot be immediately seen or felt. That is its greatest danger- that it affords us room to procrastinate our response to it.

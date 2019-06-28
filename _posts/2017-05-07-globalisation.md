@@ -8,6 +8,7 @@ medium: ''
 description: "Globalization has resulted in the upheaval of traditional structures and cultures and continues to foster the empowerment of Zimbabwean people and to push them up the value chain."
 categories: [future]
 comments: true
+tags: [science]
 ---
 
 This article was written in response to a prompt by the [World Economic Forum's](https://www.weforum.org/) [Global Shapers](https://toplink.weforum.org/users/tanaka-chingonzo) Monthly prompt to the question: Globalization: Has it been a blessing or a curse in your community?

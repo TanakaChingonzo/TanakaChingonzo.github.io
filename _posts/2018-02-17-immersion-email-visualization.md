@@ -3,7 +3,7 @@ layout: post
 title: Immersion Email Network Analysis and Visualization
 description: "Using Immersion to find patterns in emails and networks"
 modified: 2018-02-17
-tags: [data, charts]
+tags: [digital-humanities]
 comments: true
 categories: [cool tools]
 pinned: true

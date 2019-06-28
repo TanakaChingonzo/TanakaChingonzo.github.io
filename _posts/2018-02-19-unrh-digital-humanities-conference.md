@@ -3,7 +3,7 @@ layout: post
 title: Undergraduate Network for Research in the Humanities Conference 2018
 description: "Using digital humanities tools to ask and answer humanistic questions."
 modified: 2018-02-19
-tags: [UNRH, digital humanities]
+tags: [unrh, digital-humanities, conferences]
 comments: true
 categories: [digital humanities]
 pinned: true

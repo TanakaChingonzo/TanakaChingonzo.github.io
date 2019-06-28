@@ -6,7 +6,7 @@ title: Data, AI, Democracy, Access and a better world.
 medium: ''
 description: "According to The Economist, in 2017, data is the new oil."
 categories: [infinite ethics]
-tags: [infinity, ethics, science, data, information]
+tags: [digital-humanities, science]
 comments: true
 ---
 <figure class="sidebar">

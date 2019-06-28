@@ -3,16 +3,12 @@ layout: post
 title: Who Breaks a Butterfly Upon a Wheel
 description: "And because the past is never dead; it is not even past. The Sense of an Ending, and the untimely death of Aaron Swartz. Here is suicide as a philosophical question: does suicide make sense as an answer to suffering?"
 modified: 2018-02-08
-tags: [death, ethics, poetry, fascinating]
+tags: [poetry, journal]
 comments: true
 categories: [philosophy]
 pinned: true
+image: butterfly.gif
 ---
-{{ page.title }}
-================
-
-![Butterfly - Slow Motion
-by Aleksey Vasiliev for Awesomed](https://cdn.dribbble.com/users/1166255/screenshots/4105916/dribbble-1.gif)
 
 <meta property="og:image" content="https://cdn.dribbble.com/users/1166255/screenshots/4105916/dribbble-1.gif">
 

@@ -3,7 +3,7 @@ layout: post
 title: A short intro to text mining examples and algorithms in python
 description: "LDA topic modelling process uses probability statistics to divide a corpus into groups of words to determine what the topics/ themes of the constituent words of the corpus are. The system works by doing this continuously, over and over again, choosing a word, and then comparing it to all the words in each category, and determining which category the word best fits into. After enough iterations, all the words are grouped in the correct themes and they no longer need to be moved from one category to another."
 modified: 2018-04-11
-tags: [information, data]
+tags: [digital-humanities]
 comments: true
 categories: [information]
 pinned: true

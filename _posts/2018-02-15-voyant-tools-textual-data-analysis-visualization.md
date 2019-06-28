@@ -4,7 +4,7 @@ title: Voyant Tools Textual
  Data Analysis and Visualization
 description: "Using Voyant tools to find patterns in Shakespeare and Jane Austen"
 modified: 2018-02-15
-tags: [data, charts, ]
+tags: [digital-humanities]
 comments: true
 categories: [cool tools]
 pinned: true

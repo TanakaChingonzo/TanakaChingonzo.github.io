@@ -3,7 +3,7 @@ layout: post
 title: Using Palladio and Fusion tables to visualize violence in America
 description: Google fusion tables intuitively used the address label to map the incidents to physical address locations within google maps. A photograph of such visualizations from within fusion tables is below.
 modified: 2018-05-06
-tags: [information, data]
+tags: [digital-humanities]
 comments: true
 categories: [information]
 pinned: true
